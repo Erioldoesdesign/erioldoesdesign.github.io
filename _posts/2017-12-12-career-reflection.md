@@ -12,7 +12,7 @@ Work is a huge part of my life, I adore the work I do and I know I'm happiest wh
 
 However, I asked myself this question:
 
-"What are the things that I've done that I'm most proud of?"
+**"What are the things that I've done that I'm most proud of?"**
 
 'Being proud' is a difficult term for me, I suspect this is true for most women/femme-folk. Modesty and humbleness is a trait that's rather ingrained and encouraged. Balancing this instinct to be humble, support and give praise to others while still acknowledging your own contributions and achievements can feel like a plate-spinning exercise. It's often easier to pass the praise onto other people than say "Yes, thank you I did an excellent job with this task/project"
 
@@ -26,7 +26,9 @@ After being involved I realised that being active in my local community (where e
 
 Hey, check out my certificates for 'Local hero' and 'Service to the citizens of Cardiff' awards that I still keep:
 
- 
+[![Certificate Local Hero](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/local-hero.jpeg?raw=true)
+
+[![Certificate service to citizen of Cardiff](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/cardiff-volunteer.jpeg?raw=true)
 
 
 
