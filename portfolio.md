@@ -6,9 +6,9 @@ permalink: /portfolio/
 
 Here you'll find Eriol's design work from over the last 10 years. The run from most recent to oldest in terms of projects.
 
-### [Foss Responders](http://localhost:4000/portfolio/2021/08/01/foss-responders.html)
+### [Foss Responders](https://erioldoesdesign.github.io/portfolio/2021/08/01/foss-responders.html)
 Foss responders is a community-led project to support (FL)OSS technology projects during the Coronavirus (COVID-19) pandemic. 
-[![preview image of foss responders](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/foss-responders-500x150.jpg?raw=true)](http://localhost:4000/portfolio/2021/08/01/foss-responders.html)
+[![preview image of foss responders](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/foss-responders-500x150.jpg?raw=true)](https://erioldoesdesign.github.io/portfolio/2021/08/01/foss-responders.html)
 
 
 ### [Open Design : Designers in Open Source]()
