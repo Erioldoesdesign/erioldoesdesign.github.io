@@ -31,8 +31,6 @@ Hey, check out my certificates for 'Local hero' and 'Service to the citizens of 
 [![Certificate service to citizen of Cardiff](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/cardiff-volunteer.jpeg?raw=true)
 
 
-
-
 4. My most recent work for Bristol Pride and LGBTQ+ spaces in Bristol
 
 After moving back to Bristol, I wanted to find the kind of community projects I enjoyed so much in Cardiff.
@@ -41,9 +39,9 @@ After attending Bristol Pride one year I decided to send an email seeing if they
 
 How beautiful is this award and the banners that me and the team made:
 
+[![Pride Award](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/pride-award.jpeg?raw=true)
 
-
-
+[![Pride Banners](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/pride-banners.jpeg?raw=true)
 
 
 3. Staying in education and completing my masters degree
@@ -54,9 +52,9 @@ It was a long journey. I began the course part-time while working and completed 
 
 Staying positive and making hard decisions in how long to defer, when to pick the course back up and how to finance it solo as opposed to supported by a company were all challenges that I overcame and I'm so proud of the work that I completed and aim to carry on.
 
+[![My final major project for my masters](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/masters-1.jpeg?raw=true)
 
-
-
+[![Leaflet for my dad's funeral](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/funeral-leaflet.png?raw=true)
 
 
 2. Being a carer (and still working)
@@ -67,9 +65,9 @@ Caring is hard, no matter what the circumstances. Your personal choices become h
 
 Despite being difficult I find caring immensely rewarding. Knowing that I was there to emotionally and physically support my father as he died, reminds me of my own fortitude and has gifted me with the understanding that I am resilient and able to get through the most difficult situations and grow.
 
- 
+[![Books on carying for the dying](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/death-books.jpeg?raw=true)
 
-
+[![A game about hospital spaces](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/Dying-game-mum.jpg?raw=true)
 
 
 1. Taking time to understand and build what I want from my career
@@ -95,6 +93,10 @@ I'm taking the time to discover, refine and communicate these things well.
 It's scary, not being employed, trying things out and really analysing what fulfils me in a life where my work, my family and my community are the things I want to do well by, but I'm ready to not be easy to please if it means I'll be happy.
 
 So I'll leave you with two pictures of very happy Eriol's. One speaking about diversity in design at nonbinary.tech conference 2017 and me and my Pride volunteers at 2017's Trans Pride in Bristol:
+
+[![Speaking at a tech event](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/death-books.jpeg?raw=true)
+
+[![Volunteering at Trans Pride](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/trans-pride.jpeg?raw=true)
 
  
 
