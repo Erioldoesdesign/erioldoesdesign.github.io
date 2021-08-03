@@ -5,20 +5,20 @@ permalink: /writing/
 ---
 
 ### Article 1
-[Here's an article about something](http://localhost:4000/2016/05/20/welcome-to-jekyll.html)
+[Here's an article about something]()
 
 
 ### Article 2
-[Here's an article about something](http://localhost:4000/junk/2016/05/20/this-post-demonstrates-post-content-styles.html)
+[Here's an article about something]()
 
 
 ### Article 3
-[Here's an article about something](http://localhost:4000/misc/2016/05/20/super-long-article.html)
+[Here's an article about something]()
 
 
 ### Article 4
-[Here's an article about something](http://localhost:4000/2016/05/20/my-example-post.html)
+[Here's an article about something]()
 
 
 ### Article 5
-[Here's an article about something](http://localhost:4000/misc/2016/05/19/super-short-article.html)
+[Here's an article about something]()
