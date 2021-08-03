@@ -94,7 +94,7 @@ It's scary, not being employed, trying things out and really analysing what fulf
 
 So I'll leave you with two pictures of very happy Eriol's. One speaking about diversity in design at nonbinary.tech conference 2017 and me and my Pride volunteers at 2017's Trans Pride in Bristol:
 
-[![Speaking at a tech event](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/death-books.jpeg?raw=true)
+[![Speaking at a tech event](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/career-reflections.jpeg?raw=true)
 
 [![Volunteering at Trans Pride](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/trans-pride.jpeg?raw=true)
 
