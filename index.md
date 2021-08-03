@@ -8,7 +8,7 @@
 layout: home
 ---
 
-# Hello there, I'm Eriol 🦊
+
 ## I'm a full-stack, Human Rights Centred Designer (HRCD) and PhD researcher from Bristol in the UK 🇬🇧🇪🇺.
 
 I'm currently looking for part-time work (3.5 days a week) as a designer while I research how Designers contribute to Humanitarian Open Source Software at [Open Lab Newcastle](https://openlab.ncl.ac.uk/people/eriol-fox/). You can check out my [portfolio](https://erioldoesdesign.github.io/portfolio/) and [drop me a message](mailto:erioldoesdesign@gmail.com) if you've got a role you'd like to discuss.
