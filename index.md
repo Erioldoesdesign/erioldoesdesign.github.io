@@ -8,6 +8,7 @@
 layout: home
 ---
 
+# Hi there I'm Eriol Fox 🦊
 
 ## I'm a full-stack, Human Rights Centred Designer (HRCD) and PhD researcher from Bristol in the UK 🇬🇧🇪🇺.
 
