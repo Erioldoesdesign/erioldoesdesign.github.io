@@ -36,9 +36,9 @@ As such, I’m interested in how my background may have had a hand in what I do 
 
 And at what cost, to either yourself or the participants?
 
-Complementary to my education background, my experience with abuse and subsequent trauma, has offered me [High Self-Monitoring](), [Hypervigilance]() and a predisposition to and taking on a lot of Emotional Work/Labour. Emotional Labour has typically been categorised and stated in research as ‘women’s’ work but I consider it the work of the oppressed regardless of gender. Not to play down the role that women have played in exposing the inequality of emotional labour in a ‘opposing cis gendered’ dynamic. I recommend reading the Emotional labour masterpost for more detail
+Complementary to my education background, my experience with abuse and subsequent trauma, has offered me [High Self-Monitoring](https://en.wikipedia.org/wiki/Self-monitoring), [Hypervigilance](https://en.wikipedia.org/wiki/Hypervigilance) and a predisposition to and taking on a lot of Emotional Work/Labour. Emotional Labour has typically been categorised and stated in research as ‘women’s’ work but I consider it the work of the oppressed regardless of gender. Not to play down the role that women have played in exposing the inequality of emotional labour in a ‘opposing cis gendered’ dynamic. I recommend [reading the Emotional labour masterpost for more detail](https://drive.google.com/file/d/0B0UUYL6kaNeBTDBRbkJkeUtabEk/view?pref=2&pli=1).
 
-These traits are also sometimes referred to as ‘people pleaser’ personality (also known as Sociotropy). Though I feel a distinction must be made between those individuals that would be met with violence and abuse if they do not please verses those who would not.
+These traits are also sometimes referred to as ‘people pleaser’ personality (also known as [Sociotropy](https://en.wikipedia.org/wiki/Sociotropy)). Though I feel a distinction must be made between those individuals that would be met with violence and abuse if they do not please verses those who would not.
 
 Some of you are probably thinking about the potential usefulness of high empathy skills within user centred work. Sure, it can be very useful to anticipate needs and wants and be ‘tuned’ into others emotions. However, what often isn’t explored is the consequences of this can be, the impact these have, and how this creates an environment where people can vastly over-extend themselves. Depending on the persons background it can range from distressing to catatonic when you misinterpret an emotion or read a situation incorrectly.
 
@@ -60,7 +60,7 @@ In adulthood, as it often does outside of a family setting, I found myself in si
 
 I never believed this was abuse. The word still makes me squirm uncomfortably. To me this was just what families did, mine was just strict, parents overworked, struggling financially with more chips in our shoulders that we must resemble a mountain-scape from a distance.
 
-[![A mountainscape at sunset in dark blues, oranges and yellows.](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/trauma-and-design.jpeg?raw=true)
+[![A mountainscape at sunset in dark blues, oranges and yellows.](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/mountain.jpeg?raw=true)
 
 *A mountainscape at sunset in dark blues, oranges and yellows.*
 
@@ -81,7 +81,7 @@ So paralysed by the fear of not interpreting the need correctly that I briefly b
 
 Another recent example shows how misinterpreting boundaries or limitations can send me into a rather panicked state. I mistakenly believed that I had built a level of trust with a particular project and asked to connect another person, interested in the developments into it. I was met with an incredibly reasonable response asking for caution and an understandable need to constrain the people involved. Yet, my heart races and my skin prickles with dread at the thought of misinterpreting and ‘not doing the right thing’. To most it would be a mistake, easily communicated and corrected, for me it’s that but with an underlying feeling of anticipating violence.
 
-[![Close up illustration of eyes in black pen on a blue and brushed metal background](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/trauma-and-design.jpeg?raw=true)
+[![Close up illustration of eyes in black pen on a blue and brushed metal background](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/eyes-blue.png?raw=true)
 
 *Close up illustration of eyes in black pen on a blue and brushed metal background*
 
