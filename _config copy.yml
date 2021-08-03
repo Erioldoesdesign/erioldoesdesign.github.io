@@ -1,0 +1,62 @@
+title: Eriol Does Design 🦊
+author:
+  name: Eriol Fox
+  email: erioldoesdesign@gmail.com
+description: > # this means to ignore newlines until "show_excerpts:"
+  Copyright @ 2021 Eriol Fox | Eriol Does Design is the portfolio and hub for Eriol's design, research and open source software.
+
+show_excerpts: false # set to true to show excerpts on the homepage
+
+# Minima date format
+# refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
+minima:
+  date_format: "%b %-d, %Y"
+
+  # generate social links in footer
+  social_links:
+    twitter: erioldoesdesign
+    github:  erioldoesdesign
+    # devto: jekyll
+    dribbble: erioldoesdesign
+    # facebook: jekyll
+    # flickr:   jekyll
+    instagram: eriolfox
+    linkedin: eriolfox
+    # pinterest: jekyll
+    # youtube: jekyll
+    youtube_channel: UCZdlFO4kG6MsaZxWJi-1GLQ
+    # youtube_channel_name: Eriol Does Design
+    # telegram: jekyll
+    # googleplus: +jekyll
+    # microdotblog: jekyll
+    # keybase: jekyll
+
+    # Mastodon instances
+    # mastodon:
+    # - username: jekyll
+    #   instance: example.com
+    # - username: jekyll2
+    #   instance: example.com
+
+    # GitLab instances
+    # gitlab:
+    # - username: jekyll
+    #   instance: example.com
+    # - username: jekyll2
+    #   instance: example.com
+
+# If you want to link only specific pages in your header, uncomment
+# this and add the path to the pages in order as they should show up
+header_pages:
+ - about.md
+ - portfolio.md
+ - speaking.md
+ - writing.md
+
+
+# Build settings
+theme: minima
+
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
