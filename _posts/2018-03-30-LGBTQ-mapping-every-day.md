@@ -6,76 +6,88 @@ author:
 - Eriol Fox
 ---
 
-[![Speaking at Design Stuff Cardiff](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/DSC-talk.jpeg?raw=true)
+It’s a Saturday afternoon in Autumn. The large board-room of a rented out tech office space has had it’s one polished 20+ person table removed in favour of 6 different smaller tables. One or two people are seated in each space with large sheets of paper pens and other paraphernalia associated with ‘brainstorming’.
 
-I’ve spoken about in-house design publicly three times, at three events at quite different time in my life/career.
+There’s a cluster of more the 30 people that have entered this room as one group with wildly different age ranges, races, ethnicities, and backgrounds.
 
-The first was at Reasons to be Creative conference in Brighton as one of the elevator pitchers. The second was the same talk, extended into 20 minutes and given at Design Stuff Cardiff (This talk uses my old birth name not my chosen name) and the third time was this year in 2017 at South West: UX.
+The reason these 30+ people are there? Well, we’re all from the South West of the UK and we all identify as part of the LGBTQ+ community.
 
-Prior to speaking at them, I was attending these conferences and meet-ups early on in my design career and hearing addresses from designers and developers in agency or freelance careers but was keen to talk to more people who were on a similar path as me or had walked it before.
+We’ve not met each other before, but we’re here for the same purpose: to share with each other and the organisations around the various tables the kinds of issues that are affecting us, as marginalised folks with the hope that what we offer these organisations in terms of information, opinion and experience can go some way towards making a safer more inclusive environment for LGBTQ+ folks.
 
-“Where are all my fellow in-house designers?” I’d think, at these events. I was here and I worked with at least 3 others, as well as knowing multiple in my city so why weren’t they on stage talking about the industry?
+Of the topics covered, we talk about how mental health services can specifically support trans folks better, about how to get young and old LGBTQ+ people spending more time together and sharing life stories and new experiences.
 
-So I did the talking it instead of waiting…
+Then we come to a large map of the centre of the city of Bristol and when this idea that when we’re outside our homes, we map all day, every day.
 
-The underlying focus of the talks I then gave was that in-house design could be talked about in the same way that other design pathways were.
+“Is there anywhere you feel you can be your full self and don’t have to hide? Is there anywhere you avoid?”
 
-There was a perception both from non-in-housers that in-house designers are less creative, less worthy of note or worked on projects or with brands that ‘didn’t excite other designers’. This perception I found, was then also internalised by in-house designers.
+### “I don’t feel safe walking around this particular area of the city holding my girlfriend’s hand” a young woman sat next to me says and points to a popular area of the city.
 
-This perception is a damaging one, for the wider industry but especially for those still in design education, where In-house as a viable career option isn’t being given the same spotlight as freelance or agency.
+### “But I do here and here and it’s funny because those are the ‘upper-class’ parts of town and that is not where I’m from”
 
-Some of my previous talking points ring true and I wanted to revisit them with some more years of experience under my belt as well as years for the design industry to evolve and flex.
+She goes on to talk about the kinds of harassment she has experienced being in a visibly same-sex relationship in public and also the particular struggle of being a person of colour and how she has been perceived within her communities and families.
 
-I’ll often refer to the companies that in-house designers work in as ‘corporates’ for ease of the text. Not all in-house designers work in what would be described as ‘corporates’ though as some may work in third-sector organisations, charities or other types of organisation.
+We then go on to further discuss the areas where we feel safe expressing simple affection (such as hand holding) with our partners. They are shockingly few outdoor public places. One person talks about having a family picnic in a public park disrupted by heterosexism and slurs.
 
-**Original point:** “When a new campaign is planned, you’ll often get to work on every aspect from web and digital to app and mobile to above the line and print right up until launch and beyond”
+A trans woman talks about where it’s safe to express their gender identity and areas where they still have to be careful and perform a certain expectation of gender. She fears the impact this may have on the places she is not ‘out’ in yet.
 
-**Revised point:** Only really applicable in companies that don’t have specialisations and much more prevalent when in-house designers were required to be multi-skilled. You see much more specialisation roles with in-house now, especially in larger corporates. Still true in your start-ups, smaller corporates and companies with a culture that supports cross-discipline work/collaboration.
+A young queer person, a member of a well-protected youth group, talks about where they’ve had homophobic slurs hurled at them, even when out walking solo.
 
-**Original point:** “You work with not just other creatives, but front and back end developers, product managers, PPC & SEO, Marketing, HR and so on. This can broaden your general related business knowledge and knowing what each teams goals are can help you better design for that area.”
+Most of us talk about where we feel safest, other cities where we have no work, family or wider community to be wary of, certain areas where LGBTQ+ establishments cluster and thrive, events like Pride festivals or this event, hosted by charity Stonewall, we’re at right at that moment.
 
-**Revised point:** Again, more applicable in larger in-house companies and some multi-discipline agencies. The difference here is that with the in-house corporates, the other folk you work with tend to be your ‘stakeholders’ or ‘internal clients’ as well as (or some times rather than) your colleagues. So for example, you could be producing a piece of design work for the SEO team rather than with the SEO team.
+[![Stonewall event](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/stonewall.jpeg?raw=true)
 
-**Original point:** “You’re often called upon to plug related skill gaps. A personal example is that I was asked to do production photography for a recent advert shoot. Something which I’ve never done before.”
 
-**Revised point:** I believe this to be true of both in-house, freelance and agency designers. Some corporates will ‘require’ this of their designers more so than agencies perhaps, and some corporates will be looking mostly at the savings on bringing in extra contract/agency resource for these skills gaps. Still, I do think there are corporates out there that promote this as the benefit it can be to designers goals. Like if in the example above a designer primarily involved in Digital Design who wants to develop their photography skills, then this skill gap fills both a business need and a personal development need for the designer.
+The group of folks from the Stonewall event. Image credits and source: https://www.stonewall.org.uk/events/stonewall-season-bristol-community-action-day
 
-**Original point:** “Depending on the sector, you can have incredible job stability, a generous training budget and build lots of different skills by learning from colleagues.”
+It’s then I realise something we’ve all be doing, I’ve been doing, all my life: Cataloging where it is safe to exist as our authentic selves.
 
-**Revised point:** You’re still beholden to the whims of business. If the corporate isn’t doing well you’ll be just as likely to be let go as in an agency who didn’t retain a client. There’s perhaps a sense of being further removed from the finance side of things which can be more comforting and your ‘selling in’ is to stakeholders within the business as opposed to clients who directly hold cash.
+* How to dress.
+* How to act.
+* What to say.
+* Who we’re with.
 
-I’ve also heard from both in-house and agency side the ‘We haven’t got time/budget/other reason’ for training new skills or diversifying existing ones. I think this is an individual business and personal advocacy thing rather than a in-house/agency thing.
+And we don’t just map places, we map people as well.
 
-**Original point:** “You meet agencies from the other side of the table when outsourcing particular work. This can give you greater understanding of client thought process and rational which can help if you do freelance on the side or are looking to move into an agency.
+Has my workmate said anything generally homophobic?
+What was my friend’s expression when a trans person was on TV?
+Who in my family will still talk to me if they know my sexuality?
+How much can I tell this person about who I really am?
 
-**Revised point:** You do have this in corporate (as long as it makes financial sense for the corporate). Though I do believe some agencies hire other agencies and contractors to plug skills gaps so there’s some sense of what this dynamic is like in both work styles. It’s probably the instance that still needs the most work from both agency and in-house (and beyond). There are ways that this relationship can be made much easier, inclusive and frictionless but the knee-jerk reaction is to segregate in-house designer and agency designers when working on the same project/for the same company. The competitive edge that in-housers can get is they can potentially speak ‘in-house/corporate’ language well and that is a benefit moving into an agency/freelance environment.
+This cataloguing of what we can do safely and in which areas gets difficult the more your world expands. Post-school, post-college and university and then into the world of work, keeping a list of where you know you can be yourself is complex and exhausting and it’s no wonder that statistics like these exist:
 
-**Original point:** “Because you work with one brand and sub-brands. You become an expert in it and are incredibly valued. It also exercises your skills to keep creative interesting, relevant and up-to-date.”
+One in five LGBTQ+ people have experienced a hate crime or incident because of their sexual orientation and/or gender identity in the last 12 months. Source: Stonewall UK .org
+Over one-third (35%) of LGBTQ+ employees lie about their personal lives at work Source: Human Rights Campaign .org
 
-**Revised point:** You really do. You know that brand inside out and back to front (if you stay in the corporate long enough) and really, even the smallest single brand is so far reaching that you’ll always be learning new things. One thing I struggled with agency/freelance side was sometimes you put down projects/brands that you’ll never pick back up again (through no fault of your own). The part of me that wants to follow-up, iterate, improve and learn struggles with this the most. The downside is: Attachment. Oh I became attached to some of my previous brands/companies which made it harder to move on to new places without still being invested in what was happening back in the old pasture…
+And quotes like these ring true for so many LGBTQ+ people struggling with swinging between being out and being closeted in different areas of their lives:
 
-**Original point:** “You can be approached with jobs that need completing within days or even hours and little space to say no because you’re there to solve creative problems for the business.”
+“Going back in the closet hugely affected my performance. I felt constrained, I didn’t laugh at work, I was less confident and the elaborate cover stories about my personal life introduced a barrier between me and my colleagues.”
 
-**Revised point:** It’s very hard to say no to these in-house (unless you are the boss of course). But within my agency/freelance capacity I’ve felt more empowered to say ‘no’ to work that is far too last minute and make that choice to not get paid. That being said, I’ve experienced a similar amount of ‘crunch’ working corporate/agency/freelance. Again, I think this is an ‘industry’ or ‘inherent value of creative work problem’ rather than isolated to a particular work style. The real differentiator here is whether or not you have a team around you to support any last-minute work/changes or whether you’re solo.
+Source: Quoted from a Telegraph article
 
-**Original point:** “When you’re helping others around the business, they’ll love you and when your pushing back you can get frowns. Either way you’ll get regular desk visits and very little ‘me’ time.”
+It is deeply confusing, on top of mapping our physical environments, to map our omissions to friends, family, and colleagues. To catalogue our mannerisms and clothing, for the sake of existing in relative safety, at the expense of living as honestly and proudly as some would like.
 
-**Revised point:** This is both a in-house thing but also a business-culture thing. Designers and creative tend to be approachable folk as part of their job is to communicate why design matters to the business and individuals. What this comment really alludes to is that because you are typically exposed to more types of roles in-house (HR, PR, Marketing, Sales, Development etc.) you’ll be asked to do some things that are not strictly part of your job. My favourite include: Branded pillows as a marketing giveaway, A first aider poster to put up in the company kitchen and Decorating the office for various festive events.
+It’s easy to talk about the problems and what we want to change, but having a good idea of the path to get there isn’t always clear and can rarely be carved by a single person. It needs a diversity community behind it so that the spectrum voices can be heard.
 
-**Original point:** “Working with one brand can get dull and repetitive. Extracurricular activities are a must.”
+If you’re reading this as an LGBTQ+ person, if it’s safe for you to be part of the conversation, then I urge you to find a way and place to raise your voice and be heard.
 
-**Revised point:** But so can working on one client for a long period of time. Also I found it more frustrating being involved on some parts of a client project and not others so there are frustrations either side and depends on individuals. Anyways, at the point where working on ‘one brand’ gets dull is a good time to be analysing what automation and patterns are built into the current projects to mitigate that repetition (potential wasted time).
+The ways that the Ushahidi platform and other mapping platforms are able to help LGBTQ+ folks with this complex mapping of our lives and experiences is one of the many reasons that motivated me to join Ushahidi.
 
-So, there are some things that are still prevalent with in-house design roles but most joys and frustrations are shared across the spread of roles, companies, cultures, work-styles and set-ups.
+This is why projects, like being LGBT in Asia and Queering the Map, are very important to me personally, as I see myself reflected in my global community and through sharing there may be a point in the future where we don’t need to internally map constantly.
 
-But really, what I’m asking here is:
+[![being LGBT in Asia Ushahidi deployment](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/LGBT-Asia.png?raw=true)
 
-More diverse roles and backgrounds in speakers at design conferences.
+A screenshot of the being LGBT in Asia Ushahidi deployment
 
-Better communication, support and sharing across disciplines and work places.
 
-Concentrated effort to not ‘other’ a certain kind of job role or work place.
+[![Queering the map project](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/queering-the-map.png?raw=true)
 
-[![In-house-design book](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/in-house-design.png?raw=true)
+A screenshot of the Queering the map project
 
-In-house design practice by Cathy Fishel is a great book on In-house design
+
+For those that consider themselves allies of LGBTQ+ folk, I would ask you to support those that want to speak out, read widely from LGBTQ+ authors, encourage safe environments free of harassment and foster acceptance in your communities and your workplaces.
+
+I can’t wait to see more uses of the Ushahidi platform to raise LGBTQ+ voices and I’ll be right there by their side raising mine with them!
+
+**Addendum:** This was written from my own perspective as a person identifying as Queer, Non-binary person who is white. I acknowledge within the LGBTQ+ community discrimination can stack and, for example, a person of colour who is also LGBTQ+ may have to deal with racism as well as LGBTQ+ erasure and discrimination within a specific cultural context.
+
+It’s also important to note that my experience and examples come from a UK perspective where there are laws and protections in place but in some countries around the world, being LGBTQ+ is criminalised.
