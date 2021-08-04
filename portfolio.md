@@ -18,7 +18,7 @@ Foss responders is a community-led project to support (FL)OSS technology project
 
 ### [Isooko : Peace technology]()
 Here's some sample text about X
-[![preview image of X](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/foss-responders-500x150.jpg?raw=true)](http://localhost:4000/portfolio/2021/08/01/foss-responders.html)
+[![preview image of Isooko](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/foss-responders-500x150.jpg?raw=true)](http://localhost:4000/portfolio/2021/08/01/foss-responders.html)
 
 ### [HDX Integration]()
 Here's some sample text about X
