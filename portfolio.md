@@ -12,14 +12,15 @@ Foss responders is a community-led project to support (FL)OSS technology project
 [![preview image of foss responders](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/foss-responders-500x150.jpg?raw=true)](https://erioldoesdesign.github.io/portfolio/2021/08/01/foss-responders.md)
 
 
-### [Open Design : Designers in Open Source](https://erioldoesdesign.github.io/portfolio/2021/07/021/open-design.md)
+### [Open Design : Designers in Open Source](https://erioldoesdesign.github.io/portfolio/2021/07/02/open-design.md)
 ‘Open Design’ aims to learn how, as a design community and an open source software community, we can increase and sustain meaningful design contributions to open source and advocate for designers embracing OSS as part of their learning and careers.
 <br />
 [![preview image of open design](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/open-design-500x150.jpg?raw=true)]()
 
 
-### [Isooko : Peace technology]()
-Here's some sample text about X
+### [Isooko : Peace technology](https://erioldoesdesign.github.io/portfolio/2021/07/03/isooko.md)
+Isooko is a funded consortium project where Ushahidi was the technology partner in discovering whether technology can aid peacebuilding education/activities. The Isooko project taught me a great deal about how to work with seemingly banal design tasks within a high stress, traumatic context.
+<br />
 [![preview image of Isooko](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/foss-responders-500x150.jpg?raw=true)](http://localhost:4000/portfolio/2021/08/01/foss-responders.html)
 
 ### [HDX Integration]()
