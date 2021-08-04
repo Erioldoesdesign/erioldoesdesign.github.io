@@ -14,7 +14,7 @@ Working alongside other community members in a voluntary capacity I worked on a 
 
 <br />
 
-![Foss Responders style guide](https://erioldoesdesign.com/wp/wp-content/uploads/2020/05/FR2.png "Foss Responders style guide")
+![Foss Responders style guide](https://erioldoesdesign.com/wp/wp-content/uploads/2020/05/FR2.png "Foss Responders website design")
 
 <br />
 
