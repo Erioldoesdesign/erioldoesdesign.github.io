@@ -65,18 +65,20 @@ But how applicable was this insight to global crisis and disaster response? Like
 **But there was still the question of, how do you get a real understanding of an incident outside of experiencing a real one?**
 
 
+[![Urban Search and Rescue team based at Hicks Gate fire station](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/urban-SR.jpeg?raw=true)
 
+*The Urban Search and Rescue team based at Hicks Gate fire station in Keynsham run a simulation moving large pieces of concrete with new equipment and in the background, a second-team drill through a cement obstacle.*
 
-The Urban Search and Rescue team based at Hicks Gate fire station in Keynsham run a simulation moving large pieces of concrete with new equipment and in the background, a second-team drill through a cement obstacle.
-Deeply embedded ethnographic research
+### Deeply embedded ethnographic research
 
 After the guerilla approach to this subject, we very quickly discovered that taking a ‘dip in dip out’ approach to this work was only going to offer us the surface-level insights into human responses to crises that were specific to those circumstances and to gather a better understanding of country-specific needs that could then potentially be generalised further research globally needed to be conducted. We wanted to design solutions for deeper human reasons for helping others.
 
 We also needed to explore what ‘temporal’ design research would do for us in this field and what an ‘invested’ design could do for us. As a team of two, we leaned naturally in different directions, myself in the direction of long term relationships that build understanding through a connection and Justin in a well defined ‘researcher to subject’ relationship. Both approaches have benefits and pitfalls, for example, long relationships require a genuine interest that is next to impossible to feign and the real risks of not following through in that relationship but potential gaining a spectrum of insights on human responses to a research topic. Short relationships can, if the conditions are right, offer you the same quality of insight as a long relationship in a shorter space of time and can be more targeted early on but you risk the flip side being very little information of quality if a person does not trust you.
 
-We decided to test each approach in an even split between us two design researchers with participants at a field research study based in Nairobi, Kenya. However, this field study was focused on the community level response to crisis rather than the official services. You can find more detail about the ‘Dispatcher pilot’ via a slide deck of a talk called ‘Designing for Crisis’ via Notist (transcription is WIP as of Dec 2019)
+We decided to test each approach in an even split between us two design researchers with participants at a field research study based in Nairobi, Kenya. However, this field study was focused on the community level response to crisis rather than the official services. You can find more detail about the ‘Dispatcher pilot’ via a slide deck of a talk called ‘Designing for Crisis’ via [Notist](https://noti.st/eriolfox/2HG9t2/designing-tech-tools-for-crisis-natural-disaster-relief-in-developed-and-developing-countries-bath-digital-festival-2019) (transcription is WIP as of Dec 2019)
 
 
+[![Photo of Eriol Fox as a casualty on a search and rescue training exercise](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/eriol-casualty.jpeg?raw=true)
 
 
 *Photo of Eriol Fox (Author of this article and design researcher) as a casualty on a search and rescue training exercise in the UK for the IRT division of SARAID.*

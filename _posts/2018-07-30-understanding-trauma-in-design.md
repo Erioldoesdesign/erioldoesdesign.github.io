@@ -6,7 +6,7 @@ author:
 - Eriol Fox
 ---
 
-[![blue butterflies in a museum exhibition case](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/trauma-and-design.jpeg?raw=true)
+![blue butterflies in a museum exhibition case](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/trauma-and-design.jpeg?raw=true){: .center-image }
 
 *Close up photo of blue butterflies in a museum exhibition case. The pins either side of their small bodies barely visible.*
 
@@ -60,7 +60,7 @@ In adulthood, as it often does outside of a family setting, I found myself in si
 
 I never believed this was abuse. The word still makes me squirm uncomfortably. To me this was just what families did, mine was just strict, parents overworked, struggling financially with more chips in our shoulders that we must resemble a mountain-scape from a distance.
 
-[![A mountainscape at sunset in dark blues, oranges and yellows.](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/mountain.jpeg?raw=true)
+[![A mountainscape at sunset in dark blues, oranges and yellows.](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/mountain.jpeg?raw=true){: .center-image }
 
 *A mountainscape at sunset in dark blues, oranges and yellows.*
 
@@ -81,7 +81,7 @@ So paralysed by the fear of not interpreting the need correctly that I briefly b
 
 Another recent example shows how misinterpreting boundaries or limitations can send me into a rather panicked state. I mistakenly believed that I had built a level of trust with a particular project and asked to connect another person, interested in the developments into it. I was met with an incredibly reasonable response asking for caution and an understandable need to constrain the people involved. Yet, my heart races and my skin prickles with dread at the thought of misinterpreting and ‘not doing the right thing’. To most it would be a mistake, easily communicated and corrected, for me it’s that but with an underlying feeling of anticipating violence.
 
-[![Close up illustration of eyes in black pen on a blue and brushed metal background](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/eyes-blue.png?raw=true)
+[![Close up illustration of eyes in black pen on a blue and brushed metal background](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/eyes-blue.png?raw=true){: .center-image }
 
 *Close up illustration of eyes in black pen on a blue and brushed metal background*
 
