@@ -83,5 +83,4 @@ You can see videos of talks given about [Open Design at Open Up Global Summit in
 
 You can view the slides associated with talks on Open Design on Eriol’s Notist page [here](https://noti.st/eriolfox/vbZupO/design-contributions-to-oss-learnings-from-the-open-design-project-at-ushahidi-structuring-in-person-and-remote-workshops-for-open-source-design-contributions) and [here](https://noti.st/eriolfox/E0Yger/design-contributions-to-oss-learnings-from-the-open-design-workshops-project).
 
-You can contact us via twitter @Opendesignis and facebook @opendesignis
-
+You can contact us via [twitter @Opendesignis](https://twitter.com/opendesignis) and [facebook @opendesignis](https://www.facebook.com/OpenDesignIs/)
