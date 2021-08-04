@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Foss Responders"
+title: "Open Design : Designers in Open Source"
 categories: portfolio
 ---
 
