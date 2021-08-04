@@ -21,7 +21,7 @@ Foss responders is a community-led project to support (FL)OSS technology project
 ### [Isooko : Peace technology](https://erioldoesdesign.github.io/portfolio/2021/07/03/isooko.html)
 Isooko is a funded consortium project where Ushahidi was the technology partner in discovering whether technology can aid peacebuilding education/activities. The Isooko project taught me a great deal about how to work with seemingly banal design tasks within a high stress, traumatic context.
 <br />
-[![preview image of Isooko](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/foss-responders-500x150.jpg?raw=true)](https://erioldoesdesign.github.io/portfolio/2021/07/03/isooko.html)
+[![preview image of Isooko](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/isooko-500x150.jpg?raw=true)](https://erioldoesdesign.github.io/portfolio/2021/07/03/isooko.html)
 
 
 ### [HDX Integration]()
