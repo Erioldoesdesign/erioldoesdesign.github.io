@@ -6,7 +6,7 @@ author:
 - Eriol Fox
 ---
 
-[![Eriol at Birmingham Design festival speaking on ‘Design for Crisis’](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/eriol-speaking-Birmingham-design-festival-2019.jpeg?raw=true)
+![Eriol at Birmingham Design festival speaking on ‘Design for Crisis’](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/eriol-speaking-Birmingham-design-festival-2019.jpeg?raw=true)
 *Eriol at Birmingham Design festival speaking on ‘Design for Crisis’*
 
 

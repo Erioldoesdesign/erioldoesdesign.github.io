@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2019 in conferences and workshops"
+title: "2020 in conferences and workshops"
 categories: article
 author:
 - Eriol Fox

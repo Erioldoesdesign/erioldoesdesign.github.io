@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LGBTQ+ folk are internally mapping all day, every day.’"
+title: "LGBTQ+ folk are internally mapping all day, every day."
 categories: article
 author:
 - Eriol Fox

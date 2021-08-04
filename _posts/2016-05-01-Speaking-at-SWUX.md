@@ -13,4 +13,4 @@ I was asked to join a panel of speakers to give my perspective on pertinent UX t
 [Click here to watch me speak with these lovely Bristol professionals](https://www.youtube.com/watch?v=5A4wWd8c88M).
 
 
-[![Speaking at SWUX panel](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/SWUX.png?raw=true)
+![Speaking at SWUX panel](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/SWUX.png?raw=true)

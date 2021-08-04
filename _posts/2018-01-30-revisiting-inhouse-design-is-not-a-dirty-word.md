@@ -6,7 +6,7 @@ author:
 - Eriol Fox
 ---
 
-[![Speaking at Design Stuff Cardiff](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/DSC-talk.jpeg?raw=true)
+![Speaking at Design Stuff Cardiff](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/DSC-talk.jpeg?raw=true)
 
 I’ve spoken about in-house design publicly three times, at three events at quite different time in my life/career.
 
