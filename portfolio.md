@@ -6,15 +6,14 @@ permalink: /portfolio/
 
 Here you'll find Eriol's design work from over the last 10 years. The run from most recent to oldest in terms of projects.
 
-### [Foss Responders](https://erioldoesdesign.github.io/portfolio/2021/08/01/foss-responders.html)
+### [Foss Responders](https://erioldoesdesign.github.io/portfolio/2021/08/01/foss-responders.md)
 Foss responders is a community-led project to support (FL)OSS technology projects during the Coronavirus (COVID-19) pandemic. 
-[![preview image of foss responders](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/foss-responders-500x150.jpg?raw=true)](https://erioldoesdesign.github.io/portfolio/2021/08/01/foss-responders.html)
+[![preview image of foss responders](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/foss-responders-500x150.jpg?raw=true)](https://erioldoesdesign.github.io/portfolio/2021/08/01/foss-responders.md)
 
 
 ### [Open Design : Designers in Open Source]()
-Here's some sample text about Open Design : Designers in Open Source
-
-[![preview image of open design](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/open-design-500x150.jpg?raw=true)](http://localhost:4000/portfolio/2021/08/01/foss-responders.html)
+‘Open Design’ aims to learn how, as a design community and an open source software community, we can increase and sustain meaningful design contributions to open source and advocate for designers embracing OSS as part of their learning and careers.
+[![preview image of open design](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/open-design-500x150.jpg?raw=true)]()
 
 
 ### [Isooko : Peace technology]()
