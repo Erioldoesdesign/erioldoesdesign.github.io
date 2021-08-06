@@ -59,12 +59,12 @@ Working at Ushahidi as a product designer and then lead designer, I worked on Us
 During my time at Ushahidi was additional feature designs and user-testing for the Ushahidi data collection platform in order for the DREAMS program partners to effectively send SMS surveys to multiple beneficiaries.
 <br />
 <br />
-[![preview image of Ushahidi DREAMS](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/foss-responders-500x150.jpg?raw=true)]()
+[![preview image of Ushahidi DREAMS](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/dreams-500x150.jpg?raw=true)]()
 
 
 ### [Tech and terminal illness]()
 As part of my investigative work into developing products that could help improve user experience of life caring for a person with a terminal illness (or having a terminal illness) I worked on 4 prototype ideas for AR, apps and VR.
-[![preview image of tech and terminal illness](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/foss-responders-500x150.jpg?raw=true)]()
+[![preview image of tech and terminal illness](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/tech-terminal-500x150.jpg?raw=true)]()
 
 
 ### [I carry stories of you:interactive story]()
