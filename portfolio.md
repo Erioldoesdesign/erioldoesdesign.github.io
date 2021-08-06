@@ -48,129 +48,179 @@ Dispatcher was an incubation project at Ushahidi to build a product that helped 
 [![preview image of Dispatcher](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/dispatcher-500x150.jpg?raw=true)](https://erioldoesdesign.github.io/portfolio/2021/07/06/Dispatcher.html)
 
 
-### [Ushahidi: Data collection platform]()
+### [Ushahidi: Data collection platform](https://erioldoesdesign.github.io/portfolio/2021/07/07/Ushahidi.html)
 Working at Ushahidi as a product designer and then lead designer, I worked on Ushahidi’s flagship tool ‘Ushahidi:Platform’ an open source data collection platform used in crisis scenarios and for human rights cases.
 <br />
 <br />
-[![preview image of Ushahidi data collection](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/ushahidi-500x150.jpg?raw=true)]()
+[![preview image of Ushahidi data collection](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/ushahidi-500x150.jpg?raw=true)](https://erioldoesdesign.github.io/portfolio/2021/07/07/Ushahidi.html)
 
 
-### [Ushahidi:DREAMS]()
+### [Ushahidi:DREAMS](https://erioldoesdesign.github.io/portfolio/2021/07/08/Ushahidi-dreams.html)
 During my time at Ushahidi was additional feature designs and user-testing for the Ushahidi data collection platform in order for the DREAMS program partners to effectively send SMS surveys to multiple beneficiaries.
 <br />
 <br />
-[![preview image of Ushahidi DREAMS](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/dreams-500x150.jpg?raw=true)]()
+[![preview image of Ushahidi DREAMS](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/dreams-500x150.jpg?raw=true)](https://erioldoesdesign.github.io/portfolio/2021/07/08/Ushahidi-dreams.html)
 
 
-### [Tech and terminal illness]()
+### [Tech and terminal illness](https://erioldoesdesign.github.io/portfolio/2021/07/09/Tech-terminal-illness.html)
 As part of my investigative work into developing products that could help improve user experience of life caring for a person with a terminal illness (or having a terminal illness) I worked on 4 prototype ideas for AR, apps and VR.
-[![preview image of tech and terminal illness](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/tech-terminal-500x150.jpg?raw=true)]()
+<br />
+<br />
+[![preview image of tech and terminal illness](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/tech-terminal-500x150.jpg?raw=true)](https://erioldoesdesign.github.io/portfolio/2021/07/09/Tech-terminal-illness.html)
 
 
-### [I carry stories of you:interactive story]()
+### [I carry stories of you:interactive story](https://erioldoesdesign.github.io/portfolio/2021/07/10/i-carry-stories.html)
 I carry stories of you is an interactive story about the experience of a carer caring for a terminally ill parent.
-[![preview image of I carry stories of you](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/carry-stories-500x150.jpg?raw=true)]()
+<br />
+<br />
+[![preview image of I carry stories of you](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/carry-stories-500x150.jpg?raw=true)](https://erioldoesdesign.github.io/portfolio/2021/07/10/i-carry-stories.html)
 
 
 
 ### [Bristol Pride]()
 Here's some sample text about X
+<br />
+<br />
 [![preview image of X](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/foss-responders-500x150.jpg?raw=true)](http://localhost:4000/portfolio/2021/08/01/foss-responders.html)
 
 
 
 ### [Screen Time app]()
 Here's some sample text about X
+<br />
+<br />
 [![preview image of X](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/foss-responders-500x150.jpg?raw=true)](http://localhost:4000/portfolio/2021/08/01/foss-responders.html)
 
 
 
 ### [Interpals.net]()
 Here's some sample text about X
+<br />
+<br />
 [![preview image of X](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/foss-responders-500x150.jpg?raw=true)](http://localhost:4000/portfolio/2021/08/01/foss-responders.html)
 
 
 ### [Unite Students]()
-Here's some sample text about X
+Here's some sample text about 
+<br />
+<br />
 [![preview image of X](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/foss-responders-500x150.jpg?raw=true)](http://localhost:4000/portfolio/2021/08/01/foss-responders.html)
 
 
 ### [Lexis Nexis]()
 Here's some sample text about X
+<br />
+<br />
 [![preview image of X](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/foss-responders-500x150.jpg?raw=true)](http://localhost:4000/portfolio/2021/08/01/foss-responders.html)
 
 ### [Confused.com]()
 Here's some sample text about X
+<br />
+<br />
 [![preview image of X](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/foss-responders-500x150.jpg?raw=true)](http://localhost:4000/portfolio/2021/08/01/foss-responders.html)
 
 ### [Global Game Jam]()
 Here's some sample text about X
+<br />
+<br />
 [![preview image of X](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/foss-responders-500x150.jpg?raw=true)](http://localhost:4000/portfolio/2021/08/01/foss-responders.html)
 
 ### [Love Food Hate Waste]()
 Here's some sample text about X
+<br />
+<br />
 [![preview image of X](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/foss-responders-500x150.jpg?raw=true)](http://localhost:4000/portfolio/2021/08/01/foss-responders.html)
 
 
 ### [Digital Illustration]()
 Here's some sample text about X
+<br />
+<br />
 [![preview image of X](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/foss-responders-500x150.jpg?raw=true)](http://localhost:4000/portfolio/2021/08/01/foss-responders.html)
 
 
 ### [Confused.com – Credit Cards]()
 Here's some sample text about X
+<br />
+<br />
 [![preview image of X](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/foss-responders-500x150.jpg?raw=true)](http://localhost:4000/portfolio/2021/08/01/foss-responders.html)
 
 ### [Green Map]()
 Here's some sample text about X
+<br />
+<br />
 [![preview image of X](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/foss-responders-500x150.jpg?raw=true)](http://localhost:4000/portfolio/2021/08/01/foss-responders.html)
 
 ### [Brian the robot]()
 Here's some sample text about X
+<br />
+<br />
 [![preview image of X](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/foss-responders-500x150.jpg?raw=true)](http://localhost:4000/portfolio/2021/08/01/foss-responders.html)
 
 ### [Compartment]()
 Here's some sample text about X
+<br />
+<br />
 [![preview image of X](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/foss-responders-500x150.jpg?raw=true)](http://localhost:4000/portfolio/2021/08/01/foss-responders.html)
 
 ### [Scientia Annual]()
 Here's some sample text about X
+<br />
+<br />
 [![preview image of X](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/foss-responders-500x150.jpg?raw=true)](http://localhost:4000/portfolio/2021/08/01/foss-responders.html)
 
 ### [Chapter Arts]()
 Here's some sample text about X
+<br />
+<br />
 [![preview image of X](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/foss-responders-500x150.jpg?raw=true)](http://localhost:4000/portfolio/2021/08/01/foss-responders.html)
 
 ### [Icycl]()
 Here's some sample text about X
+<br />
+<br />
 [![preview image of X](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/foss-responders-500x150.jpg?raw=true)](http://localhost:4000/portfolio/2021/08/01/foss-responders.html)
 
 ### [British Apple Consortium]()
 Here's some sample text about X
+<br />
+<br />
 [![preview image of X](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/foss-responders-500x150.jpg?raw=true)](http://localhost:4000/portfolio/2021/08/01/foss-responders.html)
 
 ### [Logo Design]()
 Here's some sample text about X
+<br />
+<br />
 [![preview image of X](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/foss-responders-500x150.jpg?raw=true)](http://localhost:4000/portfolio/2021/08/01/foss-responders.html)
 
 ### [Grrl Game Jam]()
 Here's some sample text about X
+<br />
+<br />
 [![preview image of X](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/foss-responders-500x150.jpg?raw=true)](http://localhost:4000/portfolio/2021/08/01/foss-responders.html)
 
 ### [Traditional Illustration]()
 Here's some sample text about X
+<br />
+<br />
 [![preview image of X](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/foss-responders-500x150.jpg?raw=true)](http://localhost:4000/portfolio/2021/08/01/foss-responders.html)
 
 ### [British Research]()
 Here's some sample text about X
+<br />
+<br />
 [![preview image of X](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/foss-responders-500x150.jpg?raw=true)](http://localhost:4000/portfolio/2021/08/01/foss-responders.html)
 
 ### [Print design]()
 Here's some sample text about X
+<br />
+<br />
 [![preview image of X](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/foss-responders-500x150.jpg?raw=true)](http://localhost:4000/portfolio/2021/08/01/foss-responders.html)
 
 ### [Fine art]()
 Here's some sample text about X
+<br />
+<br />
 [![preview image of X](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/foss-responders-500x150.jpg?raw=true)](http://localhost:4000/portfolio/2021/08/01/foss-responders.html)
 
 
