@@ -35,15 +35,17 @@ A partnership project between the Humanitarian Data Exchange and Ushahidi. This 
 
 
 ### [TenFour]()
-Here's some sample text about X
+TenFour is one of Ushahidi’s suite of humanitarian, open source tech tools. It aims to aggregate communication methods into a single platform in order to reduce comms related mistakes and chaos when a crisis is happening.
 <br />
 <br />
 [![preview image of TenFour](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/tenfour-500x150.jpg?raw=true)]()
 
 
 ### [Dispatcher : Community resiliance]()
-Here's some sample text about X
-[![preview image of X](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/foss-responders-500x150.jpg?raw=true)](http://localhost:4000/portfolio/2021/08/01/foss-responders.html)
+Dispatcher was an incubation project at Ushahidi to build a product that helped build community resilience before, during and after a crisis.
+<br />
+<br />
+[![preview image of Dispatcher](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/dispatcher-500x150.jpg?raw=true)]()
 
 
 ### [Ushahidi : Data collection platform]()
