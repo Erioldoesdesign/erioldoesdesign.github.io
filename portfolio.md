@@ -27,25 +27,25 @@ Isooko is a funded consortium project where Ushahidi was the technology partner 
 [![preview image of Isooko](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/isooko-500x150.jpg?raw=true)](https://erioldoesdesign.github.io/portfolio/2021/07/03/isooko.html)
 
 
-### [HDX Integration]()
+### [HDX Integration](https://erioldoesdesign.github.io/portfolio/2021/07/04/HDX.html)
 A partnership project between the Humanitarian Data Exchange and Ushahidi. This project aimed to integrate the two platforms in order to make best use of each set of features, primarily the sharing of data openly within the humanitarian sector.
 <br />
 <br />
-[![preview image of HDX](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/HDX-500x150.jpg?raw=true)]()
+[![preview image of HDX](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/HDX-500x150.jpg?raw=true)](https://erioldoesdesign.github.io/portfolio/2021/07/04/HDX.html)
 
 
-### [TenFour]()
+### [TenFour](https://erioldoesdesign.github.io/portfolio/2021/07/05/TenFour.html)
 TenFour is one of Ushahidi’s suite of humanitarian, open source tech tools. It aims to aggregate communication methods into a single platform in order to reduce comms related mistakes and chaos when a crisis is happening.
 <br />
 <br />
-[![preview image of TenFour](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/tenfour-500x150.jpg?raw=true)]()
+[![preview image of TenFour](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/tenfour-500x150.jpg?raw=true)](https://erioldoesdesign.github.io/portfolio/2021/07/05/TenFour.html)
 
 
-### [Dispatcher : Community resiliance]()
+### [Dispatcher : Community resiliance](https://erioldoesdesign.github.io/portfolio/2021/07/06/Dispatcher.html)
 Dispatcher was an incubation project at Ushahidi to build a product that helped build community resilience before, during and after a crisis.
 <br />
 <br />
-[![preview image of Dispatcher](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/dispatcher-500x150.jpg?raw=true)]()
+[![preview image of Dispatcher](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/dispatcher-500x150.jpg?raw=true)](https://erioldoesdesign.github.io/portfolio/2021/07/06/Dispatcher.html)
 
 
 ### [Ushahidi : Data collection platform]()
