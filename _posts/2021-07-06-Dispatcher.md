@@ -20,7 +20,7 @@ I shared the design role on Dispatcher with a colleague and I focused on the pro
 
 At the end of the project, we produced a report to our funders and devised several talks and workshops around the subject of designing for people in crisis.
 
-[Read the report here]()
+[Read the report here](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/Dispatcher-report-June-2019-copy.pdf)
 
 <br />
 

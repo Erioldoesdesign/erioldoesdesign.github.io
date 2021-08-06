@@ -41,31 +41,35 @@ TenFour is one of Ushahidi’s suite of humanitarian, open source tech tools. It
 [![preview image of TenFour](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/tenfour-500x150.jpg?raw=true)](https://erioldoesdesign.github.io/portfolio/2021/07/05/TenFour.html)
 
 
-### [Dispatcher : Community resiliance](https://erioldoesdesign.github.io/portfolio/2021/07/06/Dispatcher.html)
+### [Dispatcher: Community resiliance](https://erioldoesdesign.github.io/portfolio/2021/07/06/Dispatcher.html)
 Dispatcher was an incubation project at Ushahidi to build a product that helped build community resilience before, during and after a crisis.
 <br />
 <br />
 [![preview image of Dispatcher](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/dispatcher-500x150.jpg?raw=true)](https://erioldoesdesign.github.io/portfolio/2021/07/06/Dispatcher.html)
 
 
-### [Ushahidi : Data collection platform]()
-Here's some sample text about X
-[![preview image of X](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/foss-responders-500x150.jpg?raw=true)](http://localhost:4000/portfolio/2021/08/01/foss-responders.html)
+### [Ushahidi: Data collection platform]()
+Working at Ushahidi as a product designer and then lead designer, I worked on Ushahidi’s flagship tool ‘Ushahidi:Platform’ an open source data collection platform used in crisis scenarios and for human rights cases.
+<br />
+<br />
+[![preview image of Ushahidi data collection](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/ushahidi-500x150.jpg?raw=true)]()
 
 
 ### [Ushahidi:DREAMS]()
-Here's some sample text about X
-[![preview image of X](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/foss-responders-500x150.jpg?raw=true)](http://localhost:4000/portfolio/2021/08/01/foss-responders.html)
+During my time at Ushahidi was additional feature designs and user-testing for the Ushahidi data collection platform in order for the DREAMS program partners to effectively send SMS surveys to multiple beneficiaries.
+<br />
+<br />
+[![preview image of Ushahidi DREAMS](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/foss-responders-500x150.jpg?raw=true)]()
 
 
 ### [Tech and terminal illness]()
-Here's some sample text about X
-[![preview image of X](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/foss-responders-500x150.jpg?raw=true)](http://localhost:4000/portfolio/2021/08/01/foss-responders.html)
+As part of my investigative work into developing products that could help improve user experience of life caring for a person with a terminal illness (or having a terminal illness) I worked on 4 prototype ideas for AR, apps and VR.
+[![preview image of tech and terminal illness](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/foss-responders-500x150.jpg?raw=true)]()
 
 
 ### [I carry stories of you:interactive story]()
-Here's some sample text about X
-[![preview image of X](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/foss-responders-500x150.jpg?raw=true)](http://localhost:4000/portfolio/2021/08/01/foss-responders.html)
+I carry stories of you is an interactive story about the experience of a carer caring for a terminally ill parent.
+[![preview image of I carry stories of you](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/carry-stories-500x150.jpg?raw=true)]()
 
 
 
