@@ -4,35 +4,30 @@ title: "Bristol Pride"
 categories: portfolio
 ---
 
-I carry stories of you is an interactive story about the experience of a carer caring for a terminally ill parent.
+I’m currently on the committee for the Bristol pride festival managing the onsite decor for an outdoor venue that holds up to 10,000 people.
 
-The result of 3 months of investigation into ways in which technology and digital media can improve and support the needs of carers, doctors and patients with terminal illness.
+I produced one large-scale banner over 5 meters tall along with two other local artists and arranged the print and installation on the site.
 
-Through user research, interviews and academic research I discovered a need for those with stories to communicate them to others, both with similar experiences and those with no terminal illness experiences.
+My responsibilities including sourcing and decorating the rest of the site with a mixture of purchase decor and crafted decor including custom painted banners and mounted boards.
 
-With the permission of my research subjects I worked on a short part of a carers journey, building in interactivity to help the players relate to the subject matter.
+I worked with sponsors to represent their brands and supportive diversity messages in print and digital.
 
-This project used my skills in User Research, User Experience, Game Design, UI Design, Illustration and Interactive story telling.
-
-In certain areas of the interactive story, I built in routes to formal information should the users want to dive deeper into medical or support information.
-
-You can download the interactive experience on the [Caring for the Dying itch.io page](https://caringforthedying.itch.io/i-carry-stories-of-you) here for both Windows and Mac. The experience is in Alpha stage and will be developed further.
-
-The Caring for the Dying itch.io page will serve as a hub for any games or interactive stories that aim to communicate experiences with terminal illnesses.
+Animation featured on a large outdoor screen which were a mixture of celebratory messaging and corporate sponsorship messages.
+The software and techniques used in this project includes: Adobe Illustrator, Animate CC, After Effects and hand-drawn media.
 
 
 <br />
 
-![Game scene carer and terminally ill figure](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/soy-slide-2.jpeg?raw=true "Game scene carer and terminally ill figure")
-*Game scene carer and terminally ill figure*
+![Pride Banner](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/pride-banner-1.jpeg?raw=true "Pride Banner")
+*Pride Banner*
 
 <br />
 
-![Stills from the game click events](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/soy-slide-1.jpeg?raw=true "Stills from the game click events")
-*Stills from the game click events*
+![Bear animation](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/bear-ani.gif?raw=true "Bear animation")
+*Bear animation*
 
 <br />
 
-![Game information modules](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/soy-slide-3.jpeg?raw=true "Game information modules")
-*Game information modules*
+![Social animation](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/social-ani.gif?raw=true "Social animation")
+*Social animation*
 
