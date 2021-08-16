@@ -81,7 +81,7 @@ I carry stories of you is an interactive story about the experience of a carer c
 ’m currently on the committee for the Bristol pride festival managing the onsite decor for an outdoor venue that holds up to 10,000 people.
 <br />
 <br />
-[![preview image of Bristol Pride](https://erioldoesdesign.github.io/portfolio/2021/07/11/bristol-pride.html)](http://localhost:4000/portfolio/2021/08/01/foss-responders.html)
+[![preview image of Bristol Pride](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/Pride-500x150.jpg?raw=true)](http://localhost:4000/portfolio/2021/08/01/foss-responders.html)
 
 
 
@@ -93,11 +93,11 @@ Leading the visual and UX design projects for a incredibly popular parental cont
 
 
 
-### [Interpals.net]()
+### [Interpals.net](https://erioldoesdesign.github.io/portfolio/2021/07/13/interpals.html)
 Here's some sample text about X
 <br />
 <br />
-[![preview image of X](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/foss-responders-500x150.jpg?raw=true)](http://localhost:4000/portfolio/2021/08/01/foss-responders.html)
+[![preview image of X](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/interpals-500x150.jpg?raw=true)](https://erioldoesdesign.github.io/portfolio/2021/07/13/interpals.html)
 
 
 ### [Unite Students]()
