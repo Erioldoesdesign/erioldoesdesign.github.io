@@ -94,17 +94,17 @@ Leading the visual and UX design projects for a incredibly popular parental cont
 
 
 ### [Interpals.net](https://erioldoesdesign.github.io/portfolio/2021/07/13/interpals.html)
-Here's some sample text about X
+This Interpals redesign was a project for an HCI course module. The project encompassed analysis of the current site, UI elements and brand, isolating the key area of improvement for increasing user understanding and interaction.
 <br />
 <br />
-[![preview image of X](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/interpals-500x150.jpg?raw=true)](https://erioldoesdesign.github.io/portfolio/2021/07/13/interpals.html)
+[![preview image of Interpals](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/interpals-500x150.jpg?raw=true)](https://erioldoesdesign.github.io/portfolio/2021/07/13/interpals.html)
 
 
-### [Unite Students]()
-Here's some sample text about 
+### [Unite Students](https://erioldoesdesign.github.io/portfolio/2021/07/14/unite-students.html)
+I was the lead visual and UX designer for Unite students as the company was scaling up it’s digital profile internally and externally.
 <br />
 <br />
-[![preview image of X](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/foss-responders-500x150.jpg?raw=true)](http://localhost:4000/portfolio/2021/08/01/foss-responders.html)
+[![preview image of Unite Students]()](https://erioldoesdesign.github.io/portfolio/2021/07/14/unite-students.html)
 
 
 ### [Lexis Nexis]()
