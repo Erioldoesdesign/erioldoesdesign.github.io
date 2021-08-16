@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Screen Time app"
+title: "ScreenTime app"
 categories: portfolio
 ---
 
