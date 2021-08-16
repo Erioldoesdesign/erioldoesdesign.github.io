@@ -89,7 +89,7 @@ I carry stories of you is an interactive story about the experience of a carer c
 Leading the visual and UX design projects for a incredibly popular parental control app worldwide across iOS, Android and webapp.
 <br />
 <br />
-[![preview image of ScreenTime](https://erioldoesdesign.github.io/portfolio/2021/07/12/screen-time-app.html)](http://localhost:4000/portfolio/2021/08/01/foss-responders.html)
+[![preview image of ScreenTime](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/screentime-500x150.jpg?raw=true)](https://erioldoesdesign.github.io/portfolio/2021/07/12/screen-time-app.html)
 
 
 
