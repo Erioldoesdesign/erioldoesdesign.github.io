@@ -104,26 +104,26 @@ This Interpals redesign was a project for an HCI course module. The project enco
 I was the lead visual and UX designer for Unite students as the company was scaling up it’s digital profile internally and externally.
 <br />
 <br />
-[![preview image of Unite Students]()](https://erioldoesdesign.github.io/portfolio/2021/07/14/unite-students.html)
+[![preview image of Unite Students](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/unite-500x150.jpg?raw=true)](https://erioldoesdesign.github.io/portfolio/2021/07/14/unite-students.html)
 
 
-### [Lexis Nexis]()
-Here's some sample text about X
+### [Lexis Nexis](https://erioldoesdesign.github.io/portfolio/2021/07/15/lexis-nexis.html)
+At Lexis Nexis in the UK I was the lead UI designer working on a variety of compliance and legal digital services and products, improving and clarifying complex information.
 <br />
 <br />
-[![preview image of X](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/foss-responders-500x150.jpg?raw=true)](http://localhost:4000/portfolio/2021/08/01/foss-responders.html)
+[![preview image of Lexis Nexis]()](https://erioldoesdesign.github.io/portfolio/2021/07/15/lexis-nexis.html)
 
-### [Confused.com]()
-Here's some sample text about X
+### [Confused.com](https://erioldoesdesign.github.io/portfolio/2021/07/16/confused-dot-com.html)
+During my time at Confused.com I worked my way up from junior to mid-weight designer. At the point I left, I was the longest serving member of the design team and had grown the business case for the team to grow and take on more work in-house.
 <br />
 <br />
-[![preview image of X](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/foss-responders-500x150.jpg?raw=true)](http://localhost:4000/portfolio/2021/08/01/foss-responders.html)
+[![preview image of Confused.com]()](https://erioldoesdesign.github.io/portfolio/2021/07/16/confused-dot-com.html)
 
-### [Global Game Jam]()
-Here's some sample text about X
+### [Global Game Jam](https://erioldoesdesign.github.io/portfolio/2021/07/17/global-game-jam.html)
+Global Game Jam is a worldwide event where people interested in making games get together and are presented with a particular challenge or brief and need to create a functioning game out. 2016’s brief was ‘Ritual’.
 <br />
 <br />
-[![preview image of X](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/foss-responders-500x150.jpg?raw=true)](http://localhost:4000/portfolio/2021/08/01/foss-responders.html)
+[![preview image of X]()](https://erioldoesdesign.github.io/portfolio/2021/07/17/global-game-jam.html)
 
 ### [Love Food Hate Waste]()
 Here's some sample text about X
