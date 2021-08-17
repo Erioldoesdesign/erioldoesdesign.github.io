@@ -157,26 +157,26 @@ The Green Map project is a global initiative to create maps that don’t rely he
 [![preview image of Green Map](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/green-map-500x150.jpg?raw=true)](https://erioldoesdesign.github.io/portfolio/2021/07/21/green-map.html)
 
 
-### [Brian the robot]()
+### [Brian the robot](https://erioldoesdesign.github.io/portfolio/2021/07/22/brian-the-robot.html)
 Brian the robot was Confused.com’s mascot for several years. I worked on several satellite projects regarding the Brian character while at Confused.com.
 <br />
 <br />
-[![preview image of Brian the robot](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/foss-responders-500x150.jpg?raw=true)](http://localhost:4000/portfolio/2021/08/01/foss-responders.html)
+[![preview image of Brian the robot](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/brian-500x150.jpg?raw=true)](https://erioldoesdesign.github.io/portfolio/2021/07/22/brian-the-robot.html)
 
-### [Compartment]()
+### [Compartment](https://erioldoesdesign.github.io/portfolio/2021/07/23/Compartment.html)
 Compartment was a speculative master brief to create an all-encompassing brand identity for a UK based arts organisation. The goals of the arts organisation was to showcase and feature up and coming artists across the UK online and in free publications.
 <br />
 <br />
-[![preview image of Compartment](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/foss-responders-500x150.jpg?raw=true)](http://localhost:4000/portfolio/2021/08/01/foss-responders.html)
+[![preview image of Compartment](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/compartment-500x150.jpg?raw=true)](https://erioldoesdesign.github.io/portfolio/2021/07/23/Compartment.html)
 
-### [Scientia Annual]()
+### [Scientia Annual](https://erioldoesdesign.github.io/portfolio/2021/07/24/Scientia-Annual.html)
 Scientia Annuals was a master brief for a print project. The project consisted of designing a brand for a fictional company with a series of book covers. I choose a science based theme as I’ve long had a personal interest in science and technology and wanted to challenge myself with an trio of books.
 <br />
 <br />
-[![preview image of Scientia Annual](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/scientia-500x150.jpg?raw=true)](http://localhost:4000/portfolio/2021/08/01/foss-responders.html)
+[![preview image of Scientia Annual](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/scientia-500x150.jpg?raw=true)](https://erioldoesdesign.github.io/portfolio/2021/07/24/Scientia-Annual.html)
 
 ### [Chapter Arts]()
-Here's some sample text about X
+Chapter Arts Centre in Cardiff approached me to create original posters for two of their outdoor cinema events.
 <br />
 <br />
 [![preview image of X](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/foss-responders-500x150.jpg?raw=true)](http://localhost:4000/portfolio/2021/08/01/foss-responders.html)
