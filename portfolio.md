@@ -181,17 +181,17 @@ Chapter Arts Centre in Cardiff approached me to create original posters for two 
 <br />
 [![preview image of Chapter Arts](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/chapter-500x150.jpg?raw=true)](https://erioldoesdesign.github.io/portfolio/2021/07/25/Chapter-Arts.html)
 
-### [Icycl]()
+### [Icycl](https://erioldoesdesign.github.io/portfolio/2021/07/26/Icycl.html)
 Icycl is a frozen alcohol product that is sold in bars and clubs across the UK. I worked on a consultant basis in order to bring the product to life by supporting University of South Wales 1st year students to develop a brand.
 <br />
 <br />
-[![preview image of Icycl](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/foss-responders-500x150.jpg?raw=true)](http://localhost:4000/portfolio/2021/08/01/foss-responders.html)
+[![preview image of Icycl](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/icycl-500x150.jpg?raw=true)](https://erioldoesdesign.github.io/portfolio/2021/07/26/Icycl.html)
 
 ### [British Apple Consortium]()
-Here's some sample text about X
+The British Apple Consortium was a technical masters brief that combined my mature skills in Illustration and design with (at the time) new technical challenges.
 <br />
 <br />
-[![preview image of X](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/foss-responders-500x150.jpg?raw=true)](http://localhost:4000/portfolio/2021/08/01/foss-responders.html)
+[![preview image of British Apple Consortium](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/BAC-500x150.jpg?raw=true)](http://localhost:4000/portfolio/2021/08/01/foss-responders.html)
 
 ### [Logo Design]()
 Here's some sample text about X
