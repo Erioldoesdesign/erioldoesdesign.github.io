@@ -173,7 +173,7 @@ Compartment was a speculative master brief to create an all-encompassing brand i
 Scientia Annuals was a master brief for a print project. The project consisted of designing a brand for a fictional company with a series of book covers. I choose a science based theme as I’ve long had a personal interest in science and technology and wanted to challenge myself with an trio of books.
 <br />
 <br />
-[![preview image of Scientia Annual](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/foss-responders-500x150.jpg?raw=true)](http://localhost:4000/portfolio/2021/08/01/foss-responders.html)
+[![preview image of Scientia Annual](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/scientia-500x150.jpg?raw=true)](http://localhost:4000/portfolio/2021/08/01/foss-responders.html)
 
 ### [Chapter Arts]()
 Here's some sample text about X
