@@ -135,18 +135,19 @@ Love food hate waste are a UK based charitable organisation focused on reducing 
 [![preview image of Love Food Hate Waste](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/food-waste-500x150.jpg?raw=true)](https://erioldoesdesign.github.io/portfolio/2021/07/18/Love-Food-Hate-Waste.html)
 
 
-### [Digital Illustration]()
+### [Digital Illustration](https://erioldoesdesign.github.io/portfolio/2021/07/19/digital-Illustration.html)
+Over the years I’ve created illustration work for posters, events and personal use.
+My preferred Illustration style is vector, graphic fashion and pixel though I am also a digital painter.
+<br />
+<br />
+[![preview image of Digital Illustration](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/digi-illu-500x150.jpg?raw=true)](https://erioldoesdesign.github.io/portfolio/2021/07/19/digital-Illustration.html)
+
+
+### [Credit Card Matcher]()
 Here's some sample text about X
 <br />
 <br />
-[![preview image of X](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/foss-responders-500x150.jpg?raw=true)](http://localhost:4000/portfolio/2021/08/01/foss-responders.html)
-
-
-### [Confused.com – Credit Cards]()
-Here's some sample text about X
-<br />
-<br />
-[![preview image of X](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/foss-responders-500x150.jpg?raw=true)](http://localhost:4000/portfolio/2021/08/01/foss-responders.html)
+[![preview image of Credit Card Matcher]()]()
 
 ### [Green Map]()
 Here's some sample text about X
