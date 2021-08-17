@@ -128,11 +128,11 @@ Global Game Jam is a worldwide event where people interested in making games get
 [![preview image of X](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/GG-jam-500x150.jpg?raw=true)](https://erioldoesdesign.github.io/portfolio/2021/07/17/global-game-jam.html)
 
 
-### [Love Food Hate Waste]()
-Here's some sample text about X
+### [Love Food Hate Waste](https://erioldoesdesign.github.io/portfolio/2021/07/18/Love-Food-Hate-Waste.html)
+Love food hate waste are a UK based charitable organisation focused on reducing food waste by educating people on how best to store food, use leftovers and managing their food purchasing.
 <br />
 <br />
-[![preview image of X](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/foss-responders-500x150.jpg?raw=true)](http://localhost:4000/portfolio/2021/08/01/foss-responders.html)
+[![preview image of Love Food Hate Waste](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/food-waste-500x150.jpg?raw=true)](https://erioldoesdesign.github.io/portfolio/2021/07/18/Love-Food-Hate-Waste.html)
 
 
 ### [Digital Illustration]()
