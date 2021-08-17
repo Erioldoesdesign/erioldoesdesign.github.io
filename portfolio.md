@@ -111,19 +111,22 @@ I was the lead visual and UX designer for Unite students as the company was scal
 At Lexis Nexis in the UK I was the lead UI designer working on a variety of compliance and legal digital services and products, improving and clarifying complex information.
 <br />
 <br />
-[![preview image of Lexis Nexis]()](https://erioldoesdesign.github.io/portfolio/2021/07/15/lexis-nexis.html)
+[![preview image of Lexis Nexis](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/LN-500x150.jpg?raw=true)](https://erioldoesdesign.github.io/portfolio/2021/07/15/lexis-nexis.html)
+
 
 ### [Confused.com](https://erioldoesdesign.github.io/portfolio/2021/07/16/confused-dot-com.html)
 During my time at Confused.com I worked my way up from junior to mid-weight designer. At the point I left, I was the longest serving member of the design team and had grown the business case for the team to grow and take on more work in-house.
 <br />
 <br />
-[![preview image of Confused.com]()](https://erioldoesdesign.github.io/portfolio/2021/07/16/confused-dot-com.html)
+[![preview image of Confused.com](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/confused-500x150.jpg?raw=true)](https://erioldoesdesign.github.io/portfolio/2021/07/16/confused-dot-com.html)
+
 
 ### [Global Game Jam](https://erioldoesdesign.github.io/portfolio/2021/07/17/global-game-jam.html)
 Global Game Jam is a worldwide event where people interested in making games get together and are presented with a particular challenge or brief and need to create a functioning game out. 2016’s brief was ‘Ritual’.
 <br />
 <br />
-[![preview image of X]()](https://erioldoesdesign.github.io/portfolio/2021/07/17/global-game-jam.html)
+[![preview image of X](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/GG-jam-500x150.jpg?raw=true)](https://erioldoesdesign.github.io/portfolio/2021/07/17/global-game-jam.html)
+
 
 ### [Love Food Hate Waste]()
 Here's some sample text about X
