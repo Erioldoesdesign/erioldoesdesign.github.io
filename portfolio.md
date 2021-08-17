@@ -175,17 +175,17 @@ Scientia Annuals was a master brief for a print project. The project consisted o
 <br />
 [![preview image of Scientia Annual](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/scientia-500x150.jpg?raw=true)](https://erioldoesdesign.github.io/portfolio/2021/07/24/Scientia-Annual.html)
 
-### [Chapter Arts]()
+### [Chapter Arts](https://erioldoesdesign.github.io/portfolio/2021/07/25/Chapter-Arts.html)
 Chapter Arts Centre in Cardiff approached me to create original posters for two of their outdoor cinema events.
 <br />
 <br />
-[![preview image of X](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/foss-responders-500x150.jpg?raw=true)](http://localhost:4000/portfolio/2021/08/01/foss-responders.html)
+[![preview image of Chapter Arts](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/chapter-500x150.jpg?raw=true)](https://erioldoesdesign.github.io/portfolio/2021/07/25/Chapter-Arts.html)
 
 ### [Icycl]()
-Here's some sample text about X
+Icycl is a frozen alcohol product that is sold in bars and clubs across the UK. I worked on a consultant basis in order to bring the product to life by supporting University of South Wales 1st year students to develop a brand.
 <br />
 <br />
-[![preview image of X](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/foss-responders-500x150.jpg?raw=true)](http://localhost:4000/portfolio/2021/08/01/foss-responders.html)
+[![preview image of Icycl](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/foss-responders-500x150.jpg?raw=true)](http://localhost:4000/portfolio/2021/08/01/foss-responders.html)
 
 ### [British Apple Consortium]()
 Here's some sample text about X
