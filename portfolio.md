@@ -149,29 +149,31 @@ Confused.com the Credit Cards re-design was one of the most ambitious projects u
 <br />
 [![preview image of Credit Card Matcher](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/CC-matcher-500x150.jpg?raw=true)](https://erioldoesdesign.github.io/portfolio/2021/07/20/credit-cards.html)
 
-### [Green Map]()
+
+### [Green Map](https://erioldoesdesign.github.io/portfolio/2021/07/21/green-map.html)
 The Green Map project is a global initiative to create maps that don’t rely heavily on the ‘native’ language of the area and promotes a universal language through iconography to be used across the globe.
 <br />
 <br />
-[![preview image of Green Map](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/foss-responders-500x150.jpg?raw=true)]()
+[![preview image of Green Map](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/green-map-500x150.jpg?raw=true)](https://erioldoesdesign.github.io/portfolio/2021/07/21/green-map.html)
+
 
 ### [Brian the robot]()
-Here's some sample text about X
+Brian the robot was Confused.com’s mascot for several years. I worked on several satellite projects regarding the Brian character while at Confused.com.
 <br />
 <br />
-[![preview image of X](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/foss-responders-500x150.jpg?raw=true)](http://localhost:4000/portfolio/2021/08/01/foss-responders.html)
+[![preview image of Brian the robot](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/foss-responders-500x150.jpg?raw=true)](http://localhost:4000/portfolio/2021/08/01/foss-responders.html)
 
 ### [Compartment]()
-Here's some sample text about X
+Compartment was a speculative master brief to create an all-encompassing brand identity for a UK based arts organisation. The goals of the arts organisation was to showcase and feature up and coming artists across the UK online and in free publications.
 <br />
 <br />
-[![preview image of X](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/foss-responders-500x150.jpg?raw=true)](http://localhost:4000/portfolio/2021/08/01/foss-responders.html)
+[![preview image of Compartment](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/foss-responders-500x150.jpg?raw=true)](http://localhost:4000/portfolio/2021/08/01/foss-responders.html)
 
 ### [Scientia Annual]()
-Here's some sample text about X
+Scientia Annuals was a master brief for a print project. The project consisted of designing a brand for a fictional company with a series of book covers. I choose a science based theme as I’ve long had a personal interest in science and technology and wanted to challenge myself with an trio of books.
 <br />
 <br />
-[![preview image of X](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/foss-responders-500x150.jpg?raw=true)](http://localhost:4000/portfolio/2021/08/01/foss-responders.html)
+[![preview image of Scientia Annual](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/foss-responders-500x150.jpg?raw=true)](http://localhost:4000/portfolio/2021/08/01/foss-responders.html)
 
 ### [Chapter Arts]()
 Here's some sample text about X
