@@ -143,17 +143,17 @@ My preferred Illustration style is vector, graphic fashion and pixel though I am
 [![preview image of Digital Illustration](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/digi-illu-500x150.jpg?raw=true)](https://erioldoesdesign.github.io/portfolio/2021/07/19/digital-Illustration.html)
 
 
-### [Credit Card Matcher]()
-Here's some sample text about X
+### [Credit Card Matcher](https://erioldoesdesign.github.io/portfolio/2021/07/20/credit-cards.html)
+Confused.com the Credit Cards re-design was one of the most ambitious projects undertaken on a solo basis. This project required a complete redesign of the front-end, user journey and back-end infrastructure.
 <br />
 <br />
-[![preview image of Credit Card Matcher]()]()
+[![preview image of Credit Card Matcher](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/CC-matcher-500x150.jpg?raw=true)](https://erioldoesdesign.github.io/portfolio/2021/07/20/credit-cards.html)
 
 ### [Green Map]()
-Here's some sample text about X
+The Green Map project is a global initiative to create maps that don’t rely heavily on the ‘native’ language of the area and promotes a universal language through iconography to be used across the globe.
 <br />
 <br />
-[![preview image of X](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/foss-responders-500x150.jpg?raw=true)](http://localhost:4000/portfolio/2021/08/01/foss-responders.html)
+[![preview image of Green Map](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/foss-responders-500x150.jpg?raw=true)]()
 
 ### [Brian the robot]()
 Here's some sample text about X
