@@ -187,17 +187,21 @@ Icycl is a frozen alcohol product that is sold in bars and clubs across the UK. 
 <br />
 [![preview image of Icycl](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/icycl-500x150.jpg?raw=true)](https://erioldoesdesign.github.io/portfolio/2021/07/26/Icycl.html)
 
-### [British Apple Consortium]()
+### [British Apple Consortium](https://erioldoesdesign.github.io/portfolio/2021/07/27/british-apple-consortium.html)
 The British Apple Consortium was a technical masters brief that combined my mature skills in Illustration and design with (at the time) new technical challenges.
 <br />
 <br />
-[![preview image of British Apple Consortium](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/BAC-500x150.jpg?raw=true)](http://localhost:4000/portfolio/2021/08/01/foss-responders.html)
+[![preview image of British Apple Consortium](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/BAC-500x150.jpg?raw=true)](https://erioldoesdesign.github.io/portfolio/2021/07/27/british-apple-consortium.html)
+
+
 
 ### [Logo Design]()
-Here's some sample text about X
+Through my career I’ve been approached to create several logos and brands. I believe that a logo/brand should fit the company and intended customer base as opposed to play to the designers technical and stylistic strengths.
 <br />
 <br />
-[![preview image of X](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/foss-responders-500x150.jpg?raw=true)](http://localhost:4000/portfolio/2021/08/01/foss-responders.html)
+[![preview image of Logo Design](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/logos-500x150.jpg?raw=true)]()
+
+
 
 ### [Grrl Game Jam]()
 Here's some sample text about X
