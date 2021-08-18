@@ -1,25 +1,43 @@
 ---
 layout: post
-title: "Grrl Game Jam"
+title: "Traditional Illustration"
 categories: portfolio
 ---
 
-This Game Jam was a female, non-binary and trans one only. I worked with a team of great people including unity coders and a game designer. I produced the entire suite of characters, illustrations, animations, interface elements and styling.
+My traditional Illustration, much like the fine art that I create, helps me to develop and express a visual style that I feel close to. I create hand-drawn works of figures, faces, objects, landscapes and situations and overlay these with hand-written text and textures.
 
-The theme of this Game Jam was ‘Boundaries’. We worked on a game where you had 4 separate cities with populations you had to lure into the centre of the game space with favourite foods. Once there the populations would mingle and become more tolerant of each other and start to live in other cities and grow to like different foods.
+I build these images up in frames and 3D spaces often to further the 3D aspect of the images. When light is shone on these images, they often cast an interesting shadow.
 
-<br />
+The textures are created and found and printed on clear acetate. I supplement this work with regular still life studies, usually in museums and while out in various cities.
 
-![Game layout](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/Nomittyville-1024x623.jpeg?raw=true "Game layout")
-*Game layout*
-
-<br />
-
-![Game characters](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/xx-game-jam-1.jpeg?raw=true "Game characters")
-*Game characters*
-
+My work is available for gallery shows and in spaces that support artists. Each work is individual and no prints have been made. They retain a sense of individuality.
 
 <br />
 
-![Game locations](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/xx-game-jam-2.jpeg?raw=true "Game locations")
-*Game locations*
+![Femme drawing](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/illustration-2.jpeg?raw=true "Femme drawing")
+*Femme drawing*
+
+<br />
+
+![Cicada](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/illustration-3.jpeg?raw=true "Cicada")
+*Cicada*
+
+
+<br />
+
+![Typography](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/illustration-5.jpeg?raw=true "Typography")
+*Typography*
+
+
+<br />
+
+![Skulls and femme folks](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/illustration-1.jpeg?raw=true "Skulls and femme folks")
+*Skulls and femme folks*
+
+
+<br />
+
+![Line drawings](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/illustration-4.jpeg?raw=true "Line drawings")
+*Line drawings*
+
+

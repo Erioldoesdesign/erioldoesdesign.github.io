@@ -195,43 +195,50 @@ The British Apple Consortium was a technical masters brief that combined my matu
 
 
 
-### [Logo Design]()
+### [Logo Design](https://erioldoesdesign.github.io/portfolio/2021/07/28/logo-design.html)
 Through my career I’ve been approached to create several logos and brands. I believe that a logo/brand should fit the company and intended customer base as opposed to play to the designers technical and stylistic strengths.
 <br />
 <br />
-[![preview image of Logo Design](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/logos-500x150.jpg?raw=true)]()
+[![preview image of Logo Design](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/logos-500x150.jpg?raw=true)](https://erioldoesdesign.github.io/portfolio/2021/07/28/logo-design.html)
 
 
 
-### [Grrl Game Jam]()
-Here's some sample text about X
+### [Grrl Game Jam](https://erioldoesdesign.github.io/portfolio/2021/07/29/Grrl-game-jam.html)
+I worked with a team of great people including unity coders and a game designer. I produced the entire suite of characters, illustrations, animations, interface elements and styling.
 <br />
 <br />
-[![preview image of X](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/foss-responders-500x150.jpg?raw=true)](http://localhost:4000/portfolio/2021/08/01/foss-responders.html)
+[![preview image of Grrl Game Jam](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/grrl-game-500x150.jpg?raw=true)](https://erioldoesdesign.github.io/portfolio/2021/07/29/Grrl-game-jam.html)
+
+
 
 ### [Traditional Illustration]()
-Here's some sample text about X
+I create hand-drawn works of figures, faces, objects, landscapes and situations and overlay these with hand-written text and textures.
 <br />
 <br />
-[![preview image of X](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/foss-responders-500x150.jpg?raw=true)](http://localhost:4000/portfolio/2021/08/01/foss-responders.html)
+[![preview image of Traditional Illustration]()](http://localhost:4000/portfolio/2021/08/01/foss-responders.html)
+
+
 
 ### [British Research]()
-Here's some sample text about X
+At a small electronic company in rural Wales, I helped build their core electronics meter business for a worldwide audience and their R&D department in partnership with the University of South Wales Phd department in Cardiff called, British Research.
 <br />
 <br />
-[![preview image of X](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/foss-responders-500x150.jpg?raw=true)](http://localhost:4000/portfolio/2021/08/01/foss-responders.html)
+[![preview image of British Research](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/BR-500x150.jpg?raw=true)](http://localhost:4000/portfolio/2021/08/01/foss-responders.html)
+
+
 
 ### [Print design]()
-Here's some sample text about X
+Much of my editorial work is for small press magazines and publications. Including feature illustration and internal page layouts.
 <br />
 <br />
-[![preview image of X](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/foss-responders-500x150.jpg?raw=true)](http://localhost:4000/portfolio/2021/08/01/foss-responders.html)
+[![preview image of Print design](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/print-500x150.jpg?raw=true)](http://localhost:4000/portfolio/2021/08/01/foss-responders.html)
+
 
 ### [Fine art]()
-Here's some sample text about X
+I typically make graphic inspired work that mixes 2D and 3D with text and textures. My most recent work uses animal bones with overlaid text, patterns and paint mounted on board or on illustrated bases in frames.
 <br />
 <br />
-[![preview image of X](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/foss-responders-500x150.jpg?raw=true)](http://localhost:4000/portfolio/2021/08/01/foss-responders.html)
+[![preview image of Fine art](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/art-500x150.jpg?raw=true)](http://localhost:4000/portfolio/2021/08/01/foss-responders.html)
 
 
 
