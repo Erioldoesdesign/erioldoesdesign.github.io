@@ -211,34 +211,34 @@ I worked with a team of great people including unity coders and a game designer.
 
 
 
-### [Traditional Illustration]()
+### [Traditional Illustration](https://erioldoesdesign.github.io/portfolio/2021/07/30/trad-illustration.html)
 I create hand-drawn works of figures, faces, objects, landscapes and situations and overlay these with hand-written text and textures.
 <br />
 <br />
-[![preview image of Traditional Illustration]()](http://localhost:4000/portfolio/2021/08/01/foss-responders.html)
+[![preview image of Traditional Illustration](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/trad-illu500x150.jpg?raw=true)](https://erioldoesdesign.github.io/portfolio/2021/07/30/trad-illustration.html)
 
 
 
-### [British Research]()
+### [British Research](https://erioldoesdesign.github.io/portfolio/2021/08/01/British-Research.html)
 At a small electronic company in rural Wales, I helped build their core electronics meter business for a worldwide audience and their R&D department in partnership with the University of South Wales Phd department in Cardiff called, British Research.
 <br />
 <br />
-[![preview image of British Research](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/BR-500x150.jpg?raw=true)](http://localhost:4000/portfolio/2021/08/01/foss-responders.html)
+[![preview image of British Research](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/BR-500x150.jpg?raw=true)](https://erioldoesdesign.github.io/portfolio/2021/08/01/British-Research.html)
 
 
 
-### [Print design]()
+### [Print design](https://erioldoesdesign.github.io/portfolio/2021/08/02/print-design.html)
 Much of my editorial work is for small press magazines and publications. Including feature illustration and internal page layouts.
 <br />
 <br />
-[![preview image of Print design](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/print-500x150.jpg?raw=true)](http://localhost:4000/portfolio/2021/08/01/foss-responders.html)
+[![preview image of Print design](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/print-500x150.jpg?raw=true)](https://erioldoesdesign.github.io/portfolio/2021/08/02/print-design.html)
 
 
-### [Fine art]()
+### [Fine art](https://erioldoesdesign.github.io/portfolio/2021/08/03/fine-art.html)
 I typically make graphic inspired work that mixes 2D and 3D with text and textures. My most recent work uses animal bones with overlaid text, patterns and paint mounted on board or on illustrated bases in frames.
 <br />
 <br />
-[![preview image of Fine art](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/art-500x150.jpg?raw=true)](http://localhost:4000/portfolio/2021/08/01/foss-responders.html)
+[![preview image of Fine art](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/art-500x150.jpg?raw=true)](https://erioldoesdesign.github.io/portfolio/2021/08/03/fine-art.html)
 
 
 
