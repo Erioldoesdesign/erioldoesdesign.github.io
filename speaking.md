@@ -16,6 +16,8 @@ permalink: /speaking/
 
 Drop Eriol an email about speaking at your event: erioldoesdesign{at}gmail{dot}com
 
+You can view recordings of some of Eriol's talks and workshops at various conferences on a [youtube playlist here](https://www.youtube.com/playlist?list=PLwz4EueITgvmJzrNWbGkAMeDVLlOWQuch)
+
 ### View Eriol’s speaking pitches: 
 
 * [UX research and Ethnographic design for humanitarian technology](https://www.papercall.io/speakers/eriolfox/speaker_talks/170147-ux-research-and-ethnographic-design-for-humanitarian-technology)
