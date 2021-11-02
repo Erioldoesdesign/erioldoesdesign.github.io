@@ -21,7 +21,7 @@ After discovering a love for Free and Libre Open Source Software I started contr
 
 You can find me online [@erioldoesdesign](https://twitter.com/EriolDoesDesign) on various social media and networking sites.
 
-![Eriol speaking at Design matters 2019 on designing for human rights technology](https://erioldoesdesign.com/wp/wp-content/uploads/2014/12/eriol-main-pg-2.jpg "Eriol speaking at Design matters 2019 on designing for human rights technology")
+![Eriol speaking at Design matters 2019 on designing for human rights technology](https://raw.githubusercontent.com/Erioldoesdesign/erioldoesdesign.github.io/master/images/Eriol-design-matters-2019-main.jpg "Eriol speaking at Design matters 2019 on designing for human rights technology")
 
 
 
