@@ -29,13 +29,13 @@ You can view recordings of some of Eriol's talks and workshops at various confer
 
 ## Podcast appearances
 
-UX Wizards - in the edit suite!
+UX Wizards - [Part 1 - What is open Source Software. Learn how designers can get involved across multiple projects that can impact meaningful social change.](https://open.spotify.com/episode/02hzVlA9o2ChxgiaBnVEbl?si=73ede393c7ea4215)[Part 2 - Learn more about Eriol's involvement in NGO's and tech for good](https://open.spotify.com/episode/3aG8hS1VVL0hXrbuCHtbaf?si=i4qH5IyGTdmsSn9s2ueMng)
 
 Sustain OSS - [episode 72 Sustaining open source design](https://podcast.sustainoss.org/72)
 
 This is HCD – [Diversity in Design](https://www.thisishcd.com/episode/eriol-fox-diversity-in-design)
 
-SOS Design Podcast - [episode 1](https://sosdesign.sustainoss.org/1), [episode 2](https://sosdesign.sustainoss.org/2), [episode 4](https://sosdesign.sustainoss.org/4)
+SOS Design Podcast Host - [I host episodes of the SOS Design Podcast](https://sosdesign.sustainoss.org/)
 
 Tech For Good Live - [S1 Ep 1 Big Nerd Energy](https://pod.co/tech-for-good-live/tfgl2021-s1-ep1-big-nerd-energy) 
 
@@ -45,6 +45,10 @@ Bezier Podcast - [Designer for Humanitarin tools](https://anchor.fm/bezier/episo
 
 
 ## Talks & workshops
+
+### 2022
+
+Watch this space! ;)
 
 ### 2021 
 
@@ -63,6 +67,23 @@ Bezier Podcast - [Designer for Humanitarin tools](https://anchor.fm/bezier/episo
 [COSCUP 2021](https://coscup.org/2021/zh-TW/session/3WAUDK): (Online) Taiwan, July 31st and August 1st 2021, 20 mins talk, "Mentoring designers in open Source Software: What I've learned mentoring and supporting designers in OSS."
 
 [GitLab Commit 2021](https://gitlabcommitvirtual2021.sched.com/?iframe=yes&w=100%&sidebar=yes&bg=no#): (Online) Global, 3rd and 4th August 2021, "Lessons from Mentoring and Supporting Designers in OSS"
+
+[Remote Design Week](https://remotedesignweek.com/)
+
+[UX Y'all](https://www.uxyall.org/)
+
+[UXInsight Unfolds 2021](https://uxinsight.org/uxinsight-unfolds-2021/)
+
+[Design Club: London](https://designclub.io/)
+
+[DrupalCon Europe 2021](https://www.drupal.org/community/events/drupalcon-europe-2021-2021-10-04)
+
+[ADP List: Empowering Women in Tech](https://adplist.org/session/empowering-women-in-tech)
+
+[TU Delft: Diversity & Inclusion in Research, Technology and Design](https://osc-delft.github.io/)
+
+[Shula's Table Talk show](https://www.youtube.com/watch?v=0B-NDJtTVn0)
+
 
 
 ### 2020
