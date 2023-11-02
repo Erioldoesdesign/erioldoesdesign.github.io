@@ -21,7 +21,7 @@ After discovering a love for Free and Libre Open Source Software (FLOSS or OSS) 
 
 You can find me online [@erioldoesdesign](https://hachyderm.io/@erioldoesdesign) on various social media and networking sites, primarily the Mastodon Hacyderm server.
 
-![Eriol speaking at Design matters 2019 on designing for human rights technology](https://raw.githubusercontent.com/Erioldoesdesign/erioldoesdesign.github.io/master/images/Eriol-design-matters-2019-main.jpg "Eriol speaking at Design matters 2019 on designing for human rights technology")
+![Eriol speaking at very conferences and events](https://raw.githubusercontent.com/Erioldoesdesign/erioldoesdesign.github.io/master/images/homepage-photo-montage.png "Eriol speaking at various conferences and events")
 
 
 
