@@ -6,21 +6,21 @@ permalink: /speaking/
 
 ### Eriol is available to speak at events and conferences on the following topics:
 
-* Designing for humanitarian tech, tech for good and NGO’s
+* Designing for Humanitarian and Human Rights technology
 * Open Source Design, Design in the OSS space and Design documentation
-* UX design
+* User Experience design
 * In-house design teams
-* Diversity in design
+* Diversity, Equity and Inclusion in design
 * LGBTQ+ representation in design
 * Designing experiences for the terminally ill and their carers
 
-Drop Eriol an email about speaking at your event: erioldoesdesign{at}gmail{dot}com
+Drop Eriol an email about speaking at your event: erioldoesdesign@gmail.com
 
 You can view recordings of some of Eriol's talks and workshops at various conferences on a [youtube playlist here](https://www.youtube.com/playlist?list=PLwz4EueITgvmJzrNWbGkAMeDVLlOWQuch)
 
 ### View Eriol’s speaking pitches: 
 
-* [UX research and Ethnographic design for humanitarian technology](https://www.papercall.io/speakers/eriolfox/speaker_talks/170147-ux-research-and-ethnographic-design-for-humanitarian-technology)
+* [Design research and UX in humanitarian and human rights technologies](https://www.papercall.io/speakers/eriolfox/speaker_talks/170147-ux-research-and-ethnographic-design-for-humanitarian-technology)
 * [Open Source Design with OSS](https://www.papercall.io/speakers/eriolfox/speaker_talks/125556-open-source-design-with-oss-humanitarian-tech-tools)
 * [Diverse representations in design and awkward conversations with colleagues](https://www.papercall.io/speakers/eriolfox/speaker_talks/30729-diverse-representations-in-design-and-awkward-conversations-with-colleagues)
 * [Designing tech tools for crisis & natural disaster relief in developed and developing countries](https://www.papercall.io/speakers/eriolfox/speaker_talks/101735-designing-tech-tools-for-crisis-natural-disaster-relief-in-developed-and-developing-countries)
@@ -28,6 +28,8 @@ You can view recordings of some of Eriol's talks and workshops at various confer
 
 
 ## Podcast appearances
+
+Marketing Made Inclusive Podcast - [EP 25: Inclusive Design Deep Dive with Eriol Fox](https://www.arimacompany.com/mmi-podcast/ep-24-inclusive-design-deep-dive-with-eriol-fox) 
 
 UX Wizards - [Part 1 - What is open Source Software. Learn how designers can get involved across multiple projects that can impact meaningful social change.](https://open.spotify.com/episode/02hzVlA9o2ChxgiaBnVEbl?si=73ede393c7ea4215)[Part 2 - Learn more about Eriol's involvement in NGO's and tech for good](https://open.spotify.com/episode/3aG8hS1VVL0hXrbuCHtbaf?si=i4qH5IyGTdmsSn9s2ueMng)
 
@@ -44,11 +46,90 @@ Loud Ideas – [Episode #5: Designing For All with Eriol Fox](https://www.minddo
 Bezier Podcast - [Designer for Humanitarin tools](https://anchor.fm/bezier/episodes/Eriol-Fox--Designer-for-Humanitarian-Tools-ea4fer)
 
 
+## Magazines & Articles
+
+[A passion for inclusive design - ALHAUS](https://www.alhaus.com/alhaus-magazine/inclusive-design)
+
+[A Humanitarian’s Tech-Savy Response To Crisis - DeMagSign](https://medium.com/demagsign/a-humanitarians-tech-savy-response-to-crisis-9ba03934ef48)
+
+[UX design for social good - Zietspace](https://www.zeitspace.com/blog/ux-design-for-social-good)
+
+[Could remote UX work help democratize design?](https://www.zeitspace.com/blog/could-remote-ux-work-help-democratize-design)
+
+[Digital Her with Eriol Fox](https://techspark.co/blog/2021/01/20/digital-her-with-eriol-fox/)
+
+[A11y Project spotlight](https://www.a11yproject.com/spotlight/eriol-fox/)
+
+[Open Source stories](https://www.opensourcestories.org/stories/2022/eriol-fox/)
+
+
+
 ## Talks & workshops
+
+## 2023
+
+[FOSDEM 2023](https://archive.fosdem.org/2023/) February 2023
+
+[FOSS Backstage 2023](https://23.foss-backstage.de/) March 2023
+
+[24 hour Hackathon for Women and Gender Minorities](https://people.bath.ac.uk/ibr24/) March 2023
+
+[Turing Institute Lunch & Learn](https://www.turing.ac.uk/events) April 2023
+
+[Global Accessibility Day](https://accessibility.umn.edu/gaad/2023) May 2023
+
+[RightsCon 2023](https://www.rightscon.org/how-to-follow-along-rightscon-costa-rica/) June 2023 
+
+[Mozfest House 2023](https://foundation.mozilla.org/en/blog/celebrating-mozfest-house-2023/) June 2023
+
+[PenPot Festival 2023](https://penpotfest.org/) June 2023
+
+[FOSSY 2023](https://2023.fossy.us/) July 2023
+
+[COSCUP 2023](https://coscup.org/2023/en/) July 2023
+
+[Feira Global Gathering 2023](https://wiki.digitalrights.community/index.php?title=Global_Gathering_Feira_Agenda) September 2023
+
+[Prototype Fund Round 14](https://prototypefund.de/en/) Launch August 2023
+
+[FrontConference 2023](https://frontconference.com/) August 2023
+
+[Oh the Humanity! 2023](https://oh.helsinkiruby.fi/) October 2023
+
+[Interdiciplenary Open Practices @ University of Vermont](https://verso.w3.uvm.edu/iop-workshop-panels/) October 2023
+
+[Ubuntu Summit 2023](https://events.canonical.com/event/31/) November 2023
+
+[NonProfit Dev summit 2023](https://devsummit.aspirationtech.org/index.php?title=Main_Page) November 2023
+
 
 ### 2022
 
-Watch this space! ;)
+[FOSDEM 2022](https://archive.fosdem.org/2022/) (Online) & Brussels, 5th - 6th February 2022, 25 mins Talk x 2 "Synthesising user testing insights with OSS tool teams" & "1 year of the Sustaining open source design podcastWhat key themes emerged from 1 year and 17 episodes of design in open source podcasts?"
+
+[Mozilla Festival 2022](https://foundation.mozilla.org/en/blog/save-the-date-mozfest-2022/), Online, 7th - 10th March, 2022, 15 mins lightening talk "Usable Tools: Design Resources for OSS tool team developers"
+
+[Open Source Bristol,](https://www.meetup.com/open-source-bristol/events/284198269/) Bristol, 30th March 2022, 45 min talk "Design contributions to OSS: Learnings from the Open Design workshops project"
+
+[FOSSASIA](https://www.eventyay.com/e/6b901f56), Online, 7th - 9th April, 2022, 15 mins lightening talk "Usable Tools: Design Resources for OSS tool team developers".
+
+[UXForum](https://usable.tools/blog/2022-02-07-uxforum2022/), Online, 25th - 29th April, 2022, 1 hour workshop.
+
+[UCD Gathering 2022](https://www.ucdgathering.net/) Online, Global, 8th - 9th June, 60 min talk "Centring human rights and trauma in design"
+
+[RightsCon 2022](https://www.rightscon.org/cms/assets/uploads/2022/09/Outcomes-Report-2022-v11.pdf), Online, Global, 6th - 10th June, Open Session. "How 'doing design' is colonial within humanitarian and human rights work"
+
+[Happy Healthy Communication Presented by Twilio](https://yougotthis.io/collections/happy-healthy-communication/), Online, Global, 17th August, 15 min Talk "Changing Your Mind"
+
+[Open@RIT 2022](https://www.rit.edu/research/open#events) Rochester, NY, 7th - 8th September 2022, Panel. "Open Work Practices"
+
+[CZI Open Science 2022](https://chanzuckerberg.com/science/meetings/?year=2022) Annual Meeting, Santa Rosa, 18th - 21th September 2022. BOF session, "Birds of a feather: How is design and usability done in open science and open source scientific software?"
+
+[All Things Open 2022](https://2022.allthingsopen.org/) Raleigh, NC 30th October - 2nd November 2022, 3 hour workshop and Panel "Moderated Panel with Audience Q&A - Inclusion & Diversity in Open Source" "Making Open More Open: A design workshop for non-designers in FLOSS"
+
+[Open Technology Fund](https://superbloom.design/learning/blog/learnings-from-the-otf-shutdowns-getdown-gathering-2022/) Get down shutdown, UK, October 2022. Workshops and discussions.
+
+[NonProfit Dev summit](https://aspirationtech.org/events/devsummit22) 16th - 18th November 2022. Discussions around design and usability in OSS and the nonprofit tech space.
 
 ### 2021 
 
@@ -60,30 +141,35 @@ Watch this space! ;)
 
 [CFP diversity day 2021](https://www.globaldiversitycfpday.com/):(Online) Europe, February 20th 2021, 20 mins talk, “Caring for your audience”
 
-[RighstCon 2021](https://www.rightscon.org/): Online, Global, 7th June to 11 June, 1hr panel discussion and Social Hour, "The impact of gender diversity on the use of digital technologies within the human rights sector" and "Social Hour: Meet the Human Rights-Centered Design (HRCD) community"
+[Women In Tech: Tech(k)now Day](https://innovationwm.co.uk/events/women-in-tech-techknow-day/) Online, Global, 8th March 2021, 45 mins Talk "UX Research and Ethnographic Design for Humanitarian Technology"
 
-[Shula's table talk show on tech](https://www.youtube.com/watch?v=0B-NDJtTVn0): (Online) July 10th 2021, 1hr 25mins panel dicussion on "Design and tech"
+[Responsibility Tech](https://response-ability.tech/) Online, Global, 20th - 21st May 2021, 45 mins talk "Designing for marginalised and forgotten communities"]
+
+[RightsCon 2021](https://www.rightscon.org/): Online, Global, 7th June to 11 June, 1hr panel discussion and Social Hour, "The impact of gender diversity on the use of digital technologies within the human rights sector" and "Social Hour: Meet the Human Rights-Centered Design (HRCD) community"
+
+[CreativeMornings Lates](https://the-dots.com/events/creativemornings-lates-creating-with-pride-7083) Creating with Pride London, 24th Jun 2021, 25 min talk "UX research and Ethnographic design for humanitarian technology"
+
+[Shula's table talk show on tech](https://www.youtube.com/watch?v=0B-NDJtTVn0): (Online) July 10th 2021, 1hr 25mins panel discussion on "Design and tech"
 
 [COSCUP 2021](https://coscup.org/2021/zh-TW/session/3WAUDK): (Online) Taiwan, July 31st and August 1st 2021, 20 mins talk, "Mentoring designers in open Source Software: What I've learned mentoring and supporting designers in OSS."
 
 [GitLab Commit 2021](https://gitlabcommitvirtual2021.sched.com/?iframe=yes&w=100%&sidebar=yes&bg=no#): (Online) Global, 3rd and 4th August 2021, "Lessons from Mentoring and Supporting Designers in OSS"
 
-[Remote Design Week](https://remotedesignweek.com/)
+[id24 Inclusive Design 24](https://inclusivedesign24.org/2021/) (Online) Global, 23rd September 2021, Hosting. I was honoured to be asked to host some of the id24 talks in 2021.
 
-[UX Y'all](https://www.uxyall.org/)
+[UX Y'all](https://www.uxyall.org/presenters-collection/eriol-fox) (Online) Global, 23rd - 24th September 2021 "UX research and Ethnographic design for humanitarian technology"
 
-[UXInsight Unfolds 2021](https://uxinsight.org/uxinsight-unfolds-2021/)
+[DrupalCon Europe 2021](https://www.drupal.org/community/events/drupalcon-europe-2021-2021-10-04) (Online), Global 4th - October 2021, Panel "Open Source Design: Why open source needs designers for the future"
 
-[Design Club: London](https://designclub.io/)
+[TU Delft: Diversity & Inclusion in Research, Technology and Design](https://osc-delft.github.io/) (Online) Global, 6th October 2021 "Diversity & Inclusion in Research, Technology & Design"
 
-[DrupalCon Europe 2021](https://www.drupal.org/community/events/drupalcon-europe-2021-2021-10-04)
+[Remote Design Week](https://remotedesignweek.com/) (Online) Global, 18th - 22nd October 2021 "Open Source as a Design Opportunity"
 
-[ADP List: Empowering Women in Tech](https://adplist.org/session/empowering-women-in-tech)
+[ADP List: Empowering Women in Tech](https://adplist.org/session/empowering-women-in-tech) (Online) Global, 28th October 2021 "Empowering women in tech"
 
-[TU Delft: Diversity & Inclusion in Research, Technology and Design](https://osc-delft.github.io/)
+[UXInsight Unfolds 2021](https://uxinsight.org/uxinsight-unfolds-2021/) (Online) Global, 11th November 2021 "Making UX Research more inclusive"
 
-[Shula's Table Talk show](https://www.youtube.com/watch?v=0B-NDJtTVn0)
-
+[Design Club: London](https://designclub.io/) London, 18th November, 45 mins Talk "UX research and Ethnographic design for humanitarian technology"
 
 
 ### 2020

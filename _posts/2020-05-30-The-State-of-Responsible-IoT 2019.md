@@ -6,7 +6,7 @@ author:
 - Eriol Fox
 ---
 
-[![The State of Responsible IoT 2019](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/responsible-IOT.png?raw=true)
+![The State of Responsible IoT 2019](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/responsible-IOT.png?raw=true)
 
 *A simple illustrated image of a person running through an open door with the words ‘The State of Responsible IoT 2019 in the background.*
 
