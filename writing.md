@@ -4,8 +4,48 @@ title: Writing
 permalink: /writing/
 ---
 
+### [Open Design Workshop At COSCUP 2023: Understanding Internet Shutdowns And How Design Can Improve Tools](https://superbloom.design/learning/blog/open-design-workshop-at-coscup-2023-understanding-internet-shutdowns-and-how-design-can-improve-tools/)
+An article written to summarise a workshop that myself and Abhishek Sharma gave at COSCUP 2023 that centred around internet shutdowns and the OSS technology that fights censorship circumvention from a Taiwan context. 
+
+
+### [Six Key Tenets For Open Source Designers](https://superbloom.design/learning/blog/six-key-tenets-for-open-source-designers/)
+An article co-written by Abhishek Sharma and myself after a talk we gave at COSCUP 2023. This talk gave overviews of our key learnings and resources over the years of practicing design in OSS.
+
+
+### [The Secret Life Of Open Source Designers](https://superbloom.design/learning/blog/the-secret-life-of-open-source-designers/)
+An article to launch the findings document from a research study where designers wrote diary studies for 10-16 weeks. 
+
+
+### [Human Rights Centered Design: Respecting The Privacy And Security Of Users While Still Sharing User Insights Among Practitioners](https://superbloom.design/learning/blog/human-rights-centered-design-respecting-the-privacy-and-security-of-users-while-still-sharing-user-insights-among-practitioners/)
+An article co-written by José René Gutiérrez and myself post RightsCon 2023 discussion around how to share design research insight on high risk users in a privacy and security respecting way.
+
+
+### [Launching USER: Findings And Recommendations For Scientific And Research Open Source](https://superbloom.design/learning/blog/launching-user-findings-and-recommendations-for-scientific-and-research-open-source/)
+An article co-written by Susan Kennedy, Katie WIlson and myself about how we approached a deep investigative project into how design and usability is done in science and research open source software.
+
+
+### [Threats, Tests, And Trust: Designing For Mobile Surveillance Monitor](https://superbloom.design/learning/blog/threats-tests-and-trust-designing-for-mobile-surveillance-monitor/)
+An article co-written by Katie Wilson, Susan Kennedy and myself about our combined UX, UI and design research work for an OSS tool that helps people when they are at risk of surveillance due to their activist and journalist activities.
+
+
+### [Learnings From OTF Shutdowns Getdown Gathering 2022](https://superbloom.design/learning/blog/learnings-from-the-otf-shutdowns-getdown-gathering-2022/)
+An article co-written by ngoc trieu, other colleagues and myself about how we engaged with different OSS tool teams at a convening and took them through design exercises to help understand users better.
+
+
+### [Making Design More Open: FOSS Backstage 2023](https://superbloom.design/learning/blog/making-design-more-open-superbloom-at-foss-backstage-2023/)
+An article co-written by ngoc trieu and myself about the open source design workshop we gave at FOSS Backstage in 2023. 
+
+
+### [A Dev’s Guide To Design In Open Source Software](https://superbloom.design/learning/blog/a-devs-guide-to-design-in-open-source-software/)
+An article co-written by Kelsey Smith and myself as we worked on the [Adoptable/USABLE Tools]() project together at Superbloom.
+
+
+### [2021-2022 in conferences and workshops]()
+You can find a round up of conferences that Eriol participated in 2021 - 2022 on LinkedIn. 
+
+
 ### [2020 in conferences and workshops](https://erioldoesdesign.github.io/article/2021/02/06/2020-in-conferences-and-workshops.html)
-You can find a round up of conferences that Eriol participated in 2020 on LinkedIn. Eriol is working on migrating the info here to this blog.
+You can find a round up of conferences that Eriol participated in 2020 on LinkedIn. 
 
 
 ### [The State of Responsible IoT 2019 report.](https://erioldoesdesign.github.io/article/2020/05/30/The-State-of-Responsible-IoT-2019.html)

@@ -6,6 +6,29 @@ permalink: /portfolio/
 
 Here you'll find Eriol's design work from over the last 10 years. The run from most recent to oldest in terms of projects.
 
+### [Superbloom:The Secret Lives of Designers contributing to OSS]()
+
+
+### [Superbloom:USER Usable Scietific Ecosystem Research]()
+How Design & Usability is done in
+
+
+### [Superbloom:Mobile Surveillance Monitor]()
+
+
+### [Superbloom:Adoptable/Usable tools]()
+
+
+### [Sustaining Open SOurce Design Podcast and Community]()
+
+
+### [Open Food Network:Building OSS Design community]()
+
+
+### [Open Food Network]()
+
+
+
 ### [Foss Responders](https://erioldoesdesign.github.io/portfolio/2021/07/01/foss-responders.html)
 Foss responders is a community-led project to support (FL)OSS technology projects during the Coronavirus (COVID-19) pandemic. 
 <br />
