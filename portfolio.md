@@ -28,7 +28,6 @@ How Design & Usability is done in
 ### [Open Food Network]()
 
 
-
 ### [Foss Responders](https://erioldoesdesign.github.io/portfolio/2021/07/01/foss-responders.html)
 Foss responders is a community-led project to support (FL)OSS technology projects during the Coronavirus (COVID-19) pandemic. 
 <br />
