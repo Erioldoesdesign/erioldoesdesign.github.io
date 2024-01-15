@@ -6,26 +6,31 @@ permalink: /portfolio/
 
 Here you'll find Eriol's design work from over the last 10 years. The run from most recent to oldest in terms of projects.
 
-### [Superbloom:The Secret Lives of Designers contributing to OSS]()
+### [Superbloom: The Secret Lives of Designers contributing to OSS]()
 
 
-### [Superbloom:USER Usable Scietific Ecosystem Research]()
+### [Superbloom: USER Usable Scietific Ecosystem Research]()
 How Design & Usability is done in
 
 
-### [Superbloom:Mobile Surveillance Monitor]()
+### [Superbloom: Mobile Surveillance Monitor]()
 
 
-### [Superbloom:Adoptable/Usable tools]()
+### [Superbloom: Adoptable/Usable tools]()
 
 
-### [Sustaining Open SOurce Design Podcast and Community]()
+### [Open Source Design.net Community]()
 
 
-### [Open Food Network:Building OSS Design community]()
+### [Sustaining Open Source Design Podcast and Community]()
 
 
-### [Open Food Network]()
+
+### [Open Food Network](https://erioldoesdesign.github.io/portfolio/2022/11/14/open-food-network.html)
+The Open Food Network is a 10 year+ OSS project that maintains a global core instance and has country-based deployers of the OSS across the globe. 
+<br />
+<br />
+[![preview image of the open food network](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/OFN-500x150.jpg?raw=true)](https://erioldoesdesign.github.io/portfolio/2022/11/14/open-food-network.html)
 
 
 ### [Foss Responders](https://erioldoesdesign.github.io/portfolio/2021/07/01/foss-responders.html)
