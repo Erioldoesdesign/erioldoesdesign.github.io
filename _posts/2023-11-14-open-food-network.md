@@ -18,8 +18,6 @@ I worked as the designer at The Open Food Network for a 1 year long contract. Wo
 
 <br />
 
-UX research and Insight for product
-
 ![Open Food Network UI design via inspect element CSS changes](https://raw.githubusercontent.com/Erioldoesdesign/erioldoesdesign.github.io/master/images/OFN-1-950x400.jpg "Open Food Network UI design via inspect element CSS changes")
 
 <br />

@@ -6,24 +6,30 @@ permalink: /portfolio/
 
 Here you'll find Eriol's design work from over the last 10 years. The run from most recent to oldest in terms of projects.
 
-### [Superbloom: The Secret Lives of Designers contributing to OSS]()
+### [Superbloom: The Secret Lives of Designers contributing to OSS:Page WIP](#)
 
 
-### [Superbloom: USER Usable Scietific Ecosystem Research]()
+### [Superbloom: USER Usable Scietific Ecosystem Research:Page WIP](#)
 How Design & Usability is done in
 
 
-### [Superbloom: Mobile Surveillance Monitor]()
+### [Superbloom: Mobile Surveillance Monitor:Page WIP](#)
 
 
-### [Superbloom: Adoptable/Usable tools]()
+### [Superbloom: Prototype Fund coaching:Page WIP](#)
 
 
-### [Open Source Design.net Community]()
+### [Superbloom: Adoptable/Usable tools:Page WIP](#)
 
 
-### [Sustaining Open Source Design Podcast and Community]()
+### [Open Source Design.net Community:Page WIP](#)
 
+
+### [Sustaining Open Source Design Podcast and Community:Page WIP](https://erioldoesdesign.github.io/portfolio/2023-11-16-sustain-design-podcast.html)
+Alongside other hosts, I hold space on [this podcast for conversationsabout open source and design](https://sosdesign.sustainoss.org/episodes). [Sustain Design & UX working group](https://sustainoss.org/working-groups/design-and-ux/) is also moderated and maintained by myself. 
+<br />
+<br />
+[![preview image of Sustain Design & UX podcast](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/sustain-design-ux-500x150.jpg?raw=true)](https://erioldoesdesign.github.io/portfolio/2023-11-16-sustain-design-podcast.html)
 
 
 ### [Open Food Network](https://erioldoesdesign.github.io/portfolio/2022/11/14/open-food-network.html)
