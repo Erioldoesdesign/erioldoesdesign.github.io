@@ -62,7 +62,7 @@ Participating and maintaining the Open Source Design .net community. Looking aft
 [![Open Source Design .net community](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/OSD-net-500x150.jpg?raw=true)](#)
 
 
-### [Sustaining Open Source Design Podcast and Community:Page WIP](https://erioldoesdesign.github.io/portfolio/2023-11-16-sustain-design-podcast.html)
+### [Sustaining Open Source Design Podcast and Community](https://erioldoesdesign.github.io/portfolio/2023-11-16-sustain-design-podcast.html)
 Alongside other hosts, I hold space on [this podcast for conversationsabout open source and design](https://sosdesign.sustainoss.org/episodes). [Sustain Design & UX working group](https://sustainoss.org/working-groups/design-and-ux/) is also moderated and maintained by myself. 
 <br />
 <br />
