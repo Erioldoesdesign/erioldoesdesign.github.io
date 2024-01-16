@@ -14,7 +14,7 @@ minima:
 
   # generate social links in footer
   social_links:
-    # twitter: erioldoesdesign
+    twitter: erioldoesdesign
     github:  erioldoesdesign
     # devto: jekyll
     dribbble: erioldoesdesign
@@ -23,16 +23,17 @@ minima:
     # instagram: eriolfox
     linkedin: eriolfox
     # pinterest: jekyll
-    # youtube: jekyll
+    youtube: erioldoesdesign1326
     youtube_channel: UCZdlFO4kG6MsaZxWJi-1GLQ
     youtube_channel_name: Eriol Does Design
     # telegram: jekyll
     # googleplus: +jekyll
     # microdotblog: jekyll
     # keybase: jekyll
+    twitch: erioldoesdesign
 
     # Mastodon instances
-    # mastodon:
+    mastodon:
     username: erioldoesdesign
     instance: hachyderm.io
     # - username: jekyll2
