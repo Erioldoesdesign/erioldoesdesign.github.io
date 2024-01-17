@@ -6,60 +6,60 @@ permalink: /portfolio/
 
 Here you'll find Eriol's design work from over the last 10+ years. The run from most recent to oldest in terms of projects.
 
-### [Superbloom: The Secret Lives of Designers contributing to OSS:Page WIP](#)
+### [Superbloom: The Secret Lives of Designers contributing to OSS:Page WIP](https://erioldoesdesign.github.io/portfolio/2023-11-24-design-in-oss.html)
 A research diary study into the lives of designers contributing to OSS. Inclusive of foundation research and report writing.
 <br />
 <br />
-[![Design in OSS](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/oss-designers-500x150.jpg?raw=true)](#)
+[![Design in OSS](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/oss-designers-500x150.jpg?raw=true)](https://erioldoesdesign.github.io/portfolio/2023-11-24-design-in-oss.html)
 
 
-### [Superbloom: Destiny:Page WIP](#)
+### [Superbloom: Destiny:Page WIP](https://erioldoesdesign.github.io/portfolio/2023-11-23-destiny-magic-wormhole.html)
 User testing interviews and a comprehesive report out on improvements to Least Authority's Destiny tool. A magic wormhole application for sensitive file transfer.
 <br />
 <br />
-[![Desting Magic wormhole](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/destiny-500x150.jpg?raw=true)](#)
+[![Destiny Magic wormhole](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/destiny-500x150.jpg?raw=true)](https://erioldoesdesign.github.io/portfolio/2023-11-23-destiny-magic-wormhole.html)
 
 
-### [Superbloom: USER Usable Scietific Ecosystem Research:Page WIP](#)
+### [Superbloom: USER Usable Scietific Ecosystem Research:Page WIP](https://erioldoesdesign.github.io/portfolio/2023-11-22-science-user-research.html)
 Deep foundational research and reporting on how Design & Usability is done in scientific and research related OSS tools. Includive of workshops, reosurce building and report wiritng.
 <br />
 <br />
-[![USER Usable Scietific Ecosystem Research](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/user-500x150.jpg?raw=true)](#)
+[![USER Usable Scietific Ecosystem Research](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/user-500x150.jpg?raw=true)](https://erioldoesdesign.github.io/portfolio/2023-11-22-science-user-research.html)
 
 
-### [Superbloom: Mobile Surveillance Monitor:Page WIP](#)
+### [Superbloom: Mobile Surveillance Monitor:Page WIP](https://erioldoesdesign.github.io/portfolio/2023-11-21-mobile-surveillance-monitor.html)
 User research and UI/UX design for a new tool that helps high-risk people understand what risks of Malware and spyware there might be in certain global locations.
 <br />
 <br />
-[![Mobile Surveillance Monitor](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/msm-500x150.jpg?raw=true)](#)
+[![Mobile Surveillance Monitor](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/msm-500x150.jpg?raw=true)](https://erioldoesdesign.github.io/portfolio/2023-11-21-mobile-surveillance-monitor.html)
 
 
-### [Superbloom: Prototype Fund coaching:Page WIP](#)
+### [Superbloom: Prototype Fund coaching:Page WIP](https://erioldoesdesign.github.io/portfolio/2023-11-20-PF-coaching.html)
 Through Superbloom, ongoing coaching sessions with the OSS projects that the Prototype Fund support. Inclusive of research, product management and UX/UI design support for teams.
 <br />
 <br />
-[![Prototype fund coaching](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/prototype-fund-500x150.jpg?raw=true)](#)
+[![Prototype fund coaching](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/prototype-fund-500x150.jpg?raw=true)](https://erioldoesdesign.github.io/portfolio/2023-11-20-PF-coaching.html)
 
 
-### [Superbloom: Open Technology Fund Website redesign:Page WIP](#)
+### [Superbloom: Open Technology Fund Website redesign:Page WIP](https://erioldoesdesign.github.io/portfolio/2023-11-19-OTF-website-redesign.html)
 A website redesign project inclusive of deep user research, page design, content strategy and information architechture improvements.
 <br />
 <br />
-[![Open Technology Fund Website Redesign](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/otf-website-500x150.jpg?raw=true)](#)
+[![Open Technology Fund Website Redesign](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/otf-website-500x150.jpg?raw=true)](https://erioldoesdesign.github.io/portfolio/2023-11-19-OTF-website-redesign.html)
 
 
-### [Superbloom: Adoptable/Usable tools:Page WIP](#)
+### [Superbloom: Adoptable/Usable tools:Page WIP](https://erioldoesdesign.github.io/portfolio/2023-11-18-adoptable-usable-tools.html)
 A series of resources, guides, games and tutorials on how developers working on privacy and security OSS can learn about and conduct user testing and user research,
 <br />
 <br />
-[![Adoptable/Usable tools resources](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/adoptable-tools-500x150.jpg?raw=true)](#)
+[![Adoptable/Usable tools resources](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/adoptable-tools-500x150.jpg?raw=true)](https://erioldoesdesign.github.io/portfolio/2023-11-18-adoptable-usable-tools.html)
 
 
-### [Open Source Design.net Community:Page WIP](#)
+### [Open Source Design.net Community](https://erioldoesdesign.github.io/portfolio/2023-11-17-open-source-design.html)
 Participating and maintaining the Open Source Design .net community. Looking after FOSDEM devroom, conferences and offering design advice across OSS.
 <br />
 <br />
-[![Open Source Design .net community](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/OSD-net-500x150.jpg?raw=true)](#)
+[![Open Source Design .net community](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/OSD-net-500x150.jpg?raw=true)](https://erioldoesdesign.github.io/portfolio/2023-11-17-open-source-design.html)
 
 
 ### [Sustaining Open Source Design Podcast and Community](https://erioldoesdesign.github.io/portfolio/2023-11-16-sustain-design-podcast.html)
