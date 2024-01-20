@@ -41,28 +41,28 @@ Through Superbloom, ongoing coaching sessions with the OSS projects that the Pro
 [![Prototype fund coaching](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/prototype-fund-500x150.jpg?raw=true)](https://erioldoesdesign.github.io/portfolio/2023-11-20-PF-coaching.html)
 
 
-### [Superbloom: Open Technology Fund Website redesign:Page WIP](https://erioldoesdesign.github.io/portfolio/2023-11-19-OTF-website-redesign.html)
+### [Superbloom: Open Technology Fund Website redesign:Page WIP](https://erioldoesdesign.github.io/portfolio/2023/11/19/OTF-website-redesign.html)
 A website redesign project inclusive of deep user research, page design, content strategy and information architechture improvements.
 <br />
 <br />
 [![Open Technology Fund Website Redesign](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/otf-website-500x150.jpg?raw=true)](https://erioldoesdesign.github.io/portfolio/2023-11-19-OTF-website-redesign.html)
 
 
-### [Superbloom: Adoptable/Usable tools](https://erioldoesdesign.github.io/portfolio/2023-11-18-adoptable-usable-tools.html)
+### [Superbloom: Adoptable/Usable tools](https://erioldoesdesign.github.io/portfolio/2023/11/18/adoptable-usable-tools.html)
 A series of resources, guides, games and tutorials on how developers working on privacy and security OSS can learn about and conduct user testing and user research,
 <br />
 <br />
 [![Adoptable/Usable tools resources](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/adoptable-tools-500x150.jpg?raw=true)](https://erioldoesdesign.github.io/portfolio/2023-11-18-adoptable-usable-tools.html)
 
 
-### [Open Source Design.net Community](https://erioldoesdesign.github.io/portfolio/2023-11-17-open-source-design.html)
+### [Open Source Design.net Community](https://erioldoesdesign.github.io/portfolio/2023/11/17/open-source-design.html)
 Participating and maintaining the Open Source Design .net community. Looking after FOSDEM devroom, conferences and offering design advice across OSS.
 <br />
 <br />
 [![Open Source Design .net community](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/OSD-net-500x150.jpg?raw=true)](https://erioldoesdesign.github.io/portfolio/2023-11-17-open-source-design.html)
 
 
-### [Sustaining Open Source Design Podcast and Community](https://erioldoesdesign.github.io/portfolio/2023-11-16-sustain-design-podcast.html)
+### [Sustaining Open Source Design Podcast and Community](https://erioldoesdesign.github.io/portfolio/2023/11/16/sustain-design-podcast.html)
 Alongside other hosts, I hold space on [this podcast for conversationsabout open source and design](https://sosdesign.sustainoss.org/episodes). [Sustain Design & UX working group](https://sustainoss.org/working-groups/design-and-ux/) is also moderated and maintained by myself. 
 <br />
 <br />
