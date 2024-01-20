@@ -48,7 +48,7 @@ A website redesign project inclusive of deep user research, page design, content
 [![Open Technology Fund Website Redesign](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/otf-website-500x150.jpg?raw=true)](https://erioldoesdesign.github.io/portfolio/2023-11-19-OTF-website-redesign.html)
 
 
-### [Superbloom: Adoptable/Usable tools:Page WIP](https://erioldoesdesign.github.io/portfolio/2023-11-18-adoptable-usable-tools.html)
+### [Superbloom: Adoptable/Usable tools](https://erioldoesdesign.github.io/portfolio/2023-11-18-adoptable-usable-tools.html)
 A series of resources, guides, games and tutorials on how developers working on privacy and security OSS can learn about and conduct user testing and user research,
 <br />
 <br />
