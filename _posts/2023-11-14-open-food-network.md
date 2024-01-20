@@ -30,11 +30,11 @@ I worked as the designer at The Open Food Network for a 1 year long contract. Wo
 
 <br />
 
-![Open Food Network foundational user research](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/master/images/OFN-3-950x400.jpg "Open Food Network foundational user research")
+![Open Food Network foundational user research](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/OFN-3-950x400.jpg?raw=true "Open Food Network foundational user research")
 
 <br />
 
-![Open Food Network foundational user research synthesis](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/master/images/OFN-4-950x400.jpg "Open Food Network foundational user research synthesis")
+![Open Food Network foundational user research synthesis](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/OFN-4-950x400.jpg "Open Food Network foundational user research synthesis")
 
 <br />
 
