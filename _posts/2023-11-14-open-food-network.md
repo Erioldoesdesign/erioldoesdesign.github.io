@@ -26,32 +26,32 @@ I worked as the designer at The Open Food Network for a 1 year long contract. Wo
 
 <br />
 
-![Open Food Network Design team processes](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/master/images/OFN-2-950x400.jpg "Open Food Network Design team processes")
+![Open Food Network Design team processes](https://raw.githubusercontent.com/Erioldoesdesign/erioldoesdesign.github.io/master/images/OFN-2-950x400.jpg "Open Food Network Design team processes")
 
 <br />
 
-![Open Food Network foundational user research](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/OFN-3-950x400.jpg?raw=true "Open Food Network foundational user research")
+![Open Food Network foundational user research](https://raw.githubusercontent.com/Erioldoesdesign/erioldoesdesign.github.io/master/images/OFN-3-950x400.jpg "Open Food Network foundational user research")
 
 <br />
 
-![Open Food Network foundational user research synthesis](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/OFN-4-950x400.jpg "Open Food Network foundational user research synthesis")
+![Open Food Network foundational user research synthesis](https://raw.githubusercontent.com/Erioldoesdesign/erioldoesdesign.github.io/master/images/OFN-4-950x400.jpg "Open Food Network foundational user research synthesis")
 
 <br />
 
-![Open Food Network user testing](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/master/images/OFN-5-950x400.jpg "Open Food Network user testing")
+![Open Food Network user testing](https://raw.githubusercontent.com/Erioldoesdesign/erioldoesdesign.github.io/master/images/OFN-5-950x400.jpg "Open Food Network user testing")
 
 <br />
 
-![Open Food Network Audience personas](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/master/images/OFN-6-950x400.jpg "Open Food Network Audience personas")
+![Open Food Network Audience personas](https://raw.githubusercontent.com/Erioldoesdesign/erioldoesdesign.github.io/master/images/OFN-6-950x800.jpg "Open Food Network Audience personas")
 
 <br />
 
-![Open Food Network checkout UI high fidelty prototypes](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/master/images/OFN-7-950x400.jpg "Open Food Network checkout UI high fidelty prototypes")
+![Open Food Network checkout UI high fidelty prototypes](https://raw.githubusercontent.com/Erioldoesdesign/erioldoesdesign.github.io/master/images/OFN-7-950x400.jpg "Open Food Network checkout UI high fidelty prototypes")
 
 <br />
 
-![Open Food Network quantity and unit prices UI high fidelty prototypes](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/master/images/OFN-8-950x400.jpg "Open Food Network quantity and unit prices UI high fidelty prototypes")
+![Open Food Network quantity and unit prices UI high fidelty prototypes](https://raw.githubusercontent.com/Erioldoesdesign/erioldoesdesign.github.io/master/images/OFN-8-950x400.jpg "Open Food Network quantity and unit prices UI high fidelty prototypes")
 
 <br />
 
-![Open Food Network quantity and unit prices admin backend](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/master/images/OFN-9-950x400.jpg "Open Food Network quantity and unit prices admin backend")
+![Open Food Network quantity and unit prices admin backend](https://raw.githubusercontent.com/Erioldoesdesign/erioldoesdesign.github.io/master/images/OFN-9-950x400.jpg "Open Food Network quantity and unit prices admin backend")
