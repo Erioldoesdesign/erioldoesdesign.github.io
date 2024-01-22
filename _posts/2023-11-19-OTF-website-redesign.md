@@ -41,4 +41,39 @@ I exercised skills that I had not used in many years on this project such as: Co
 
 <br />
 
-![XX](https://raw.githubusercontent.com/Erioldoesdesign/erioldoesdesign.github.io/master/images/950x400.jpg "XX")
+![Examples from the OTF website design system build in Figma](https://raw.githubusercontent.com/Erioldoesdesign/erioldoesdesign.github.io/master/images/OTF-1-950x400.jpg "Examples from he OTF website design system build in Figma")
+
+
+<br />
+
+![Examples news page layouts for the OTF website](https://raw.githubusercontent.com/Erioldoesdesign/erioldoesdesign.github.io/master/images/OTF-2-950x400.jpg "Examples news page layouts for the OTF website")
+
+
+<br />
+
+![Example information architecture structure](https://raw.githubusercontent.com/Erioldoesdesign/erioldoesdesign.github.io/master/images/OTF-3-950x400.jpg "Example information architecture structure")
+
+
+<br />
+
+![Example from content model for tagging](https://raw.githubusercontent.com/Erioldoesdesign/erioldoesdesign.github.io/master/images/OTF-4-950x400.jpg "Example from content model for tagging")
+
+
+<br />
+
+![Low fidelity wireframe for a profile page on the OTF website](https://raw.githubusercontent.com/Erioldoesdesign/erioldoesdesign.github.io/master/images/OTF-5-950x400.jpg "Low fidelity wireframe for a profile page on the OTF website")
+
+
+<br />
+
+![User group stakeholder map](https://raw.githubusercontent.com/Erioldoesdesign/erioldoesdesign.github.io/master/images/OTF-6-950x400.jpg "User group stakeholder map")
+
+
+<br />
+
+![User journey map example for the applicant type of user](https://raw.githubusercontent.com/Erioldoesdesign/erioldoesdesign.github.io/master/images/OTF-7-950x400.jpg "User journey map example for the applicant type of user")
+
+
+<br />
+
+![Examples news search results separated by content type for the OTF website](https://raw.githubusercontent.com/Erioldoesdesign/erioldoesdesign.github.io/master/images/OTF-8-950x1000.jpg "Examples news search results separated by content type for the OTF website")

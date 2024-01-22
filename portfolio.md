@@ -41,7 +41,7 @@ Through Superbloom, ongoing coaching sessions with the OSS projects that the Pro
 [![Prototype fund coaching](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/prototype-fund-500x150.jpg?raw=true)](https://erioldoesdesign.github.io/portfolio/2023-11-20-PF-coaching.html)
 
 
-### [Superbloom: Open Technology Fund Website redesign:Page WIP](https://erioldoesdesign.github.io/portfolio/2023/11/19/OTF-website-redesign.html)
+### [Superbloom: Open Technology Fund Website redesign](https://erioldoesdesign.github.io/portfolio/2023/11/19/OTF-website-redesign.html)
 A website redesign project inclusive of deep user research, page design, content strategy and information architechture improvements.
 <br />
 <br />
