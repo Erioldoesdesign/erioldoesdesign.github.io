@@ -4,9 +4,20 @@ title: "Open Source Design.net"
 categories: portfolio
 ---
 
+## Background and Objectives
+
 I've been maintaining open source design.net (OSD) alongside a core group of other designer-maintainers for around 5 years. OSD is a crucial open source project that is still lead and managed by a group of unpaid volunteers. They advocate for design (broadly) in open source software and for designers to better understand the opportunities open source software can offer them.
 
 Maintaining an OSS community comes with it's challenges. The project has a decent amount of notoritey and support yet has struggled to solidfy it's governance processes as we have gained both monetary funds and influence in the OSS and design space.
+
+
+
+
+## Impact
+
+
+
+## Outputs
 
 Maintainance duties include:
 
@@ -16,6 +27,9 @@ Maintainance duties include:
 - Organising community voting schemes on how to distribute funds and what to invest research in.
 - Applying for and managing a devroom at the conference [FOSDEM](https://fosdem.org/) which typically also includes an inforamtion stand.
 - Supporting with critical technical maintainance issues with our website and job board infrastructure.
+
+
+## New skills
 
 <br />
 

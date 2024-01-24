@@ -4,7 +4,25 @@ title: "Mobile Surveillance Monitor"
 categories: portfolio
 ---
 
-WIP
+## Background and Objectives
+
+
+
+## Impact
+
+
+
+
+## Outputs
+-
+-
+-
+-
+
+
+## New skills
+
+
 
 <br />
 

@@ -4,9 +4,17 @@ title: "Open Food Network"
 categories: portfolio
 ---
 
+
+## Background and Objectives
+
 [Open Food Network](https://openfoodnetwork.org/) (aka OFN) is an open source software that serves people globally who want to have a community-led, local supply chain food available to local populations. The project is built on FLOSS technologies such as Spree. The Open Food Network maintains a core version of the OSS that is then forked by local instances across the globe and developed in both a local and global way. The dependancies proccesses for local instances and global OSS was at time, difficult to reconcile but ultimately led to a community inclusive and consenting way of building OSS tools for the common good. The design processes I developed there made groundbreaking attempts to introduce design into OSS processes that typically don't include users and design. Many of these processes were hugely successful in my time at OFN.
 
+## Impact
+
 OFN was a particularly challeging project as the global team worked tirelessly to include the forked instances of the OFN OSS tool and the balancing of needs was a democratic and collaborative process.
+
+
+## Outputs
 
 I worked as the designer at The Open Food Network for a 1 year long contract. Working alongside other community members, product managers, volunteer design contributors and developers I lead the design effort for a contract of a year. In that time I worked on:
 
@@ -15,6 +23,10 @@ I worked as the designer at The Open Food Network for a 1 year long contract. Wo
 - Adhoc usertesting for feature ideas, design and accessibility improvements.
 - Processes to streamline the user centred design input for features and core work to the global platform. This included working across various teams, timezones and developers.
 - Managed a team of 5-10 designer contributors across various projects to increase the OSS capacity beyond funded roles.
+
+
+## New skills
+
 
 <br />
 

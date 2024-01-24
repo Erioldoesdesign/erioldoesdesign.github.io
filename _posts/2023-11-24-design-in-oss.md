@@ -4,7 +4,25 @@ title: "The Secret Lives of Designers contributing to OSS"
 categories: portfolio
 ---
 
-WIP
+## Background and Objectives
+
+
+
+## Impact
+
+
+
+
+## Outputs
+-
+-
+-
+-
+
+
+## New skills
+
+
 
 <br />
 
