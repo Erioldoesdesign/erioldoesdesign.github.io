@@ -26,6 +26,7 @@ I worked as the designer at The Open Food Network for a 1 year long contract. Wo
 
 
 ## New skills
+At the Open Food Network I got to put into practice a larger scale open source designer volunteer program to support the varied and ongoing work at The Open Food Network. I also got to learn and develop my knowledge about international payment methods, UX and UI design from Middle East, India, Austraila and Turkey. My knowledge of sustainable food systems and how small, medium and large farming enterprises use techonlogy to support themselves is robust.
 
 
 <br />

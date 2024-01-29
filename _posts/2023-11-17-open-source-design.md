@@ -11,11 +11,9 @@ I've been maintaining open source design.net (OSD) alongside a core group of oth
 Maintaining an OSS community comes with it's challenges. The project has a decent amount of notoritey and support yet has struggled to solidfy it's governance processes as we have gained both monetary funds and influence in the OSS and design space.
 
 
-
-
 ## Impact
 
-
+My impact on the Open Source Design community group has been most notable where I made efforts to maintain reliable communications, community events and calls as well as make sure routine maintenance of our core capabilities carried on. Making sure the the jobs posting page was workinga nd encouraging new submissions as well as working through old posts and closing them on a yearly basis. Ensuring the community is maintained is about as impactful as you can get in small, community led open source projects.
 
 ## Outputs
 
@@ -30,6 +28,7 @@ Maintainance duties include:
 
 
 ## New skills
+Understanding how OSS maintains itself has been the huge new skill learning for my work with Open Source Design. I now have a better understanding of OSS governance, community engagement, finances/fundraising, running conference call for proposals and many,many more skills related to how OSS is built, maintained and sustained.
 
 <br />
 
