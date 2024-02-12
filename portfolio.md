@@ -34,7 +34,7 @@ User research and UI/UX design for a new tool that helps high-risk people unders
 [![Mobile Surveillance Monitor](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/msm-500x150.jpg?raw=true)](https://erioldoesdesign.github.io/portfolio/2023-11-21-mobile-surveillance-monitor.html)
 
 
-### [Superbloom: Prototype Fund coaching:Page WIP](https://erioldoesdesign.github.io/portfolio/2023-11-20-PF-coaching.html)
+### [Superbloom: Prototype Fund coaching](https://erioldoesdesign.github.io/portfolio/2023-11-20-PF-coaching.html)
 Through Superbloom, ongoing coaching sessions with the OSS projects that the Prototype Fund support. Inclusive of research, product management and UX/UI design support for teams.
 <br />
 <br />

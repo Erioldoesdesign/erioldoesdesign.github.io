@@ -24,14 +24,16 @@ Many of our coached projects go on to speak highley of coaching as an experience
 ## Outputs
 - 2-4 hour long coaching conversations with notes and templates for conversation flow
 - Post-sessions resources created such as this [one on common product management processes in OSS](https://design.penpot.app/#/workspace/76981dd7-ec3b-802f-8001-8fbdcb434663/af8aaf7c-05e6-8124-8003-b829a4dc7bea?page-id=af8aaf7c-05e6-8124-8003-b829a4dc7beb)
--
--
 
 
 ## New skills
 
+Through coaching OSS projects I've learned how to better structure learning from both active and passive perspectives towards learning.
+I also got the chance to create open resources in accessible ways.
 
 
 <br />
 
-![XX](https://raw.githubusercontent.com/Erioldoesdesign/erioldoesdesign.github.io/master/images/950x400.jpg "XX")
+![Sketches of UI for one of the prototype fund projects](https://raw.githubusercontent.com/Erioldoesdesign/erioldoesdesign.github.io/master/images/PTF-1-950x400.jpg "Sketches of UI for one of the prototype fund projects")
+![An example of a coaching prep board](https://raw.githubusercontent.com/Erioldoesdesign/erioldoesdesign.github.io/master/images/PTF-2-950x400.jpg "An example of a coaching prep board")
+![A screenshot of open product management resources](https://raw.githubusercontent.com/Erioldoesdesign/erioldoesdesign.github.io/master/images/PTF-3-950x400.jpg "A screenshot of open product management resources")
