@@ -27,7 +27,7 @@ Deep foundational research and reporting on how Design & Usability is done in sc
 [![USER Usable Scietific Ecosystem Research](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/user-500x150.jpg?raw=true)](https://erioldoesdesign.github.io/portfolio/2023-11-22-science-user-research.html)
 
 
-### [Superbloom: Mobile Surveillance Monitor:Page WIP](https://erioldoesdesign.github.io/portfolio/2023-11-21-mobile-surveillance-monitor.html)
+### [Superbloom: Mobile Surveillance Monitor](https://erioldoesdesign.github.io/portfolio/2023-11-21-mobile-surveillance-monitor.html)
 User research and UI/UX design for a new tool that helps high-risk people understand what risks of Malware and spyware there might be in certain global locations.
 <br />
 <br />
