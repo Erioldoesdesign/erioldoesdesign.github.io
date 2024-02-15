@@ -26,9 +26,11 @@ We found that users wanted to have summaries of their filters and searches based
 
 
 ## New skills
-
+The new skills developed here were better understanding the particular users needs. Interviewinga nd speaking with high security risk users has helped me better understand these precarious users needs and how and when they engage with certain tools.
 
 
 <br />
 
-![XX](https://raw.githubusercontent.com/Erioldoesdesign/erioldoesdesign.github.io/master/images/950x400.jpg "XX")
+![The mobile surveillance monitor website including the branding and identity work](https://raw.githubusercontent.com/Erioldoesdesign/erioldoesdesign.github.io/master/images/MSM-1-950x400.jpg "The mobile surveillance monitor website including the branding and identity work")
+![The MSM dashboard where users filter information around their risk](https://raw.githubusercontent.com/Erioldoesdesign/erioldoesdesign.github.io/master/images/MSM-1-950x400.jpg "The MSM dashboard where users filter information around their risk")
+![The information documentation site where users find in depth information about malware and spyware](https://raw.githubusercontent.com/Erioldoesdesign/erioldoesdesign.github.io/master/images/MSM-1-950x400.jpg "The information documentation site where users find in depth information about malware and spyware")
