@@ -20,7 +20,7 @@ User testing interviews and a comprehesive report out on improvements to Least A
 [![Destiny Magic wormhole](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/destiny-500x150.jpg?raw=true)](https://erioldoesdesign.github.io/portfolio/2023-11-23-destiny-magic-wormhole.html)
 
 
-### [Superbloom: USER Usable Scietific Ecosystem Research:Page WIP](https://erioldoesdesign.github.io/portfolio/2023-11-22-science-user-research.html)
+### [Superbloom: USER Usable Scietific Ecosystem Research](https://erioldoesdesign.github.io/portfolio/2023-11-22-science-user-research.html)
 Deep foundational research and reporting on how Design & Usability is done in scientific and research related OSS tools. Includive of workshops, reosurce building and report wiritng.
 <br />
 <br />
