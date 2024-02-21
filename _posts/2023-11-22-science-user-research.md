@@ -35,4 +35,10 @@ This was a large scale research project across multiple subjects and with 5+ tea
 
 <br />
 
-![XX](https://raw.githubusercontent.com/Erioldoesdesign/erioldoesdesign.github.io/master/images/950x400.jpg "XX")
+![The USER website with our complete research report](https://raw.githubusercontent.com/Erioldoesdesign/erioldoesdesign.github.io/master/images/user-1-950x400.jpg "The USER website with our complete research report")
+
+![The USER Zines explaining complex terms](https://raw.githubusercontent.com/Erioldoesdesign/erioldoesdesign.github.io/master/images/user-2-950x400.jpg "The USER Zines explaining complex terms")
+
+![Diagrams created for Zines](https://raw.githubusercontent.com/Erioldoesdesign/erioldoesdesign.github.io/master/images/user-3-950x400.jpg "Diagrams created for Zines")
+
+![Workshop activities](https://raw.githubusercontent.com/Erioldoesdesign/erioldoesdesign.github.io/master/images/user-4-950x400.jpg "Workshop activities")
