@@ -13,7 +13,7 @@ A research diary study into the lives of designers contributing to OSS. Inclusiv
 [![Design in OSS](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/oss-designers-500x150.jpg?raw=true)](https://erioldoesdesign.github.io/portfolio/2023-11-24-design-in-oss.html)
 
 
-### [Superbloom: Destiny:Page WIP](https://erioldoesdesign.github.io/portfolio/2023-11-23-destiny-magic-wormhole.html)
+### [Superbloom: Destiny](https://erioldoesdesign.github.io/portfolio/2023-11-23-destiny-magic-wormhole.html)
 User testing interviews and a comprehesive report out on improvements to Least Authority's Destiny tool. A magic wormhole application for sensitive file transfer.
 <br />
 <br />
