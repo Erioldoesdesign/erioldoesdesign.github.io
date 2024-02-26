@@ -6,7 +6,7 @@ permalink: /portfolio/
 
 Here you'll find Eriol's design work from over the last 10+ years. The run from most recent to oldest in terms of projects.
 
-### [Superbloom: The Secret Lives of Designers contributing to OSS:Page WIP](https://erioldoesdesign.github.io/portfolio/2023/11/24/design-in-oss.html)
+### [Superbloom: The Secret Lives of Designers contributing to OSS](https://erioldoesdesign.github.io/portfolio/2023/11/24/design-in-oss.html)
 A research diary study into the lives of designers contributing to OSS. Inclusive of foundation research and report writing.
 <br />
 <br />
