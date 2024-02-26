@@ -29,4 +29,6 @@ With Destiny I was able to further develop critical security and privacy skills 
 
 <br />
 
-![XX](https://raw.githubusercontent.com/Erioldoesdesign/erioldoesdesign.github.io/master/images/950x400.jpg "XX")
+![Images of the Destiny tool as we conducted workshops](https://raw.githubusercontent.com/Erioldoesdesign/erioldoesdesign.github.io/master/images/destiny-1-950x400.jpg "Images of the Destiny tool as we conducted workshops")
+
+![A snippet of the research report delivery to the Destiny tool team](https://raw.githubusercontent.com/Erioldoesdesign/erioldoesdesign.github.io/master/images/destiny-2-950x400.jpg "A snippet of the research report delivery to the Destiny tool team")
