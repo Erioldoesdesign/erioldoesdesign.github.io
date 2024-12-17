@@ -14,7 +14,7 @@ minima:
 
   # generate social links in footer
   social_links:
-    x: erioldoesdesign
+    twitter: erioldoesdesign
     bluesky: erioldoesdesign
     github:  erioldoesdesign
     # devto: jekyll
