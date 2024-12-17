@@ -14,18 +14,19 @@ minima:
 
   # generate social links in footer
   social_links:
-    twitter: erioldoesdesign
+    x: erioldoesdesign
+    bluesky: erioldoesdesign
     github:  erioldoesdesign
     # devto: jekyll
     # dribbble: erioldoesdesign
     # facebook: jekyll
     # flickr:   jekyll
-    instagram: eriolfox
+    instagram: erioldoesdesign
     linkedin: eriolfox
     # pinterest: jekyll
     # youtube: 
     youtube_channel: UCZdlFO4kG6MsaZxWJi-1GLQ
-    youtube_channel_name: Eriol Does Design
+    # youtube_channel_name: Eriol Does Design
     # telegram: jekyll
     # googleplus: +jekyll
     # microdotblog: jekyll
