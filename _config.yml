@@ -3,7 +3,7 @@ author:
   name: Eriol Fox
   email: erioldoesdesign@gmail.com
 description: > # this means to ignore newlines until "show_excerpts:"
-  Copyright @ 2023/2024 Eriol Fox | Eriol Does Design is the portfolio and hub for Eriol's design, research and open source software.
+  Copyright @ 2024 Eriol Fox | Eriol Does Design is the portfolio and hub for Eriol's design, research and open source work.
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
@@ -17,13 +17,13 @@ minima:
     twitter: erioldoesdesign
     github:  erioldoesdesign
     # devto: jekyll
-    dribbble: erioldoesdesign
+    # dribbble: erioldoesdesign
     # facebook: jekyll
     # flickr:   jekyll
-    # instagram: eriolfox
+    instagram: eriolfox
     linkedin: eriolfox
     # pinterest: jekyll
-    youtube: erioldoesdesign1326
+    # youtube: 
     youtube_channel: UCZdlFO4kG6MsaZxWJi-1GLQ
     youtube_channel_name: Eriol Does Design
     # telegram: jekyll
@@ -33,7 +33,7 @@ minima:
     twitch: erioldoesdesign
 
     # Mastodon instances
-    mastodon:
+    mastodon: username
     username: erioldoesdesign
     instance: hachyderm.io
     # - username: jekyll2
