@@ -12,6 +12,8 @@ layout: home
 
 ## I'm a full-stack, Human Rights Centred UX/UI and Product Designer and (drop out) PhD researcher from Bristol in the UK 🇬🇧🇪🇺.
 
+*This site will slowly be moving to a non-jekyll framework - apols for any downtime while this happens.*
+
 I'm currently working full-time as a Senior UX/UI designer, design researcher and OSS product manager at [Superbloom](https://superbloom.design/).
 My PhD thesis was centred on how Designers contribute to Humanitarian and Human Rights related Open Source Software at [Open Lab Newcastle](https://openlab.ncl.ac.uk/people/eriol-fox/) **I'm looking for a new institution that would be a home for this kind of research.**
 
