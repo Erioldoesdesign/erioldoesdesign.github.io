@@ -10,7 +10,7 @@ layout: home
 
 # Hi there I'm Eriol Fox 🦊
 
-## I'm a full-stack, Human Rights Centred UX/UI and Product Designer and (drop out) PhD researcher from Bristol in the UK 🇬🇧🇪🇺.
+## I’m a full-stack, UX/UI, Product Designer with foundational User Research skills and a love of open source software based in the UK 🇬🇧🇪🇺.
 
 *This site will slowly be moving to a non-jekyll framework - apols for any downtime while this happens.*
 
