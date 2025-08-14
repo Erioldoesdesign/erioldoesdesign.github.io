@@ -6,28 +6,34 @@ permalink: /portfolio/
 
 Here you'll find Eriol's design work from over the last 10+ years. The run from most recent to oldest in terms of projects.
 
-### [Superbloom: The Secret Lives of Designers contributing to OSS](https://erioldoesdesign.github.io/portfolio/2023/11/24/design-in-oss.html)
+### [UI/UX - Dangerzone - App for opening suspicious documents safely](https://erioldoesdesign.github.io/portfolio/2025/08/14/dangerzone.html)
+An iterative UI/UX design project to apply existing user research needs to critical feature updates for the native app.
+<br />
+<br />
+[![UI/UX - Dangerzone](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/dangerzone-500x150.jpg?raw=true)](https://erioldoesdesign.github.io/portfolio/2025/08/14/dangerzone.html)
+
+### [User Research - The Secret Lives of Designers contributing to OSS](https://erioldoesdesign.github.io/portfolio/2023/11/24/design-in-oss.html)
 A research diary study into the lives of designers contributing to OSS. Inclusive of foundation research and report writing.
 <br />
 <br />
 [![Design in OSS](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/oss-designers-500x150.jpg?raw=true)](https://erioldoesdesign.github.io/portfolio/2023-11-24-design-in-oss.html)
 
 
-### [Superbloom: Destiny](https://erioldoesdesign.github.io/portfolio/2023/11/23/destiny-magic-wormhole.html)
+### [Usability Testing & UI/UX: Destiny](https://erioldoesdesign.github.io/portfolio/2023/11/23/destiny-magic-wormhole.html)
 User testing interviews and a comprehesive report out on improvements to Least Authority's Destiny tool. A magic wormhole application for sensitive file transfer.
 <br />
 <br />
 [![Destiny Magic wormhole](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/destiny-500x150.jpg?raw=true)](https://erioldoesdesign.github.io/portfolio/2023-11-23-destiny-magic-wormhole.html)
 
 
-### [Superbloom: USER Usable Scietific Ecosystem Research](https://erioldoesdesign.github.io/portfolio/2023/11/22/science-user-research.html)
+### [User Research - USER Usable Scietific Ecosystem Research](https://erioldoesdesign.github.io/portfolio/2023/11/22/science-user-research.html)
 Deep foundational research and reporting on how Design & Usability is done in scientific and research related OSS tools. Includive of workshops, reosurce building and report wiritng.
 <br />
 <br />
 [![USER Usable Scietific Ecosystem Research](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/user-500x150.jpg?raw=true)](https://erioldoesdesign.github.io/portfolio/2023-11-22-science-user-research.html)
 
 
-### [Superbloom: Mobile Surveillance Monitor](https://erioldoesdesign.github.io/portfolio/2023/11/21/mobile-surveillance-monitor.html)
+### [UI/UX - Mobile Surveillance Monitor](https://erioldoesdesign.github.io/portfolio/2023/11/21/mobile-surveillance-monitor.html)
 User research and UI/UX design for a new tool that helps high-risk people understand what risks of Malware and spyware there might be in certain global locations.
 <br />
 <br />
