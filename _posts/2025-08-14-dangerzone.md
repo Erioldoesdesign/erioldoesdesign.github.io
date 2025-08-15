@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Secret Lives of Designers contributing to OSS"
+title: "Dangerzone - App for opening suspicious documents safely"
 categories: portfolio
 ---
 
