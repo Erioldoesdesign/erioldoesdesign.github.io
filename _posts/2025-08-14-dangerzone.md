@@ -74,9 +74,15 @@ The website changes reflect some profound changes in the communications styling.
 
 We moved towards a balance of imagery that supported a civic 'DIY' and hacker aesthetic as well as more commonly trusted 'clean and clear technology' software website. We know from plenty of previous work that when a software application website looks 'too slick, clean and trendy' users can swing back into lacking trust as these visuals present a 'big tech' and 'surveillance capitalist' aesthetic. The balance is tricky but obtainable by combining elements of 'clean' visuals with personality visuals that nod to the 'hacker' founders.
 
+<br>
+
 ![Progress to the delivered website redesign](https://raw.githubusercontent.com/Erioldoesdesign/erioldoesdesign.github.io/master/images/dangerzone-progress-website.png "Progress to the delivered website redesign")
 
+<br>
+
 *Above:Progress to the delivered website redesign*
+
+<br>
 
 ## What data informed this project
 
@@ -100,10 +106,15 @@ DZ wanted to broaden their accessibility to users that were not in dire need of 
 
 This mean't critically analysing the current UI/UX and understanding key steps to improving access and usability for more kinds of users and prioritising a 'learn while using' approach to the unavoidable technical aspects of the technology.
 
+<br>
+
 ![Early identity work](https://raw.githubusercontent.com/Erioldoesdesign/erioldoesdesign.github.io/master/images/dangerzone-early-identity-work-2.png "Early identity work")
+
+<br>
 
 *Above:Early identity work*
 
+<br>
 
 ## What were the user needs
 
