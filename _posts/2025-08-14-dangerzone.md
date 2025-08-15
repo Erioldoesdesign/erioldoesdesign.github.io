@@ -12,25 +12,24 @@ The Dangerzone (DZ) team (part of the Freedom of the Press Foundation) approache
 
 ![Old design](https://raw.githubusercontent.com/Erioldoesdesign/erioldoesdesign.github.io/master/images/dangerzone-old-ui.png "Old design")
 
-*Old design*
+*Above:Old design*
 
 <br>
 
 ![New design](https://raw.githubusercontent.com/Erioldoesdesign/erioldoesdesign.github.io/master/images/dangerzone-new-ui.png "New design")
 
-*New design with recommended expandable settings and drag and drop UI for files*
+*Above:New design with recommended expandable settings and drag and drop UI for files*
 
 <br>
 
 ![New design](https://raw.githubusercontent.com/Erioldoesdesign/erioldoesdesign.github.io/master/images/dangerzone-new-design-2.png "New design")
 
-*New design with clearer document options choices*
+*Above:New design with clearer document options choices*
 
 <br>
 
 These examples illustrate a simple UX/UI intervention made as part of a wider feature process UX - the original Dangerzone offered a lot of settings upfront in a mixture of choice modes (checkbox, radio, file path picker etc.) but these were often already defaulted to what Dangerzone considers optional but by showing these to users, they believed this to be a vital choice in the step to complete a 'make a document safe' process. Many users didn't know how to answer these complex choices and the most stressed user cases want to get a 'cleaned' document asap as it might contain vital news information or mission information. 
 While re-designing we decided to let users know before selecting a document that there are recommended settings they can change at any time but they are defaulted to the recommended selections. We placed these choices behind an 'expandable' ui element so that the only essential choice, the document language selection, which OCR needs in order to 'scan' the language letter forms correctly as the only choice there and defaulted to English.
-
 
 ## Team and collaboration
 
@@ -45,13 +44,13 @@ For this project, the majority of the user research had been completed to the cl
 
 ![Original Website design](https://raw.githubusercontent.com/Erioldoesdesign/erioldoesdesign.github.io/master/images/dangerzone-old-website.png "Original Website design")
 
-*Original Website design*
+*Above:Original Website design*
 
 <br>
 
 ![Early website redesign idea](https://raw.githubusercontent.com/Erioldoesdesign/erioldoesdesign.github.io/master/images/dangerzone-early-website-design.png "Early website redesign idea")
 
-*Early website redesign idea*
+*Above:Early website redesign idea*
 
 <br>
 
@@ -61,7 +60,7 @@ For the UI and UX design process myself and another team member approached a 'na
 
 ![Progress to the delivered website redesign](https://raw.githubusercontent.com/Erioldoesdesign/erioldoesdesign.github.io/master/images/dangerzone-progress-website.png "Progress to the delivered website redesign")
 
-*Progress to the delivered website redesign*
+*Above:Progress to the delivered website redesign*
 
 <br>
 
@@ -77,7 +76,7 @@ We moved towards a balance of imagery that supported a civic 'DIY' and hacker ae
 
 ![Progress to the delivered website redesign](https://raw.githubusercontent.com/Erioldoesdesign/erioldoesdesign.github.io/master/images/dangerzone-progress-website.png "Progress to the delivered website redesign")
 
-*Progress to the delivered website redesign*
+*Above:Progress to the delivered website redesign*
 
 ## What data informed this project
 
@@ -103,7 +102,7 @@ This mean't critically analysing the current UI/UX and understanding key steps t
 
 ![Early identity work](https://raw.githubusercontent.com/Erioldoesdesign/erioldoesdesign.github.io/master/images/dangerzone-early-identity-work-2.png "Early identity work")
 
-*Early identity work*
+*Above:Early identity work*
 
 
 ## What were the user needs
@@ -116,7 +115,7 @@ For a user that has time but perhaps is more cautious, processing documents acro
 
 ![Early identity work](https://raw.githubusercontent.com/Erioldoesdesign/erioldoesdesign.github.io/master/images/dangerzone-early-identity-work-1.png "Early identity work")
 
-*Early identity work*
+*Above:Early identity work*
 
 
 ## Results and outputs
@@ -133,7 +132,7 @@ After much discussion about the critical parts that users struggled with, not kn
 
 <br>
 
-*Bulk processing mode*
+*Above:Bulk processing mode*
 
 <br>
 
@@ -141,7 +140,7 @@ After much discussion about the critical parts that users struggled with, not kn
 
 <br>
 
-*View as they process mode*
+*Above:View as they process mode*
 
 <br>
 
@@ -157,7 +156,7 @@ Each of these processes begin, on opening, with a clear message onboarding users
 
 <br>
 
-*Annotating inside the design file so that the dev team can understand the user choices and rationale*
+*Above:Annotating inside the design file so that the dev team can understand the user choices and rationale*
 
 <br>
 
@@ -165,7 +164,7 @@ Each of these processes begin, on opening, with a clear message onboarding users
 
 <br>
 
-*Setting files up for clear linear progress helps when creating clickable prototypes and also for designer handover*
+*Above:Setting files up for clear linear progress helps when creating clickable prototypes and also for designer handover*
 
 <br>
 
@@ -183,7 +182,7 @@ We quickly pivoted to using the limited open stock photography of the kinds of u
 
 <br>
 
-*Delivered identity hero imagery*
+*Above:Delivered identity hero imagery*
 
 <br>
 
@@ -199,7 +198,7 @@ Alongside the final hero images in mock ups in the website I also provided exten
 
 <br>
 
-*The process of the identity hero imagery*
+*Above:The process of the identity hero imagery*
 
 <br>
 
@@ -211,7 +210,7 @@ And the team wanted to also explore some fun and light-hearted way to express th
 
 <br>
 
-*Character development for the various types of malicious software that can infect documents*
+*Above:Character development for the various types of malicious software that can infect documents*
 
 <br>
 
