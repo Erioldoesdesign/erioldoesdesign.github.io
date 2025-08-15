@@ -8,17 +8,25 @@ categories: portfolio
 
 The Dangerzone (DZ) team (part of the Freedom of the Press Foundation) approached Superbloom Design (partnered with OkThanks) via the Open Technology fund's UXD to work on improving the UI and UX of both the native application as well as the promotional/informational website.
 
+<br>
+
 ![Old design](https://raw.githubusercontent.com/Erioldoesdesign/erioldoesdesign.github.io/master/images/dangerzone-old-ui.png "Old design")
 
 *Old design*
+
+<br>
 
 ![New design](https://raw.githubusercontent.com/Erioldoesdesign/erioldoesdesign.github.io/master/images/dangerzone-new-ui.png "New design")
 
 *New design with recommended expandable settings and drag and drop UI for files*
 
+<br>
+
 ![New design](https://raw.githubusercontent.com/Erioldoesdesign/erioldoesdesign.github.io/master/images/dangerzone-new-design-2.png "New design")
 
 *New design with clearer document options choices*
+
+<br>
 
 These examples illustrate a simple UX/UI intervention made as part of a wider feature process UX - the original Dangerzone offered a lot of settings upfront in a mixture of choice modes (checkbox, radio, file path picker etc.) but these were often already defaulted to what Dangerzone considers optional but by showing these to users, they believed this to be a vital choice in the step to complete a 'make a document safe' process. Many users didn't know how to answer these complex choices and the most stressed user cases want to get a 'cleaned' document asap as it might contain vital news information or mission information. 
 While re-designing we decided to let users know before selecting a document that there are recommended settings they can change at any time but they are defaulted to the recommended selections. We placed these choices behind an 'expandable' ui element so that the only essential choice, the document language selection, which OCR needs in order to 'scan' the language letter forms correctly as the only choice there and defaulted to English.
@@ -40,11 +48,12 @@ For this project, the majority of the user research had been completed to the cl
 *Original Website design*
 
 <br>
-<br>
 
 ![Early website redesign idea](https://raw.githubusercontent.com/Erioldoesdesign/erioldoesdesign.github.io/master/images/dangerzone-early-website-design.png "Early website redesign idea")
 
 *Early website redesign idea*
+
+<br>
 
 For the UI and UX design process myself and another team member approached a 'native' OS visual at first before moving into a more refined and professional use of the core colour palette and styles. We developed alongside the UX feature design screens a design UI library and built out a flexible design system in penpot.app using components, variables, flex box and the in-built libraries. We worked mostly in high fidelity since many of the features we were building UX/UI for were already described as user stories/user needs and ready to go into the development pipeline. Also, many of the choices users make in a tool the perform a complex security process are harder to express minute balance with low fidelity wireframes. I did use plenty of sketches in my early feature design phases and especially when in discussion about technological limitations and aspirations of features and/or the tool more widely.
 
