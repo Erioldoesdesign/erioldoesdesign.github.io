@@ -57,9 +57,13 @@ For this project, the majority of the user research had been completed to the cl
 
 For the UI and UX design process myself and another team member approached a 'native' OS visual at first before moving into a more refined and professional use of the core colour palette and styles. We developed alongside the UX feature design screens a design UI library and built out a flexible design system in penpot.app using components, variables, flex box and the in-built libraries. We worked mostly in high fidelity since many of the features we were building UX/UI for were already described as user stories/user needs and ready to go into the development pipeline. Also, many of the choices users make in a tool the perform a complex security process are harder to express minute balance with low fidelity wireframes. I did use plenty of sketches in my early feature design phases and especially when in discussion about technological limitations and aspirations of features and/or the tool more widely.
 
+<br>
+
 ![Progress to the delivered website redesign](https://raw.githubusercontent.com/Erioldoesdesign/erioldoesdesign.github.io/master/images/dangerzone-progress-website.png "Progress to the delivered website redesign")
 
 *Progress to the delivered website redesign*
+
+<br>
 
 In this project we embodied the RITE methodology 'Once you find a problem, solve it as soon as you can, and make the decision makers part of the research/development team.'
 
@@ -123,24 +127,23 @@ View mode and process mode, became to two 'persona needs'.
 
 Initially the software took users down single route: open Software -> add a document (or documents but this was unclear) -> select settings for document/s -> process document -> open 'safe' document in your default document viewer.
 
-After much discussion about the critical parts that users struggled with, not knowing they could select multiple documents of the same language, not knowing exactly what the complex settings did exactly and critically, not being certain where a new 'clean' document was in relation to the old 'unsafe' document (some settings moved and renamed files and/or folders). We decided to serve our two user persona types with two 'modes'Bulk document processing and view documents as they process.
+After much discussion about the critical parts that users struggled with, not knowing they could select multiple documents of the same language, not knowing exactly what the complex settings did exactly and critically, not being certain where a new 'clean' document was in relation to the old 'unsafe' document (some settings moved and renamed files and/or folders). We decided to serve our two user persona types with two 'modes', Bulk document processing and view documents as they process.
 
-![Progress to the delivered website redesign](https://raw.githubusercontent.com/Erioldoesdesign/erioldoesdesign.github.io/master/images/dangerzone-progress-website.png "Progress to the delivered website redesign")
+![Bulk processing mode](https://raw.githubusercontent.com/Erioldoesdesign/erioldoesdesign.github.io/master/images/dangerzone-bulk-processing-mode.png "Bulk processing mode")
 
+<br>
 
-![Progress to the delivered website redesign](https://raw.githubusercontent.com/Erioldoesdesign/erioldoesdesign.github.io/master/images/dangerzone-progress-website.png "Progress to the delivered website redesign")
+*Bulk processing mode*
 
+<br>
 
-![Progress to the delivered website redesign](https://raw.githubusercontent.com/Erioldoesdesign/erioldoesdesign.github.io/master/images/dangerzone-progress-website.png "Progress to the delivered website redesign")
+![View as they process mode](https://raw.githubusercontent.com/Erioldoesdesign/erioldoesdesign.github.io/master/images/dangerzone-view-as-they-process-mode.png "View as they process mode")
 
+<br>
 
-![Progress to the delivered website redesign](https://raw.githubusercontent.com/Erioldoesdesign/erioldoesdesign.github.io/master/images/dangerzone-progress-website.png "Progress to the delivered website redesign")
+*View as they process mode*
 
-
-![Progress to the delivered website redesign](https://raw.githubusercontent.com/Erioldoesdesign/erioldoesdesign.github.io/master/images/dangerzone-progress-website.png "Progress to the delivered website redesign")
-
-
-![Progress to the delivered website redesign](https://raw.githubusercontent.com/Erioldoesdesign/erioldoesdesign.github.io/master/images/dangerzone-progress-website.png "Progress to the delivered website redesign")
+<br>
 
 In both circumstances you could switch between the two views to see the other view. But the View mode allowed a 'preview' of the document/s currently being processed so that users could do certain error recovery (like if they had select English language and the document turned out to be primarily in another language - remember the users cannot open the document to check the language given these are 'unsafe' documents with potential malware before DZ processes them). The view mode followed UI/UX patterns that common .file viewers follow such as tabs for each document being processed and mini scrollable previews along with their current OCR processing loading state.
 
@@ -148,8 +151,23 @@ The bulk processing view prioritised a 'progress' table with loading bars, pause
 
 Each of these processes begin, on opening, with a clear message onboarding users and clarifying what Dangerzone does and how it works. This then moves into a recommended settings screen (that is skippable or findable at a later date) and then into View mode or process mode.
 
-![Progress to the delivered website redesign](https://raw.githubusercontent.com/Erioldoesdesign/erioldoesdesign.github.io/master/images/dangerzone-progress-website.png "Progress to the delivered website redesign")
+<br>
 
+![Annotating inside the design file so that the dev team can understand the user choices and rationale](https://raw.githubusercontent.com/Erioldoesdesign/erioldoesdesign.github.io/master/images/dangerzone-ui-with-annotation.png "Annotating inside the design file so that the dev team can understand the user choices and rationale")
+
+<br>
+
+*Annotating inside the design file so that the dev team can understand the user choices and rationale*
+
+<br>
+
+![Setting files up for clear linear progress helps when creating clickable prototypes and also for designer handover](https://raw.githubusercontent.com/Erioldoesdesign/erioldoesdesign.github.io/master/images/dangerzone-file-set-up.png "Setting files up for clear linear progress helps when creating clickable prototypes and also for designer handover")
+
+<br>
+
+*Setting files up for clear linear progress helps when creating clickable prototypes and also for designer handover*
+
+<br>
 
 When approaching the redesign of the website for Dangerzone we centered around building an identity the appeals to 'hackers' and journalists which has high trust significance.
 
@@ -157,14 +175,45 @@ At first I focused on clean and simple visuals relying on the dangerzone 'bolt' 
 
 We quickly moved away from visuals which we too 'typical tech tool promo site' as these would not be readily trusted by users looking to avoid 'big tech surveillance'. 
 
- We quickly pivoted to using the limited open stock photography of the kinds of users we'd like to be using Dangerzone - journalists, activists and those looking to share free speech information.
+We quickly pivoted to using the limited open stock photography of the kinds of users we'd like to be using Dangerzone - journalists, activists and those looking to share free speech information.
+
+<br>
+
+![Delivered identity hero imagery](https://raw.githubusercontent.com/Erioldoesdesign/erioldoesdesign.github.io/master/images/dangerzone-hero-image.png "Delivered identity hero imagery")
+
+<br>
+
+*Delivered identity hero imagery*
+
+<br>
+
 I leaned on DIY, Zine and punk-like aesthetics when working with the photography. Distorting enough that the figure are still recognisable but they retained 'privacy' through obscuring their eyes.
 
 I also added in iconography and text from the Dangerzone tool in the hero imagery in order to soft-introduce new users into that language before using the software.
 
 Alongside the final hero images in mock ups in the website I also provided extensive documentation on how to re-create these images,
 
+<br>
+
+![DThe process of the identity hero imagery](https://raw.githubusercontent.com/Erioldoesdesign/erioldoesdesign.github.io/master/images/dangerzone-hero-image-process.png "The process of the identity hero imagery")
+
+<br>
+
+*The process of the identity hero imagery*
+
+<br>
+
 And the team wanted to also explore some fun and light-hearted way to express the risks to users through creating characters out of the common worries associated with 'infected' documents. Here you can see a spyware, document -copier and geolocation tracker characters.
+
+<br>
+
+![Character development for the various types of malicious software that can infect documents](https://raw.githubusercontent.com/Erioldoesdesign/erioldoesdesign.github.io/master/images/dangerzone-malicious-characters.png "Character development for the various types of malicious software that can infect documents")
+
+<br>
+
+*Character development for the various types of malicious software that can infect documents*
+
+<br>
 
 ## New skills
 A fully component design system built in penpot circa 2023/2024 was a great chance to build out my proficiency in component based design systems.
