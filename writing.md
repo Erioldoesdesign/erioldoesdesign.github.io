@@ -4,6 +4,12 @@ title: Writing
 permalink: /writing/
 ---
 
+### [Sustaining Open Source conversations at Devconnect ARG 2025: What are the critical conversations about OSS in the web3, decentralisation, Blockchain and crypto space?](#)
+After having 8 conversations for the Sustain OSS podcast at Devconnect ARG conference in Argentina in 2025 I have some thoughts, reflections, questions and concerns.
+
+### [2023-2025 in conferences and workshops](#)
+You can find a round up of conferences that Eriol participated in 2023 - 2025 article on LinkedIn (pending!).
+
 ### [Open Design Workshop At COSCUP 2023: Understanding Internet Shutdowns And How Design Can Improve Tools](https://superbloom.design/learning/blog/open-design-workshop-at-coscup-2023-understanding-internet-shutdowns-and-how-design-can-improve-tools/)
 An article written to summarise a workshop that myself and Abhishek Sharma gave at COSCUP 2023 that centred around internet shutdowns and the OSS technology that fights censorship circumvention from a Taiwan context. 
 
@@ -40,8 +46,8 @@ An article co-written by ngoc trieu and myself about the open source design work
 An article co-written by Kelsey Smith and myself as we worked on the [Adoptable/USABLE Tools]() project together at Superbloom.
 
 
-### [2021-2022 in conferences and workshops]()
-You can find a round up of conferences that Eriol participated in 2021 - 2022 on LinkedIn. 
+### [2021-2022 in conferences and workshops](https://www.linkedin.com/pulse/2021-2023-conferences-workshops-eriol-fox-yd1bf/)
+You can find a round up of conferences that Eriol participated in 2021 - 2022 article on LinkedIn. 
 
 
 ### [2020 in conferences and workshops](https://erioldoesdesign.github.io/article/2021/02/06/2020-in-conferences-and-workshops.html)
