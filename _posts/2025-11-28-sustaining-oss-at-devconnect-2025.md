@@ -6,7 +6,7 @@ author:
 - Eriol Fox
 ---
 
-![Photos from around the Devconnect ARG conference 2025 taken by Eriol Fox]()
+![Photos from around the Devconnect ARG conference 2025 taken by Eriol Fox](https://raw.githubusercontent.com/Erioldoesdesign/erioldoesdesign.github.io/refs/heads/master/images/devconnect-2025.jpg)
 *Photos from around the Devconnect ARG conference 2025 taken by Eriol Fox*
 
 # Sustaining Open Source conversations at Devconnect ARG 2025: What are the critical conversations about OSS in the web3, decentralisation, Blockchain and crypto space?
