@@ -4,7 +4,7 @@ title: Writing
 permalink: /writing/
 ---
 
-### [Sustaining Open Source conversations at Devconnect ARG 2025: What are the critical conversations about OSS in the web3, decentralisation, Blockchain and crypto space?](#)
+### [Sustaining Open Source conversations at Devconnect ARG 2025: What are the critical conversations about OSS in the web3, decentralisation, Blockchain and crypto space?](https://erioldoesdesign.github.io/article/2025//11/28/sustaining-oss-at-devconnect-2025.html)
 After having 8 conversations for the Sustain OSS podcast at Devconnect ARG conference in Argentina in 2025 I have some thoughts, reflections, questions and concerns.
 
 ### [2023-2025 in conferences and workshops](#)
