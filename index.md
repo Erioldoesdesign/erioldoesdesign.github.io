@@ -28,6 +28,8 @@ You can find me online as **@erioldoesdesign** on various social media and netwo
 
 ![Eriol speaking at very conferences and events](https://raw.githubusercontent.com/Erioldoesdesign/erioldoesdesign.github.io/master/images/homepage-photo-montage.png "Eriol speaking at various conferences and events")
 
+<a rel="me" href="https://hachyderm.io/@erioldoesdesign">Mastodon</a>
+
 
 
 
