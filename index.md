@@ -14,7 +14,7 @@ layout: home
 
 *This site will slowly be moving to a non-jekyll framework - apols for any downtime while this happens.*
 
-I'm currently working full-time as a Senior UX/UI designer, design researcher and OSS product manager at [Superbloom](https://superbloom.design/). Previously, I was head of design at the [Open Food Network](https://openfoodnetwork.org/), [Ushahidi](https://www.ushahidi.com/) and other apps, ecommerce and digital platforms for the last 13 years. 
+I currently work Full-Time as a Product Designer on [ESPHome](https://esphome.io/) and [Music Assistant](https://www.music-assistant.io/) at [The Open Home Foundation](https://www.openhomefoundation.org/) and I am a collective member at [Lockdown.Systems](https://lockdown.systems/). Previously, I was a Senior UX/UI designer, design researcher and OSS product manager at [Superbloom](https://superbloom.design/). I was head of design at the [Open Food Network](https://openfoodnetwork.org/), [Ushahidi](https://www.ushahidi.com/) and other apps, ecommerce and digital platforms for the last 13 years. 
 
 You can check out my [portfolio](https://erioldoesdesign.github.io/portfolio/) to view my professional design work and [drop me a message](mailto:erioldoesdesign@gmail.com) if you've got a [speaking opportunity](https://erioldoesdesign.github.io/speaking/), senior/manager design role or open source opportunity you'd like to discuss.
 
