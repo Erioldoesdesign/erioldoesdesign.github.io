@@ -19,13 +19,13 @@ The HDX project was like many other at Ushahidi but is of note due to the HDX te
 
 <br>
 
-![HDX data tagging](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/HDX3.png?raw=true "HDX data tagging")
+![HDX data tagging](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/main/images/HDX3.png?raw=true "HDX data tagging")
 
 *Above: HDX data tagging*
 
 <br>
 
-![HDX configuration](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/HDX1.png?raw=true "HDX configuration")
+![HDX configuration](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/main/images/HDX1.png?raw=true "HDX configuration")
 
 **Above: HDX configuration*
 
@@ -42,7 +42,7 @@ The HDX project was comprised of several phases:
 
 <br>
 
-![HDX exporting](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/HDX2.png?raw=true "HDX exporting")
+![HDX exporting](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/main/images/HDX2.png?raw=true "HDX exporting")
 
 **Above: HDX exporting*
 
