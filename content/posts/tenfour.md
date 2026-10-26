@@ -15,12 +15,12 @@ summary: After team members were trapped during a terrorist attack, we never wan
 
 <br>
 
-![TenFour Onboarding](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/TenFour-2.png?raw=true "TenFour Onboarding")
+![TenFour Onboarding](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/main/images/TenFour-2.png?raw=true "TenFour Onboarding")
 *Above: TenFour Onboarding*
 
 <br>
 
-![TenFour alerts](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/TenFour-1.png?raw=true "TenFour alerts")
+![TenFour alerts](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/main/images/TenFour-1.png?raw=true "TenFour alerts")
 *Above: TenFour alerts*
 
 <br>
@@ -31,7 +31,7 @@ I also took on additional duties in the Team such as product management, repo ma
 
 <br>
 
-![TenFour larger zero state](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/TenFour-3.png?raw=true "TenFour larger zero state")
+![TenFour larger zero state](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/main/images/TenFour-3.png?raw=true "TenFour larger zero state")
 
 *Above: TenFour larger zero state*
 

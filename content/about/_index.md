@@ -26,7 +26,7 @@ I was previously...
 
 Before then I worked across mobile apps, ecommerce platforms, web services/platforms and freelance since 2008.
 
-You can take a look at my Resume here in [(quick) Zine form]() and also [PDF form.]()
+You can take a look at my Resume here in [(quick) Zine form](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/main/images/Zine%20version%202.png) and also [PDF form.](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/main/images/CV-2026.pdf)
 
 <br><br>
 
@@ -36,7 +36,7 @@ I've been involved in various Open Source projects and initiatives since 2018. M
 
 My main Open Source affiliations right now are:
 
-- I am a collective member at [Lockdown.Systems](https://lockdown.systems/). Maintaining [Cyd.social]() [OnionShare]() and other tools for resisting big tech.
+- I am a collective member at [Lockdown.Systems](https://lockdown.systems/). Maintaining [Cyd.social](https://cyd.social/) [OnionShare](https://onionshare.org/) and other tools for resisting big tech.
 - A core maintainer at [Open Source Design](http://opensourcedesign.net/). Which is a community effort to advocate for design and designers contributing to OSS and OSS understanding design as a critical infrastructural need for open tech. I have helped run a [FOSDEM](https://fosdem.org/) devroom for Open Source Design since 2020.
 - Advisory council member over at [The Open Technology Fund](https://www.opentech.fund/otf-people/eriol-fox/) and [The Organization for Ethical Source (OES)](https://ethicalsource.dev/)
 - [Penpot Ambassador](https://penpot.app/ambassador-program) advocating for using OSS design tooling globally.

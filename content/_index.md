@@ -8,7 +8,7 @@ lead: "UX Product Designer with foundational User Research skills and a dedicati
 
 <br>
 
-View my 💻 [portfolio](./posts) of professional work and message if you've got a senior design role, a 🧑🏼‍🏫 [speaking/lecturing opportunity](https://sessionize.com/eriol-fox/) or open source project you'd like to discuss.
+View my 💻 [portfolio](./posts) of professional work and message if you've got a senior design role, a 🧑🏼‍🏫 [speaking/lecturing opportunity](./speaking) or open source project you'd like to discuss.
 
 🦊 [Learn about me](./about) 👔 [LinkedIn](https://www.linkedin.com/in/eriolfox/) 🐈‍⬛ [Github](https://github.com/Erioldoesdesign) 
 
