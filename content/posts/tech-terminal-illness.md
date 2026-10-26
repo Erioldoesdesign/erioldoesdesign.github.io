@@ -20,7 +20,7 @@ it difficult to remember after time had passed.
 
 <br>
 
-![AR terminal hand massage app](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/tech-terminal-1.jpeg?raw=true "AR terminal hand massage app")
+![AR terminal hand massage app](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/main/images/tech-terminal-1.jpeg?raw=true "AR terminal hand massage app")
 
 *Above: AR terminal hand massage app*
 
@@ -32,7 +32,7 @@ The second prototype was a native phone application that asked very non-invasive
 
 <br>
 
-![Carers feelings monitoring app](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/tech-terminal-2.jpeg?raw=true "Carers feelings monitoring app")
+![Carers feelings monitoring app](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/main/images/tech-terminal-2.jpeg?raw=true "Carers feelings monitoring app")
 
 *Above: Carers feelings monitoring app*
 
@@ -44,7 +44,7 @@ The third prototype was looking at how VR (virtual reality) can help patients an
 
 <br>
 
-![VR Hospice experience](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/tech-terminal-3.jpeg?raw=true "VR Hospice experience")
+![VR Hospice experience](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/main/images/tech-terminal-3.jpeg?raw=true "VR Hospice experience")
 
 *Above: VR Hospice experience*
 
@@ -60,7 +60,7 @@ The AI would also be able to step in when emergency services or other official s
 
 <br>
 
-![Talking matching app for carers](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/tech-terminal-4.jpeg?raw=true "Talking matching app for carers")
+![Talking matching app for carers](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/main/images/tech-terminal-4.jpeg?raw=true "Talking matching app for carers")
 
 *Above: Talking matching app for carers*
 

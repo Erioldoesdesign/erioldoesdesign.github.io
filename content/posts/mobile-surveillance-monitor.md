@@ -23,7 +23,7 @@ MSM needed to explore not only brand and indentity, but complex user interface d
 
 <br>
 
-![The mobile surveillance monitor website including the branding and identity work](https://raw.githubusercontent.com/Erioldoesdesign/erioldoesdesign.github.io/master/images/MSM-1-950x400.jpg "The mobile surveillance monitor website including the branding and identity work")
+![The mobile surveillance monitor website including the branding and identity work](https://raw.githubusercontent.com/Erioldoesdesign/erioldoesdesign.github.io/main/images/MSM-1-950x400.jpg "The mobile surveillance monitor website including the branding and identity work")
 
 *Above: The mobile surveillance monitor website including the branding and identity work*
 
@@ -37,7 +37,7 @@ The impact we had in this end to end design project was immense. The founder of 
 
 <br>
 
-![The MSM dashboard where users filter information around their risk](https://raw.githubusercontent.com/Erioldoesdesign/erioldoesdesign.github.io/master/images/MSM-2-950x400.jpg "The MSM dashboard where users filter information around their risk")
+![The MSM dashboard where users filter information around their risk](https://raw.githubusercontent.com/Erioldoesdesign/erioldoesdesign.github.io/main/images/MSM-2-950x400.jpg "The MSM dashboard where users filter information around their risk")
 
 *Above: The MSM dashboard where users filter information around their risk*
 
@@ -59,7 +59,7 @@ We found that users wanted to have summaries of their filters and searches based
 
 <br>
 
-![The information documentation site where users find in depth information about malware and spyware](https://raw.githubusercontent.com/Erioldoesdesign/erioldoesdesign.github.io/master/images/MSM-3-950x400.jpg "The information documentation site where users find in depth information about malware and spyware")
+![The information documentation site where users find in depth information about malware and spyware](https://raw.githubusercontent.com/Erioldoesdesign/erioldoesdesign.github.io/main/images/MSM-3-950x400.jpg "The information documentation site where users find in depth information about malware and spyware")
 
 *Above: The information documentation site where users find in depth information about malware and spyware*
 

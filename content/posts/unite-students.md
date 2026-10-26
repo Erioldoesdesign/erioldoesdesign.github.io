@@ -27,13 +27,13 @@ My main projects/responsibilities at Unite Students were:
 
 <br>
 
-![Website Homepage](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/Unite-1.jpeg?raw=true "Website Homepage")
+![Website Homepage](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/main/images/Unite-1.jpeg?raw=true "Website Homepage")
 
 *Above: Website Homepage*
 
 <br>
 
-![Chinese language website design](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/Unite-4.jpeg?raw=true "Chinese language website design")
+![Chinese language website design](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/main/images/Unite-4.jpeg?raw=true "Chinese language website design")
 
 *Above: Chinese language website design*
 
@@ -43,7 +43,7 @@ Designing and leading the development on the Chinese version of the Unite Studen
 
 <br>
 
-![Infographics and adverts](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/Unite-5.jpeg?raw=true "Infographics and adverts")
+![Infographics and adverts](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/main/images/Unite-5.jpeg?raw=true "Infographics and adverts")
 
 *Above: Infographics and adverts*
 
@@ -57,13 +57,13 @@ The software used in this role includes: the full Adobe Creative suite, Invision
 
 <br>
 
-![Digital adverts](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/Unite-2.jpeg?raw=true "Digital adverts")
+![Digital adverts](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/main/images/Unite-2.jpeg?raw=true "Digital adverts")
 
 *Above: Digital adverts*
 
 <br>
 
-![Mini site](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/Unite-3.jpeg?raw=true "Mini site")
+![Mini site](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/main/images/Unite-3.jpeg?raw=true "Mini site")
 
 *Above: Mini site*
 

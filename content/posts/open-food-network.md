@@ -17,19 +17,19 @@ summary: Giving farmers and sustainable food supply chains open and accessible t
 
 <br>
 
-![Open Food Network checkout UI high fidelty prototypes](https://raw.githubusercontent.com/Erioldoesdesign/erioldoesdesign.github.io/master/images/OFN-7-950x400.jpg "Open Food Network checkout UI high fidelty prototypes")
+![Open Food Network checkout UI high fidelty prototypes](https://raw.githubusercontent.com/Erioldoesdesign/erioldoesdesign.github.io/main/images/OFN-7-950x400.jpg "Open Food Network checkout UI high fidelty prototypes")
 
 *Above: Open Food Network checkout UI high fidelty prototypes*
 
 <br>
 
-![Open Food Network quantity and unit prices UI high fidelty prototypes](https://raw.githubusercontent.com/Erioldoesdesign/erioldoesdesign.github.io/master/images/OFN-8-950x400.jpg "Open Food Network quantity and unit prices UI high fidelty prototypes")
+![Open Food Network quantity and unit prices UI high fidelty prototypes](https://raw.githubusercontent.com/Erioldoesdesign/erioldoesdesign.github.io/main/images/OFN-8-950x400.jpg "Open Food Network quantity and unit prices UI high fidelty prototypes")
 
 *Above: Open Food Network quantity and unit prices UI high fidelty prototypes*
 
 <br>
 
-![Open Food Network quantity and unit prices admin backend](https://raw.githubusercontent.com/Erioldoesdesign/erioldoesdesign.github.io/master/images/OFN-9-950x400.jpg "Open Food Network quantity and unit prices admin backend")
+![Open Food Network quantity and unit prices admin backend](https://raw.githubusercontent.com/Erioldoesdesign/erioldoesdesign.github.io/main/images/OFN-9-950x400.jpg "Open Food Network quantity and unit prices admin backend")
 
 *Above: Open Food Network foundational user research*
 
@@ -43,13 +43,13 @@ OFN was a particularly challeging project as the global team worked tirelessly t
 
 <br>
 
-![Open Food Network foundational user research](https://raw.githubusercontent.com/Erioldoesdesign/erioldoesdesign.github.io/master/images/OFN-3-950x400.jpg "Open Food Network foundational user research")
+![Open Food Network foundational user research](https://raw.githubusercontent.com/Erioldoesdesign/erioldoesdesign.github.io/main/images/OFN-3-950x400.jpg "Open Food Network foundational user research")
 
 *Above: Open Food Network foundational user research*
 
 <br>
 
-![Open Food Network user testing](https://raw.githubusercontent.com/Erioldoesdesign/erioldoesdesign.github.io/master/images/OFN-5-950x400.jpg "Open Food Network user testing")
+![Open Food Network user testing](https://raw.githubusercontent.com/Erioldoesdesign/erioldoesdesign.github.io/main/images/OFN-5-950x400.jpg "Open Food Network user testing")
 
 *Above: Open Food Network user testing*
 
@@ -69,7 +69,7 @@ I worked as the designer at The Open Food Network for a 1 year long contract. Wo
 
 <br>
 
-![Open Food Network Audience personas](https://raw.githubusercontent.com/Erioldoesdesign/erioldoesdesign.github.io/master/images/OFN-6-950x800.jpg "Open Food Network Audience personas")
+![Open Food Network Audience personas](https://raw.githubusercontent.com/Erioldoesdesign/erioldoesdesign.github.io/main/images/OFN-6-950x800.jpg "Open Food Network Audience personas")
 
 *Above: Open Food Network Audience personas*
 
@@ -83,7 +83,7 @@ At the Open Food Network I got to put into practice a larger scale open source d
 
 <br>
 
-![Open Food Network Design team processes](https://raw.githubusercontent.com/Erioldoesdesign/erioldoesdesign.github.io/master/images/OFN-2-950x400.jpg "Open Food Network Design team processes")
+![Open Food Network Design team processes](https://raw.githubusercontent.com/Erioldoesdesign/erioldoesdesign.github.io/main/images/OFN-2-950x400.jpg "Open Food Network Design team processes")
 
 *Above: Open Food Network Design team processes*
 

@@ -21,7 +21,7 @@ The objectives of coaching are to be informed and lead by the project team membe
 
 <br>
 
-![Sketches of UI for one of the prototype fund projects](https://raw.githubusercontent.com/Erioldoesdesign/erioldoesdesign.github.io/master/images/PTF-1-950x400.jpg "Sketches of UI for one of the prototype fund projects")
+![Sketches of UI for one of the prototype fund projects](https://raw.githubusercontent.com/Erioldoesdesign/erioldoesdesign.github.io/main/images/PTF-1-950x400.jpg "Sketches of UI for one of the prototype fund projects")
 
 *Above: Sketches of UI for one of the prototype fund projects*
 
@@ -39,7 +39,7 @@ Many of our coached projects go on to speak highley of coaching as an experience
 
 <br>
 
-![An example of a coaching prep board](https://raw.githubusercontent.com/Erioldoesdesign/erioldoesdesign.github.io/master/images/PTF-2-950x400.jpg "An example of a coaching prep board")
+![An example of a coaching prep board](https://raw.githubusercontent.com/Erioldoesdesign/erioldoesdesign.github.io/main/images/PTF-2-950x400.jpg "An example of a coaching prep board")
 
 *Above: An example of a coaching prep board*
 
@@ -54,7 +54,7 @@ Many of our coached projects go on to speak highley of coaching as an experience
 
 <br>
 
-![A screenshot of open product management resources](https://raw.githubusercontent.com/Erioldoesdesign/erioldoesdesign.github.io/master/images/PTF-3-950x400.jpg "A screenshot of open product management resources")
+![A screenshot of open product management resources](https://raw.githubusercontent.com/Erioldoesdesign/erioldoesdesign.github.io/main/images/PTF-3-950x400.jpg "A screenshot of open product management resources")
 
 *Above:A screenshot of open product management resources*
 

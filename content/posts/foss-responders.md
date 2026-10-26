@@ -15,7 +15,7 @@ summary: Supporting the foss responders project by ensuring we had great visual 
 
 <br>
 
-![Foss Responders website design](https://raw.githubusercontent.com/Erioldoesdesign/erioldoesdesign.github.io/master/images/FR2.png "Foss Responders website design")
+![Foss Responders website design](https://raw.githubusercontent.com/Erioldoesdesign/erioldoesdesign.github.io/main/images/FR2.png "Foss Responders website design")
 
 *Above: Foss Responders website design*
 
@@ -25,13 +25,13 @@ Working alongside other community members in a voluntary capacity I worked on a 
 
 <br>
 
-![Foss Responders style guide/design system](https://raw.githubusercontent.com/Erioldoesdesign/erioldoesdesign.github.io/master/images/FR3.png "Foss Responders style guide/design system")
+![Foss Responders style guide/design system](https://raw.githubusercontent.com/Erioldoesdesign/erioldoesdesign.github.io/main/images/FR3.png "Foss Responders style guide/design system")
 
 *Above: Foss Responders style guide/design system*
 
 <br>
 
-![Foss Responders social event graphic](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/FR1.png?raw=true "FFoss Responders social event graphic")
+![Foss Responders social event graphic](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/main/images/FR1.png?raw=true "FFoss Responders social event graphic")
 
 *Above: Foss Responders social event graphic*
 

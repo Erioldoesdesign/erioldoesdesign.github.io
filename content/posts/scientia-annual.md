@@ -17,13 +17,13 @@ Scientia Annuals was a master brief for a print project. The project consisted o
 
 <br>
 
-![Scientia Books](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/Scientia-4.jpeg?raw=true "Scientia Books")
+![Scientia Books](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/main/images/Scientia-4.jpeg?raw=true "Scientia Books")
 
 *Above: Scientia Books*
 
 <br>
 
-![Scientia Book page spreads](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/Scientia-7.jpeg?raw=true "Scientia Book page spreads")
+![Scientia Book page spreads](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/main/images/Scientia-7.jpeg?raw=true "Scientia Book page spreads")
 *Scientia Book page spreads*
 
 <br>
@@ -34,7 +34,7 @@ The chemistry book was printed on litmus paper and encouraged the book owners to
 
 <br>
 
-![Scientia Book internals](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/Scientia-6.jpeg?raw=true "Scientia Book internals")
+![Scientia Book internals](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/main/images/Scientia-6.jpeg?raw=true "Scientia Book internals")
 
 *Above: Scientia Book internals*
 
@@ -46,7 +46,7 @@ The brand was developed by exploring visuals and ideas around science and what w
 
 <br>
 
-![Scientia brand](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/Scientia-2.jpeg?raw=true "Scientia brand")
+![Scientia brand](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/main/images/Scientia-2.jpeg?raw=true "Scientia brand")
 
 *Above: Scientia brand*
 
@@ -60,7 +60,7 @@ The software used in this project includes Adobe Illustrator, Adobe InDesign, Ad
 
 <br>
 
-![Scientia Book quote](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/Scientia-1.jpeg?raw=true "Scientia Book quote")
+![Scientia Book quote](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/main/images/Scientia-1.jpeg?raw=true "Scientia Book quote")
 
 *Above: Scientia Book quote*
 

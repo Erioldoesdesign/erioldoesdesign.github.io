@@ -21,7 +21,7 @@ The objectives of this research was to shine a light on the realities of a lesse
 
 <br>
 
-![A summary of research aims of the project](https://raw.githubusercontent.com/Erioldoesdesign/erioldoesdesign.github.io/master/images/OSSdesigners-2-950x400.jpg "A summary of research aims of the project")
+![A summary of research aims of the project](https://raw.githubusercontent.com/Erioldoesdesign/erioldoesdesign.github.io/main/images/OSSdesigners-2-950x400.jpg "A summary of research aims of the project")
 
 <br>
 
@@ -35,7 +35,7 @@ We found many institutions, and organisations were interested in teh reported ou
 
 <br>
 
-![A quote from a research participant](https://raw.githubusercontent.com/Erioldoesdesign/erioldoesdesign.github.io/master/images/OSSdesigners-3-950x400.jpg "A quote from a research participant")
+![A quote from a research participant](https://raw.githubusercontent.com/Erioldoesdesign/erioldoesdesign.github.io/main/images/OSSdesigners-3-950x400.jpg "A quote from a research participant")
 
 <br>
 
@@ -49,7 +49,7 @@ We found many institutions, and organisations were interested in teh reported ou
 
 <br>
 
-![Emergent recommendations based on the findings of the report](https://raw.githubusercontent.com/Erioldoesdesign/erioldoesdesign.github.io/master/images/OSSdesigners-5-950x400.jpg "Emergent recommendations based on the findings of the report")
+![Emergent recommendations based on the findings of the report](https://raw.githubusercontent.com/Erioldoesdesign/erioldoesdesign.github.io/main/images/OSSdesigners-5-950x400.jpg "Emergent recommendations based on the findings of the report")
 
 <br>
 

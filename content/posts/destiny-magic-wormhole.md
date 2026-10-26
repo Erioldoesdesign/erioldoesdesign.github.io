@@ -23,7 +23,7 @@ I conducted several interviews with high risk individuals across the global that
 
 <br>
 
-![Images of the Destiny tool as we conducted workshops](https://raw.githubusercontent.com/Erioldoesdesign/erioldoesdesign.github.io/master/images/destiny-1-950x400.jpg "Images of the Destiny tool as we conducted workshops")
+![Images of the Destiny tool as we conducted workshops](https://raw.githubusercontent.com/Erioldoesdesign/erioldoesdesign.github.io/main/images/destiny-1-950x400.jpg "Images of the Destiny tool as we conducted workshops")
 
 *Above: Images of the Destiny tool as we conducted workshops*
 
@@ -55,7 +55,7 @@ With Destiny I was able to further develop critical security and privacy skills 
 
 <br>
 
-![A snippet of the research report delivery to the Destiny tool team](https://raw.githubusercontent.com/Erioldoesdesign/erioldoesdesign.github.io/master/images/destiny-2-950x400.jpg "A snippet of the research report delivery to the Destiny tool team")
+![A snippet of the research report delivery to the Destiny tool team](https://raw.githubusercontent.com/Erioldoesdesign/erioldoesdesign.github.io/main/images/destiny-2-950x400.jpg "A snippet of the research report delivery to the Destiny tool team")
 
 *Above: A snippet of the research report delivery to the Destiny tool team*
 

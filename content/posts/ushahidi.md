@@ -17,7 +17,7 @@ Working at Ushahidi as a product designer and then lead designer, I worked on [U
 
 <br>
 
-![Ushahidi's platform tool: Document Hate](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/Ushahidi-1.png?raw=true "Ushahidi's platform tool: Document Hate")
+![Ushahidi's platform tool: Document Hate](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/main/images/Ushahidi-1.png?raw=true "Ushahidi's platform tool: Document Hate")
 
 *Above: Ushahidi's platform tool: Document Hate*
 
@@ -29,19 +29,19 @@ Working on the data collection tool meant within a small, remote and dispersed t
 
 <br>
 
-![Ushahidi Grassroots donation page](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/Ushahidi-4.png?raw=true "Ushahidi Grassroots donation page")
+![Ushahidi Grassroots donation page](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/main/images/Ushahidi-4.png?raw=true "Ushahidi Grassroots donation page")
 
 *Above: Ushahidi Grassroots donation page*
 
 <br>
 
-![Ushahidi Grassroots donation page continued](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/Ushahidi-3.png?raw=true "Ushahidi Grassroots donation page continued")
+![Ushahidi Grassroots donation page continued](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/main/images/Ushahidi-3.png?raw=true "Ushahidi Grassroots donation page continued")
 
 *Above: Ushahidi Grassroots donation page continued*
 
 <br>
 
-![Ushahidi illustrations](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/Ushahidi-7.png?raw=true "Ushahidi illustrations")
+![Ushahidi illustrations](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/main/images/Ushahidi-7.png?raw=true "Ushahidi illustrations")
 
 *Above: Ushahidi illustrations*
 
@@ -51,7 +51,7 @@ Designing for an open source tool where the majority of the work was tied to gra
 
 <br>
 
-![Ushahidi UI progression](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/Ushahidi-5.png?raw=true "Ushahidi UI progression")
+![Ushahidi UI progression](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/main/images/Ushahidi-5.png?raw=true "Ushahidi UI progression")
 
 *Above: Ushahidi UI progression*
 
@@ -63,7 +63,7 @@ You can take a look at some of the usertesting processes implemented at Ushahidi
 
 <br>
 
-![Ushahidi design documentation](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/Ushahidi-6.png?raw=true "
+![Ushahidi design documentation](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/main/images/Ushahidi-6.png?raw=true "
 Ushahidi design documentation")
 
 *Above: Ushahidi design documentation*

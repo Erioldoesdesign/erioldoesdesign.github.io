@@ -48,7 +48,7 @@ The HDX project was comprised of several phases:
 
 <br>
 
-![HDX confirmation](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/HDX4.png?raw=true "HDX confirmation")
+![HDX confirmation](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/main/images/HDX4.png?raw=true "HDX confirmation")
 
 **Above: HDX confirmation*
 

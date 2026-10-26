@@ -17,7 +17,7 @@ The Green Map project is a global initiative to create maps that don't rely heav
 
 <br>
 
-![Adamsdown Green Map](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/green-map-2.jpeg?raw=true "Adamsdown Green Map")
+![Adamsdown Green Map](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/main/images/green-map-2.jpeg?raw=true "Adamsdown Green Map")
 
 *Above:Adamsdown Green Map
 
@@ -29,13 +29,13 @@ I went on to create further Green Maps with organisations such as Groundwork and
 
 <br>
 
-![Green Map icons development](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/Green-map-icons-1.jpeg?raw=true "Green Map icons development")
+![Green Map icons development](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/main/images/Green-map-icons-1.jpeg?raw=true "Green Map icons development")
 
 *Above: Green Map icons development*
 
 <br>
 
-![Green Map icons](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/Green-map-icons-2.jpeg?raw=true "Green Map icons")
+![Green Map icons](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/main/images/Green-map-icons-2.jpeg?raw=true "Green Map icons")
 
 *Above:Green Map icons*
 

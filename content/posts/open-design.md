@@ -15,7 +15,7 @@ summary: A community interest, multi-stakeholder project focussed on bringing de
 
 <br>
 
-![Open Design at open up global summit 2019](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/OD-1.png?raw=true "Open Design at open up global summit 2019")
+![Open Design at open up global summit 2019](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/main/images/OD-1.png?raw=true "Open Design at open up global summit 2019")
 *Above: Open Design at open up global summit 2019*
 
 <br>
@@ -25,7 +25,7 @@ The first phase of Open Design sought to create accessible processes for designe
 
 <br>
 
-![Open Design website and brand](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/OD-6.png?raw=true "Open Design website and brand")
+![Open Design website and brand](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/main/images/OD-6.png?raw=true "Open Design website and brand")
 *Above: Open Design website and brand*
 
 <br>
@@ -36,7 +36,7 @@ In the research, planning and preparation I completed desk-based and interview r
 
 <br>
 
-![Designers for good working together](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/OD-4.png?raw=true "Designers for good working together")
+![Designers for good working together](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/main/images/OD-4.png?raw=true "Designers for good working together")
 *Above: Designers for good working together*
 
 <br>
@@ -45,7 +45,7 @@ I worked within Ushahidi's TenFour repository triaging and structuring issues in
 
 <br>
 
-![TenFour file for open source designer contributions](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/OD-2.png?raw=true "TenFour file for open source designer contributions")
+![TenFour file for open source designer contributions](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/main/images/OD-2.png?raw=true "TenFour file for open source designer contributions")
 
 *Above: TenFour file for open source designer contributions*
 
@@ -56,13 +56,13 @@ In the practical sessions, I delivered two on-site workshops in Bangalore, India
 
 <br>
 
-![Open Design at Design UP! Bangalore 2019](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/OD-7.png?raw=true "Open Design at Design UP! Bangalore 2019")
+![Open Design at Design UP! Bangalore 2019](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/main/images/OD-7.png?raw=true "Open Design at Design UP! Bangalore 2019")
 
 *Above: Open Design at Design UP! Bangalore 2019*
 
 <br>
 
-![Open Design at Open up global summit Taipei 2019](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/OD-8.png?raw=true "Open Design at Open up global summit Taipei 2019")
+![Open Design at Open up global summit Taipei 2019](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/main/images/OD-8.png?raw=true "Open Design at Open up global summit Taipei 2019")
 
 *Above: Open Design at Open up global summit Taipei 2019*
 

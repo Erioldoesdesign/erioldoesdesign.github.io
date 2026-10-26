@@ -17,7 +17,7 @@ summary: A 6 month funded project to interview people making and maintaining sci
 
 This project aimed to research and understand the current challenges of scientific and research open source software creators/maintainers across all aspects of OSS maintenance. We investigated the systemic and cultural barriers to usability work in S&ROSS and made detailed reflections and suggestions on how this can be improved across the S&ROSS ecosystem.
 
-![The USER website with our complete research report](https://raw.githubusercontent.com/Erioldoesdesign/erioldoesdesign.github.io/master/images/user-1-950x400.jpg "The USER website with our complete research report")
+![The USER website with our complete research report](https://raw.githubusercontent.com/Erioldoesdesign/erioldoesdesign.github.io/main/images/user-1-950x400.jpg "The USER website with our complete research report")
 
 *Above: The USER website with our complete research report*
 
@@ -35,7 +35,7 @@ This research also included several, hand-on workshops and visits to institution
 
 <br>
 
-![Workshop activities](https://raw.githubusercontent.com/Erioldoesdesign/erioldoesdesign.github.io/master/images/user-4-950x400.jpg "Workshop activities")
+![Workshop activities](https://raw.githubusercontent.com/Erioldoesdesign/erioldoesdesign.github.io/main/images/user-4-950x400.jpg "Workshop activities")
 
 *Above: Workshop activities*
 
@@ -54,13 +54,13 @@ This research also included several, hand-on workshops and visits to institution
 
 <br>
 
-![The USER Zines explaining complex terms](https://raw.githubusercontent.com/Erioldoesdesign/erioldoesdesign.github.io/master/images/user-2-950x400.jpg "The USER Zines explaining complex terms")
+![The USER Zines explaining complex terms](https://raw.githubusercontent.com/Erioldoesdesign/erioldoesdesign.github.io/main/images/user-2-950x400.jpg "The USER Zines explaining complex terms")
 
 *Above: The USER Zines explaining complex terms*
 
 <br>
 
-![Diagrams created for Zines](https://raw.githubusercontent.com/Erioldoesdesign/erioldoesdesign.github.io/master/images/user-3-950x400.jpg "Diagrams created for Zines")
+![Diagrams created for Zines](https://raw.githubusercontent.com/Erioldoesdesign/erioldoesdesign.github.io/main/images/user-3-950x400.jpg "Diagrams created for Zines")
 
 *Above: Diagrams created for Zines*
 

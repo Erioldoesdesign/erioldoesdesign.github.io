@@ -15,7 +15,7 @@ Dispatcher was an incubation project at Ushahidi to build a product that helped 
 
 <br>
 
-![Crisis lifecycle illustration](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/Dispatcher-6.png?raw=true "Crisis lifecycle illustration")
+![Crisis lifecycle illustration](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/main/images/Dispatcher-6.png?raw=true "Crisis lifecycle illustration")
 
 *Above: Crisis lifecycle illustration*
 
@@ -25,13 +25,13 @@ Over the course of 4 months a small team within Ushahidi designed, tested, devel
 
 <br>
 
-![Dispatcher MVP details](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/Dispatcher-5.png?raw=true "Dispatcher MVP details")
+![Dispatcher MVP details](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/main/images/Dispatcher-5.png?raw=true "Dispatcher MVP details")
 
 *Above: Dispatcher MVP details*
 
 <br>
 
-![Dispatcher MVP details](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/Dispatcher-4.png?raw=true "Dispatcher MVP details")
+![Dispatcher MVP details](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/main/images/Dispatcher-4.png?raw=true "Dispatcher MVP details")
 
 *Above: Dispatcher MVP details*
 
@@ -49,24 +49,24 @@ I shared the design role on Dispatcher with a colleague and I focused on the pro
 
 <br>
 
-![User testers with dispatcher](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/Dispatcher-1.png?raw=true "User testers with dispatcher")
+![User testers with dispatcher](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/main/images/Dispatcher-1.png?raw=true "User testers with dispatcher")
 
 *Above: User testers with dispatcher*
 
 <br>
 
-![Interviewing community members for dispatcher](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/Dispatcher-2.png?raw=true "Interviewing community members for dispatcher")
+![Interviewing community members for dispatcher](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/main/images/Dispatcher-2.png?raw=true "Interviewing community members for dispatcher")
 **Above: Interviewing community members for dispatcher*
 
 <br>
 
-![Synthesis of dispatcher results](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/Dispatcher-3.png?raw=true "Synthesis of dispatcher results")
+![Synthesis of dispatcher results](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/main/images/Dispatcher-3.png?raw=true "Synthesis of dispatcher results")
 **Above: Synthesis of dispatcher results*
 
 <br>
 
 At the end of the project, we produced a report to our funders and devised several talks and workshops around the subject of designing for people in crisis.
 
-[Read the report here](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/Dispatcher-report-June-2019-copy.pdf)
+[Read the report here](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/main/images/Dispatcher-report-June-2019-copy.pdf)
 
 <br>

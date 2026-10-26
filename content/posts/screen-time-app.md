@@ -25,7 +25,7 @@ My main projects/responsibilities at Screen Time were:
 
 <br>
 
-![App Screens](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/screentime-2.jpeg?raw=true "App Screens")
+![App Screens](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/main/images/screentime-2.jpeg?raw=true "App Screens")
 
 *Above: App Screens*
 
@@ -39,7 +39,7 @@ During my time at Screen Time I helped improve quality of impressions, customer 
 
 <br>
 
-![Install animation](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/installs-5.gif?raw=true "Install animation")
+![Install animation](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/main/images/installs-5.gif?raw=true "Install animation")
 
 *Above: Install animation*
 
@@ -49,7 +49,7 @@ The software used in this role includes: the full Adobe Creative suite, Invision
 
 <br>
 
-![ScreenTime workflows](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/screentime-1.jpeg?raw=true "ScreenTime workflows")
+![ScreenTime workflows](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/main/images/screentime-1.jpeg?raw=true "ScreenTime workflows")
 
 *Above: ScreenTime workflows*
 

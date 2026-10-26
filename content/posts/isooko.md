@@ -17,7 +17,7 @@ Isooko is a funded consortium project where Ushahidi was the technology partner 
 
 <br>
 
-![User personas](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/Isooko-2.png?raw=true "User personas")
+![User personas](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/main/images/Isooko-2.png?raw=true "User personas")
 
 *Above: User personas*
 
@@ -29,13 +29,13 @@ My role as designer at Ushahidi was to help work with the living labs methodolog
 
 <br>
 
-![Isooko workshop](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/Isooko-3.png?raw=true "Isooko workshop")
+![Isooko workshop](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/main/images/Isooko-3.png?raw=true "Isooko workshop")
 
 *Above:  Isooko workshop*
 
 <br>
 
-![Isooko workshop](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/Isooko-5.png?raw=true "Isooko workshop")
+![Isooko workshop](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/main/images/Isooko-5.png?raw=true "Isooko workshop")
 
 *Above: Isooko workshop*
 
@@ -54,13 +54,13 @@ The Isooko project taught me a great deal about how to work with seemingly banal
 
 <br>
 
-![User journey map](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/Isooko-1.png?raw=true "User journey map")
+![User journey map](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/main/images/Isooko-1.png?raw=true "User journey map")
 
 *Above: User journey map*
 
 <br>
 
-![Rapid prototypes](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/master/images/Isooko-4.png?raw=true "Rapid prototypes")
+![Rapid prototypes](https://github.com/Erioldoesdesign/erioldoesdesign.github.io/blob/main/images/Isooko-4.png?raw=true "Rapid prototypes")
 
 *Above: Rapid prototypes*
 

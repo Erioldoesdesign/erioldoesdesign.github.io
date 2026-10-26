@@ -21,7 +21,7 @@ This project describes some of the iterative UX and UI improvements to Music Ass
 
 <br>
 
-![Early ideas on how to improve the page that shows what audio is playing right now. This also shows a snippet of the detailed user feedback that I keep stored in the design files for quick reference](https://raw.githubusercontent.com/Erioldoesdesign/erioldoesdesign.github.io/master/images/musicassistant-1.png "Early ideas on how to improve the page that shows what audio is playing right now. This also shows a snippet of the detailed user feedback that I keep stored in the design files for quick reference")
+![Early ideas on how to improve the page that shows what audio is playing right now. This also shows a snippet of the detailed user feedback that I keep stored in the design files for quick reference](https://raw.githubusercontent.com/Erioldoesdesign/erioldoesdesign.github.io/main/images/musicassistant-1.png "Early ideas on how to improve the page that shows what audio is playing right now. This also shows a snippet of the detailed user feedback that I keep stored in the design files for quick reference")
 
 *Above: Early ideas on how to improve the page that shows what audio is playing right now. This also shows a snippet of the detailed user feedback that I keep stored in the design files for quick reference*
 
@@ -35,7 +35,7 @@ Music Assistant, like many tools and technology that starts out as a ['scratch y
 
 Music Assistant is leaning into a 'Smart Home Enthusiast' user. One that has time, abilitya nd interested in 'tinkering' around with settings, features, set-up and updating. As such many of the feature improvements focus on these power users while still hoping that non-power users find their own way. My personal goal as a usability and human centered designer was to improve new user accessibility and usability with every design iteration.
 
-![Example of a stakeholder meeting outputs where I gathered all perspectives and constraints](https://raw.githubusercontent.com/Erioldoesdesign/erioldoesdesign.github.io/master/images/musicassistant-drawer-1.png "Example of a stakeholder meeting outputs where I gathered all perspectives and constraints")
+![Example of a stakeholder meeting outputs where I gathered all perspectives and constraints](https://raw.githubusercontent.com/Erioldoesdesign/erioldoesdesign.github.io/main/images/musicassistant-drawer-1.png "Example of a stakeholder meeting outputs where I gathered all perspectives and constraints")
 
 *Above: Example of a stakeholder meeting outputs where I gathered all perspectives and constraints*
 
@@ -88,13 +88,13 @@ Don't stop the music was a feature that had a function twin. There were two feat
 
 <br>
 
-![Sketches of don't stop the music improvements](https://raw.githubusercontent.com/Erioldoesdesign/erioldoesdesign.github.io/master/images/musicassistant-autoplay-1.png "Sketches of don't stop the music improvements")
+![Sketches of don't stop the music improvements](https://raw.githubusercontent.com/Erioldoesdesign/erioldoesdesign.github.io/main/images/musicassistant-autoplay-1.png "Sketches of don't stop the music improvements")
 
 *Above: Sketches of don't stop the music improvements*
 
 <br>
 
-![The mental map of 'don't stop the music' from a user pov](https://raw.githubusercontent.com/Erioldoesdesign/erioldoesdesign.github.io/master/images/musicassistant-autoplay-2.png "The mental map of 'don't stop the music' from a user pov")
+![The mental map of 'don't stop the music' from a user pov](https://raw.githubusercontent.com/Erioldoesdesign/erioldoesdesign.github.io/main/images/musicassistant-autoplay-2.png "The mental map of 'don't stop the music' from a user pov")
 
 *Above: The mental map of 'don't stop the music' from a user pov*
 
@@ -104,13 +104,13 @@ A first simple phase focused on the visual design, from icons, colours and anima
 
 <br>
 
-![Early visual design ideas for autoplay](https://raw.githubusercontent.com/Erioldoesdesign/erioldoesdesign.github.io/master/images/musicassistant-autoplay-3.png "Early visual design ideas for autoplay")
+![Early visual design ideas for autoplay](https://raw.githubusercontent.com/Erioldoesdesign/erioldoesdesign.github.io/main/images/musicassistant-autoplay-3.png "Early visual design ideas for autoplay")
 
 *Above: Early visual design ideas for autoplay*
 
 <br>
 
-![Implementation close UX/UI design ideas for autoplay](https://raw.githubusercontent.com/Erioldoesdesign/erioldoesdesign.github.io/master/images/musicassistant-autoplay-4.png "Implementation close UX/UI design ideas for autoplay")
+![Implementation close UX/UI design ideas for autoplay](https://raw.githubusercontent.com/Erioldoesdesign/erioldoesdesign.github.io/main/images/musicassistant-autoplay-4.png "Implementation close UX/UI design ideas for autoplay")
 
 *Above: Implementation close UX/UI design ideas for autoplay*
 
@@ -126,7 +126,7 @@ The main UX issue here was the way of viewing, editing, grouping, deleting, rena
 
 <br>
 
-![Early visual design ideas for the individual speaker section within the drawer.](https://raw.githubusercontent.com/Erioldoesdesign/erioldoesdesign.github.io/master/images/musicassistant-drawer-2.png "Early visual design ideas for the individual speaker section within the drawer.")
+![Early visual design ideas for the individual speaker section within the drawer.](https://raw.githubusercontent.com/Erioldoesdesign/erioldoesdesign.github.io/main/images/musicassistant-drawer-2.png "Early visual design ideas for the individual speaker section within the drawer.")
 
 *Above: Early visual design ideas for the individual speaker section within the drawer.*
 
@@ -136,7 +136,7 @@ Much of the early design work was focused on isolating the essential operations 
 
 <br>
 
-![Finding layouts that optimise available screen size and don't default to the smallest mobile view if more space is available for users](https://raw.githubusercontent.com/Erioldoesdesign/erioldoesdesign.github.io/master/images/musicassistant-drawer-3.png "Finding layouts that optimise available screen size and don't default to the smallest mobile view if more space is available for users")
+![Finding layouts that optimise available screen size and don't default to the smallest mobile view if more space is available for users](https://raw.githubusercontent.com/Erioldoesdesign/erioldoesdesign.github.io/main/images/musicassistant-drawer-3.png "Finding layouts that optimise available screen size and don't default to the smallest mobile view if more space is available for users")
 
 *Above: Finding layouts that optimise available screen size and don't default to the smallest mobile view if more space is available for users*
 
@@ -146,7 +146,7 @@ I worked on moving functions to other nearby UI, like the 'now playing bar' alon
 
 <br>
 
-![Clear sectioning of the speaker overview UI where we cwanted to ensure a clear hierarchy of playing, idle and sleeping smart speakers.](https://raw.githubusercontent.com/Erioldoesdesign/erioldoesdesign.github.io/master/images/musicassistant-drawer-4.png "Clear sectioning of the speaker overview UI where we cwanted to ensure a clear hierarchy of playing, idle and sleeping smart speakers.")
+![Clear sectioning of the speaker overview UI where we cwanted to ensure a clear hierarchy of playing, idle and sleeping smart speakers.](https://raw.githubusercontent.com/Erioldoesdesign/erioldoesdesign.github.io/main/images/musicassistant-drawer-4.png "Clear sectioning of the speaker overview UI where we cwanted to ensure a clear hierarchy of playing, idle and sleeping smart speakers.")
 
 *Above: Clear sectioning of the speaker overview UI where we cwanted to ensure a clear hierarchy of playing, idle and sleeping smart speakers.*
 
@@ -154,7 +154,7 @@ I worked on moving functions to other nearby UI, like the 'now playing bar' alon
 
 <br>
 
-![A snapshot of the three right hand menu options on the play now bar with contextual to the smart speaker icons to enable quick user recognition.](https://raw.githubusercontent.com/Erioldoesdesign/erioldoesdesign.github.io/master/images/musicassistant-drawer-5.png "A snapshot of the three right hand menu options on the play now bar with contextual to the smart speaker icons to enable quick user recognition")
+![A snapshot of the three right hand menu options on the play now bar with contextual to the smart speaker icons to enable quick user recognition.](https://raw.githubusercontent.com/Erioldoesdesign/erioldoesdesign.github.io/main/images/musicassistant-drawer-5.png "A snapshot of the three right hand menu options on the play now bar with contextual to the smart speaker icons to enable quick user recognition")
 
 *Above: A snapshot of the three right hand menu options on the play now bar with contextual to the smart speaker icons to enable quick user recognition.*
 

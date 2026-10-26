@@ -19,7 +19,7 @@ Maintaining an OSS community comes with it's challenges. The project has a decen
 
 <br>
 
-![An image from the design and UX clinic that I help organise and participate in as part of OSD](https://raw.githubusercontent.com/Erioldoesdesign/erioldoesdesign.github.io/master/images/OSD-net-1-950x400.jpg "An image from the design and UX clinic that I help organise and participate in as part of OSD")
+![An image from the design and UX clinic that I help organise and participate in as part of OSD](https://raw.githubusercontent.com/Erioldoesdesign/erioldoesdesign.github.io/main/images/OSD-net-1-950x400.jpg "An image from the design and UX clinic that I help organise and participate in as part of OSD")
 
 *Above:An image from the design and UX clinic that I help organise and participate in as part of OSD.*
 
@@ -48,13 +48,13 @@ Maintainance duties include:
 
 <br>
 
-![Our jobs site that is maintained by myself and other volunteers](https://raw.githubusercontent.com/Erioldoesdesign/erioldoesdesign.github.io/master/images/OSD-net-2-950x400.jpg "Our jobs site that is maintained by myself and other volunteers")
+![Our jobs site that is maintained by myself and other volunteers](https://raw.githubusercontent.com/Erioldoesdesign/erioldoesdesign.github.io/main/images/OSD-net-2-950x400.jpg "Our jobs site that is maintained by myself and other volunteers")
 
 *Above:Our jobs site that is maintained by myself and other volunteers*
 
 <br>
 
-![The maintainance work that I do on our jobs list which includes making sure jobs are still active and relevant to OSS projects](https://raw.githubusercontent.com/Erioldoesdesign/erioldoesdesign.github.io/master/images/OSD-net-3-950x400.jpg "The maintainance work that I do on our jobs list which includes making sure jobs are still active and relevant to OSS projects")
+![The maintainance work that I do on our jobs list which includes making sure jobs are still active and relevant to OSS projects](https://raw.githubusercontent.com/Erioldoesdesign/erioldoesdesign.github.io/main/images/OSD-net-3-950x400.jpg "The maintainance work that I do on our jobs list which includes making sure jobs are still active and relevant to OSS projects")
 
 *Above:The maintainance work that I do on our jobs list which includes making sure jobs are still active and relevant to OSS projects*
 
