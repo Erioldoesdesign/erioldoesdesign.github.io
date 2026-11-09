@@ -13,12 +13,6 @@ body {
 
 }
 
-@media screen and (max-width: 900px) {
-    body, main {
-        background-color: var(--bg-color) !important;
-    }
-}
-
 body, main {
   height: 100%;
   font-family: 'Redaction 35', sans-serif !important;
@@ -27,6 +21,12 @@ body, main {
   font-size: .95em;
   font-weight: normal;
   color: var(--font-color) !important;
+}
+
+@media screen and (max-width: 900px) {
+    body, main {
+        background-color: var(--bg-color) !important;
+    }
 }
 
 ::selection {
